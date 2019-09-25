@@ -8799,14 +8799,14 @@
     "image": "assets/img/items/N120.jpeg",
     "description": "<P>       These are wide faced wire wheel brushes for your bench grinders. They are made from #70 carbon steel wire, then copper plated. They have 1-1/4\" arbors and there are five adaptors ranging from 1/2\", 5/8\", 3/4 \", 7/8\", and 1\" to fit almost any size shaft.  </P> <P>      These are commonly used to polish steel, brass, and copper products and can be used to ready any metal surface for welding, soldering, or painting.  Maximum RPM: 4,500 RPM. IMPORTED </P>"
   },
-    {
-      "class": "15",
-      "category": "Abrasives",
-      "item_no": "N12MC",
-      "item": "NORTON METAL CUTOFF - 12\" X 1/8\" X 1\"",
-      "image": "assets/img/items/N14MC.JPG",
-      "description": "<P>       Norton cut-off wheels consist of Type 01, straight, and type 27, depressed center, cut-off wheels from 4\" to 14\" in diameter. They are ultra thin for quick burn-free and burr-free cutting and are reinforced for demanding, portable cutting in sheet metal, pipe, metal plate and metal fabrication. </P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/norton.jpg\"></CENTER>"
-    },
+  {
+    "class": "15",
+    "category": "Abrasives",
+    "item_no": "N12MC",
+    "item": "NORTON METAL CUTOFF - 12\" X 1/8\" X 1\"",
+    "image": "assets/img/items/N14MC.JPG",
+    "description": "<P>       Norton cut-off wheels consist of Type 01, straight, and type 27, depressed center, cut-off wheels from 4\" to 14\" in diameter. They are ultra thin for quick burn-free and burr-free cutting and are reinforced for demanding, portable cutting in sheet metal, pipe, metal plate and metal fabrication. </P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/norton.jpg\"></CENTER>"
+  },
   {
     "class": "15",
     "category": "Abrasives",
@@ -9175,7 +9175,7 @@
     "image": "assets/img/items/NGW412.JPG",
     "description": "<P>      Norton depressed center metal grinding wheels are the best choice for steel and ferrous metal applications. These wheels feature a popular aluminum oxide starting specification where good performance at a low price is desired.</P> <P>       They are available with a 7/8\" reinforced arbor to be used with the grinder's flange, or a 5/8\"-11 threaded arbor to spin right on to the grinder's spindle.</P><br><b>Specifications:</b><li>Size: 5\" x 1/4\" x 5/8-11\"</li><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/norton.jpg\"></CENTER>"
   },
-    {
+  {
     "class": "15",
     "category": "Abrasives",
     "item_no": "NGW6",
@@ -16802,6 +16802,14 @@
   {
     "class": "24",
     "category": "Hose Products Air, Weld, Water",
+    "item_no": "38675",
+    "item": "MILLENIUM AIR HOSE - 3/8\" x 75' - CONTINENTAL",
+    "image": "assets/img/items/385.jpeg",
+    "description": "<P>         Continental's new 'Millennium' air hose is a high visibility black Pliovic air hose that has a bright yellow stripe along the jacket. You can almost see it in the dark!</P> <P>             This is the same quality hose Continental&reg; has always produced; double reinforced 300 PSI working pressure and a 1200 PSI bursting pressure. They have a vinyl hose guard on one end to prevent the coupling from splitting off the hose. </P> <P>        This hose is also used for pneumatic machinery, spray solutions, and a lot of other multi purpose applications and is weather and abrasion resistant. USA Made.</P>"
+  },
+  {
+    "class": "24",
+    "category": "Hose Products Air, Weld, Water",
     "item_no": "387",
     "item": "MILLENIUM AIR HOSE - 3/8\" x 100' - CONTINENTAL",
     "image": "assets/img/items/385.jpeg",
@@ -16814,22 +16822,6 @@
     "item": "BLUE PLIOVIC AIR HOSE - 3/8\" x 25' - CONTINENTAL",
     "image": "assets/img/items/389.jpeg",
     "description": "<P>          This is the blue pliovic air hose made by Goodyear&reg;. It is a 300 PSI air hose that can withstand the greatest abuse. It is resistant to oil, gas, heat and anti-freeze. It also stays flexible in the sun or all the way down to minus 40&deg;. </P> <P>        This is the best and newest hose developed by Goodyear&reg;, the leading manufacturer of air hoses. They have the standard 1/4\" male fittings on each end. USA made.</P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
-    "item_no": "390",
-    "item": "ORANGE PLIOVIC AIR HOSE - 3/8\" x 35' - CONTINENTAL",
-    "image": "assets/img/items/390.jpeg",
-    "description": "<P>          This is the orange safety air hose from Goodyear&reg; featuring a 300 PSI working pressure and a 1200 PSI bursting pressure. The pliovic construction makes it much lighter than traditional rubber air hose however the downside is that it does get a little stiff in cold weather so it should be used indoors in the shop as opposed to outside in the cold. </P> <P>          These hoses are gas and oil resistant, and have the standard 1/4\" male fittings on each end. USA Made. </P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
-    "item_no": "391",
-    "item": "ORANGE PLIOVIC AIR HOSE - 3/8\" x 25' - CONTINENTAL",
-    "image": "assets/img/items/390.jpeg",
-    "description": "<P>          This is the orange safety air hose from Goodyear&reg; featuring a 300 PSI working pressure and a 1200 PSI bursting pressure. The pliovic construction makes it much lighter than traditional rubber air hose however the downside is that it does get a little stiff in cold weather so it should be used indoors in the shop as opposed to outside in the cold. </P> <P>          These hoses are gas and oil resistant, and have the standard 1/4\" male fittings on each end. USA Made. </P>"
   },
   {
     "class": "24",
@@ -16870,14 +16862,6 @@
     "item": "BLUE PLIOVIC AIR HOSE - 3/8\" x 100' - TRU-FLEX",
     "image": "assets/img/items/402.jpeg",
     "description": "<P>    These air hoses feature a Pliovic coating, (Reticulated Polyvinyl Chloride) that makes it resistant to grease, acids, oils, abrasion and other materials that can corrode standard rubber hoses.  </P> <P>    Pliovic hose has a working pressure of 250 PSI and a bursting pressure of 1200 PSI. The 3/8\" hoses have standard 1/4\" male fittings. USA Made.</P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
-    "item_no": "399",
-    "item": "BLUE PLIOVIC AIR HOSE - 3/8\" x 300' - CONTINENTAL",
-    "image": "assets/img/items/402.jpeg",
-    "description": "<P>    These air hoses feature a Pliovic coating, (Reticulated Polyvinyl Chloride) that makes it resistant to grease, acids, oils, abrasion and other materials that can corrode standard rubber hoses. </P> <P>    Pliovic hose has a working pressure of 250 PSI and a bursting pressure of 1200 PSI. The 3/8\" hoses have standard 1/4\" male fittings. USA Made.</P>"
   },
   {
     "class": "24",
@@ -16966,14 +16950,6 @@
     "item": "SPRAY NOZZLE - 5-1/2\" ADJUSTABLE PROFESSIONAL",
     "image": "assets/img/items/739.JPG",
     "description": "<P>    This spray nozzle fits any standard hose with 5/8\" npt fittings. It is 5-1/2\" long and features a large, die-cast zinc body, a brass stem and nut, fiberglass reinforced nylon handle with an insulated grip to protect hand. </P> <P>     It also has a steel ring at the top that can be flipped over to keep nozzle in the 'on' position for less user fatigue.</P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
-    "item_no": "795",
-    "item": "AIR FILTER REGULATOR - SINGLE UNIT",
-    "image": "assets/img/items/795.JPG",
-    "description": "<P>   This single unit regulator monitors the filter attached to an air compressor and takes moisture out of the air that runs through the air hose line.</P>"
   },
   {
     "class": "24",
@@ -17258,14 +17234,6 @@
   {
     "class": "24",
     "category": "Hose Products Air, Weld, Water",
-    "item_no": "402R100",
-    "item": "RED RUBBER AIR HOSE - 1/2\" x 100' x 3/8\" FITTINGS",
-    "image": "assets/img/items/401R.jpeg",
-    "description": "<P>       This is the famous red rubber air hose made by Goodyear&reg;. It is 450 PSI air hose that can withstand the greatest of abuse in shops and garages. These hoses are 1/2\" ID and feature a 2 ply inside reinforcing and a 2 ply Goodyear rubber jacket.</P> <P>      Unlike the Pliovic air hose, this tough red rubber air hose will not get pin holes associated with welding splatter. It is oil resistant and each end has the 3/8\" male brass fittings.</P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
     "item_no": "402R10012",
     "item": "AIR HOSE - RED RUBBER - 1/2\" x 100' x 1/2\" FITTINGS",
     "image": "assets/img/items/401R.jpeg",
@@ -17372,14 +17340,6 @@
     "category": "Hose Products Air, Weld, Water",
     "item_no": "AHY100",
     "item": "YELLOW PLIOVIC AIR HOSE - 3/8\" x 100' - TRU-FLEX",
-    "image": "assets/img/items/AHY25.jpeg",
-    "description": "<P>    These air hoses feature a Pliovic coating, (Reticulated Polyvinyl Chloride) that makes it resistant to grease, acids, oils, abrasion and other materials that can corrode standard rubber hoses.  </P> <P>    Pliovic hose has a working pressure of 250 PSI and a bursting pressure of 1200 PSI. The 3/8\" hoses have standard 1/4\" male fittings. USA Made.</P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
-    "item_no": "AHY25",
-    "item": "YELLOW PLIOVIC AIR HOSE - 3/8\" x 25' - TRU-FLEX",
     "image": "assets/img/items/AHY25.jpeg",
     "description": "<P>    These air hoses feature a Pliovic coating, (Reticulated Polyvinyl Chloride) that makes it resistant to grease, acids, oils, abrasion and other materials that can corrode standard rubber hoses.  </P> <P>    Pliovic hose has a working pressure of 250 PSI and a bursting pressure of 1200 PSI. The 3/8\" hoses have standard 1/4\" male fittings. USA Made.</P>"
   },
@@ -17522,50 +17482,10 @@
   {
     "class": "24",
     "category": "Hose Products Air, Weld, Water",
-    "item_no": "N100",
-    "item": "WELDING HOSE REEL W/HOSE - 1/4\" x 50'",
-    "image": "assets/img/items/N100.jpeg",
-    "description": "<P>     If you have air hose reels, you know how great it is to have your hoses up off the floor; they stay cleaner and you will need fewer replacements, so you save a lot of money and hassles.  </P> <P>     These welding hose reels work the same. You can mount them on a wall, the ceiling, or on any mobile structure and your problems with welding hose punctures, splits, and pin holes are greatly reduced. </P> <P>     These are a 50' capacity, with the same retrieval rate as air hose reels and they come with all the necessary mounting hardware and connectors.  </P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
-    "item_no": "N14100IF",
-    "item": "IRONFLEX BRAIDED AIR HOSE -  1/4\" x 100' - NEIKO",
-    "image": "assets/img/items/N3850IF.jpeg",
-    "description": "<P>                This air hose is lighter and more flexible than bulky rubber air hoses of the same length and diameter. It is extra tough to resist oil and abrasion and is super light weight, making it great for elevated air hose applications.        </P> <P>       This hose will coil effortlessly and has a working pressure of 200 PSI, and a burst pressure of 700 PSI.  Not recommended for cold weather areas in 0&deg; or lower. Imported.</P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
-    "item_no": "N1425IF",
-    "item": "IRONFLEX BRAIDED AIR HOSE - 1/4\" x 25' - NEIKO",
-    "image": "assets/img/items/N3850IF.jpeg",
-    "description": "<P>        This hose is 'cold weather friendly' and will coil effortlessly into a loop in sub-zero weather, to minus 20&deg;. It has a working pressure of 200 PSI, and a burst pressure of 800 PSI. </P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
-    "item_no": "N1450IF",
-    "item": "IRONFLEX BRAIDED AIR HOSE - 1/4\" x 50'  - NEIKO",
-    "image": "assets/img/items/N3850IF.jpeg",
-    "description": "<P>                This air hose is lighter and more flexible than bulky rubber air hoses of the same length and diameter. It is extra tough to resist oil and abrasion and is super light weight, making it great for elevated air hose applications.        </P> <P>       This hose will coil effortlessly and has a working pressure of 200 PSI, and a burst pressure of 700 PSI.  Has standard 1/4\" threaded fittings. Not recommended for cold weather areas in 0&deg; or lower. Imported.</P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
-    "item_no": "N38100IF",
-    "item": "IRONFLEX BRAIDED AIR HOSE - 3/8\" x 100' - NEIKO",
-    "image": "assets/img/items/N3850IF.jpeg",
-    "description": "<P>                This air hose is lighter and more flexible than bulky rubber air hoses of the same length and diameter. It is extra tough to resist oil and abrasion and is super light weight, making it great for elevated air hose applications.        </P> <P>       This hose will coil effortlessly and has a working pressure of 200 PSI, and a burst pressure of 700 PSI.  Not recommended for cold weather areas in 0&deg; or lower. Imported.</P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
-    "item_no": "N3850IF",
-    "item": "IRONFLEX BRAIDED AIR HOSE - 3/8\" x 50' - NEIKO",
-    "image": "assets/img/items/N3850IF.jpeg",
-    "description": "<P>                This air hose is lighter and more flexible than bulky rubber air hoses of the same length and diameter. It is extra tough to resist oil and abrasion and is super light weight, making it great for elevated air hose applications.        </P> <P>       This hose will coil effortlessly and has a working pressure of 200 PSI, and a burst pressure of 700 PSI.  Not recommended for cold weather areas in 0&deg; or lower. Imported.</P>"
+    "item_no": "H3850",
+    "item": "AIR HOSE - HYBRID ORANGE 3/8\" x 50\"",
+    "image": "assets/img/items/H3850_O.jpeg",
+    "description": "<P>The new Hybrid Orange Air Hose is a unique hose blend that combines the best qualities of both rubber and pliovic (PVC) hose. It offers the pliability of rubber with the toughness of PVC.</P><P>This hose is oil and weather resistance, flexible, lightweight and strong. They are tangle free 50\" lengths with 1/4\" NPT fittings and end protectors. They have a 300 PSI working pressure, 900 PSI burst pressure and a temperature rating of -22&deg; F to 176&deg; F. Imported. (This is not a goodyear product).</P>"
   },
   {
     "class": "24",
@@ -17582,14 +17502,6 @@
     "item": "RECOIL AIR HOSE - 3/8\" x 25' BLUE",
     "image": "assets/img/items/RH38.JPG",
     "description": "<P>    These blue Polyurethane, coil air hoses are high tensile, low deformation rated air lines that really take the abuse of a fast paced, production shop.</P> <P>    They are weatherproof to minus 40&deg; with a working pressure of 100 PSI and a maximum working pressure of 250 PSI. The 3/8\" brass ends have the vinyl guards so the stress at the connection point is minimal and they'll hold up to constant pressure and give you years of use. Imported.</P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
-    "item_no": "RH3825Y",
-    "item": "RECOIL AIR HOSE - 3/8\" x 25' YELLOW",
-    "image": "assets/img/items/405.jpeg",
-    "description": "<P>         This hose is self-storing, permanently coiled nylon air hose with a 200 PSI working pressure and spring guarded ends to prevent kinking. This hose springs back to its original shape and length and out of the way so it is great for assembly line work. </P> <P>       It is constructed of heavy duty, oil proof nylon and has 3/8\" NPT fittings on each end.  Import. </P>"
   },
   {
     "class": "24",
@@ -17674,18 +17586,50 @@
   {
     "class": "24",
     "category": "Hose Products Air, Weld, Water",
-    "item_no": "WHB25",
-    "item": "WATER HOSE - BLUE PLIOVIC - 3/4\" x 25'",
-    "image": "assets/img/items/WHB50.jpeg",
-    "description": "<P>     This is heavy duty, blue Pliovic water hose rated at 1000 PSI  bursting pressure. This hose is very tough and wont crack or break like the cheap hoses do.  </P> <P>      It is extremely flexible and resists oil, and abrasions. This will not leave marks like the rubber hose will and it is OSHA APPROVED.</P>"
+    "item_no": "V1425",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 1/4\" x 25' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
   },
   {
     "class": "24",
     "category": "Hose Products Air, Weld, Water",
-    "item_no": "WHB50",
-    "item": "WATER HOSE -  3/4\" x 50'",
-    "image": "assets/img/items/WHB50.jpeg",
-    "description": "<P>     This is heavy duty, blue Pliovic water hose rated at 1000 PSI  bursting pressure. This hose is very tough and wont crack or break like the cheap hoses do.  </P> <P>      It is extremely flexible and resists oil, and abrasions. This will not leave marks like the rubber hose will and it is OSHA APPROVED.</P>"
+    "item_no": "V1450",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 1/4\" x 50' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
+  },
+  {
+    "class": "24",
+    "category": "Hose Products Air, Weld, Water",
+    "item_no": "V14100",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 1/4\" x 100' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
+  },
+  {
+    "class": "24",
+    "category": "Hose Products Air, Weld, Water",
+    "item_no": "V3825",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 3/8\" x 25' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
+  },
+  {
+    "class": "24",
+    "category": "Hose Products Air, Weld, Water",
+    "item_no": "V3850",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 3/8\" x 50' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
+  },
+  {
+    "class": "24",
+    "category": "Hose Products Air, Weld, Water",
+    "item_no": "V38100",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 3/8\" x 100' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
   },
   {
     "class": "24",
