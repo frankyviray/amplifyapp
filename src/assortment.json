@@ -19751,7 +19751,7 @@
     "image": "assets/img/items/SPOTWELD.JPG",
     "description": "<P>       Spot weld bits are a lot more effective than hole cutters, a chipping hammer, or plain drill bits when you're replacing body panels that are spot welded together. Spot weld bits are much flatter than a regular drill bit, making them easier to control.  Your average hole saws leave too big of a hole, and chipping hammers and screwdrivers take too much time and do too much damage to flanges and edges.  </P> <P>      The perfect answer is spot weld bits that are made to cut quickly and penetrate only through the spot weld.  This makes welding another panel in place a lot less time consuming.  Available in 3/8\" or 5/16\". </P> <P>      Our bits are cobalt, so hardened welds melt away time after time. You will get hundreds of drilling applications from one bit.  </P>"
   },
-    {
+  {
     "class": "29",
     "category": "Welders, Plasma Cutter's and Accessories",
     "item_no": "355",
@@ -34405,7 +34405,7 @@
     "item_no": "4209-1",
     "item": "MILWAUKEE® ADJUSTABLE MAGNETIC DRILL PRESS",
     "image": "assets/img/items/4209-1.png",
-    "description": "<P>No job is too large for this heavy-duty drill press. This unit features the 4203 adjustable-position, variable-speed base and the 4292-1 1-1/4\" drill motor. Built for production drilling, this 11.5-amp drill press can handle the toughest drilling jobs with up to a 1-1/4\" threaded hole capacity. The two-speed motor runs at 375 and 750 RPM, geared low for maximum torque. It can produce up to 1,600 pounds of drill point pressure with a 1-inch steel plate. Feedback speed control helps you maintain speed during operation. This unit features a No. 3 Morse Taper Chuck, for fast and easy bit changes while eliminating slippage and breakage. The dual-mount gear case with reverse mount permits tight quarter drilling. Use with the larger 4203 adjustable base (sold separately) for the toughest applications.</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+    "description": "<P>No job is too large for this heavy-duty drill press. This unit features the 4203 adjustable-position, variable-speed base and the 4292-1 1-1/4\" drill motor. Built for production drilling, this 11.5-amp drill press can handle the toughest drilling jobs with up to a 1-1/4\" threaded hole capacity. The two-speed motor runs at 375 and 750 RPM, geared low for maximum torque. It can produce up to 1,600 pounds of drill point pressure with a 1-inch steel plate. Feedback speed control helps you maintain speed during operation. This unit features a No. 3 Morse Taper Chuck, for fast and easy bit changes while eliminating slippage and breakage. The dual-mount gear case with reverse mount permits tight quarter drilling. Use with the larger 4203 adjustable base (sold separately) for the toughest applications.</P><li><a href=http://extranet.acetools.com/Catalog/4209-1.png>Click here for a larger image</a></li><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
   },
   {
     "class": "60",
@@ -34413,7 +34413,7 @@
     "item_no": "48-11-1840",
     "item": "BATTERY - M18 RED LITHIUM  XC 4.0 MILWAUKEE®",
     "image": "assets/img/items/48111840.JPG",
-    "description": "<P>     The newest Milwaukee&reg; 18V Lithium-Ion Battery works on the M18&reg; Cordless Tool System and has 4.0 Amp Hours of run-time. This battery powers over 40 Milwaukee&reg; M18&reg; cordless tools. </P> <P>      Milwaukee&reg; M18&reg; REDLITHIUM&reg; XC4.0 provides up to 2X more run-time, 20% more power and 2X more recharges than a standard Lithium-Ion battery. REDLITHIUM&reg; XC4.0 also delivers best-in-class performance in extreme job-site conditions. With Milwaukee&reg; durability built into each pack, the REDLITHIUM&reg; XC4.0 battery operates cooler and performs in climates below 0&deg;F/-18&deg;_C with fade free power. </P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+    "description": "<P>     The newest Milwaukee&reg; 18V Lithium-Ion Battery works on the M18&reg; Cordless Tool System and has 4.0 Amp Hours of run-time. This battery powers over 40 Milwaukee&reg; M18&reg; cordless tools. </P> <P>      Milwaukee&reg; M18&reg; REDLITHIUM&reg; XC4.0 provides up to 2X more run-time, 20% more power and 2X more recharges than a standard Lithium-Ion battery. REDLITHIUM&reg; XC4.0 also delivers best-in-class performance in extreme job-site conditions. With Milwaukee&reg; durability built into each pack, the REDLITHIUM&reg; XC4.0 battery operates cooler and performs in climates below 0&deg;F/-18&deg;_C with fade free power. </P><li><a href=http://extranet.acetools.com/Catalog/48111840.JPG>Click here for a larger image</a></li><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
   },
   {
     "class": "60",
@@ -34421,7 +34421,7 @@
     "item_no": "48-22-0223",
     "item": "PVC/ABS SAW 18\"",
     "image": "assets/img/items/48220223.JPG",
-    "description": "<P>      The Milwaukee&REG; PVC Saw features a tool free blade change to avoid downtime and increase efficiency in the field. Complete with rubber over mold for comfort, the saw offers unmatched durability with a metal core body and clamshell handle design to prevent damage from abusive job site conditions. Blade length: 18\".</P> <P>       Designed to cut PVC & ABS plastic, plywood, wallboard and laminates. 18\" blade length.</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+    "description": "<P>      The Milwaukee&REG; PVC Saw features a tool free blade change to avoid downtime and increase efficiency in the field. Complete with rubber over mold for comfort, the saw offers unmatched durability with a metal core body and clamshell handle design to prevent damage from abusive job site conditions. Blade length: 18\".</P> <P>       Designed to cut PVC & ABS plastic, plywood, wallboard and laminates. 18\" blade length.</P><li><a href=http://extranet.acetools.com/Catalog/48220223.JPG>Click here for a larger image</a></li><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
   },
   {
     "class": "60",
@@ -34598,6 +34598,22 @@
     "item": "IMPACT WRENCH - M28 CORDLESS 1/2\" HIGH TORQUE",
     "image": "assets/img/items/PM077922.jpeg",
     "description": "<P>         Unlike NiCad batteries, the Milwaukee&reg; V28  Li-ion batteries maintain their power level throughout their entire discharge cycle. The last cut or hole drilled is as powerful as the first. This means more productivity per battery.</P> <P>       The 28 Volt, 3.0 Amp-Hr. battery has up to two times the run time of a comparable 18 Volt, 2.4 Amp-Hr NiCad pack and it is lighter in weight than 18 Volt NiCad and NiMH packs. They can be recharged at any time without creating a memory effect, regardless of the current charge level of the pack.</P> <P>The Milwaukee&reg; 1/2\" drive impact wrench has the new V28&reg; high power motor that delivers 325 ft. lbs of torque at 0-1,450 RPM and 0-2,450 IPM. </P> <P>      It features a flat head detent pin and round head pin for secure socket retention and magnesium gear case for added durability and lighter weight.</P> <P>     There is a hanger bracket with a solid steel ring and the battery pack is reversible which allows user to change the tool balance for overhead work or to fit into tight areas.</P> <P>       As with all Milwaukee&reg; V28&reg; cordless tools, this rugged, yet lightweight impact wrench features the soft-grip, non-slip handle which reduces fatigue and vibration.</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+  },
+  {
+    "class": "60",
+    "category": "Milwaukee®",
+    "item_no": "PM0880-20",
+    "item": "MILWAUKEE - M18 WET/ DRY SHOP VAC",
+    "image": "assets/img/items/0880-20.png",
+    "description": "<P>Working on all Milwaukee&reg; 18V slide-on batteries, RED LITHIUM&trade; or NiCd, the 0880-20 wet/dry vacuum offers long continuous run time and high air power and suction to provide quick and easy removal of dust, debris and water. A washable, reusable wet/dry HEPA filter delivers excellent fine dust collection and does not need to be changed between wet and dry applications. The stackable toolbox design, on-board hose and accessory storage offer excellent portability and convenience, a built-in blower port allows the vacuum to double as a blower, and the 1-1/4\" hose allows standard vacuum attachments to be fastened. It includes vacuum, filter, 6\" hose, a crevice tool, and a wide/utility nozzle.</P><br><b>Specifications</b><li>Works on all Milwaukee 18V slide-on batteries, RED LITHIUM&trade; or NiCd</li><li>Powerful motor to provide strong suction and air flow</li><li>Tool box style for easy transport and storage</li><li>On-board accessory and hose storage</li><li>Built-in Blower Port</li><li>Ideal for both wet and dry applications</li><li>HEPA filter</li><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+  },
+  {
+    "class": "60",
+    "category": "Milwaukee®",
+    "item_no": "PM0884-20",
+    "item": "COMPACT BLOWER - M18 (BARE TOOL)",
+    "image": "assets/img/items/PM0884.png",
+    "description": "<P>The M18&trade; Compact Blower delivers the fastest jobsite cleanup. The 0884-20 offers a best in class power to size ratio. The M18&trade; Compact Blower has power control that includes a 3-speed electronic switch, lock-on and a variable speed trigger which allows for versatile clearing power. This blower moves air at 160 MPH and 100 CFM for class-leading performance. Featuring a shock-absorbing polymer body and a crush resistant nozzle the M18&trade; Compact Blower delivers jobsite durability. Included is a 9\" extension nozzle to clear dust and debris easily from the ground or overhead. The 0884-20 also comes with a universal inflator/deflator. Works with all Milwaukee® M18&trade; Batteries (batteries sold separately).</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
   },
   {
     "class": "60",
@@ -34885,7 +34901,23 @@
     "item_no": "PM2450-22R",
     "item": "IMPACT DRIVER & WORK LIGHT - M12 LITHIUM-ION",
     "image": "assets/img/items/PM24502R.JPG",
-    "description": "<P>       Delivering a best-in-class 850 in-lbs. of torque in a compact, lightweight package weighing less than 2-1/2 lbs, this Milwaukee&reg; 1/4\" hex impact driver is powerful enough to drive fasteners up to 75% faster with up to two times longer run-time. </P> <P>      The compact size and weight allows access to tighter areas and reduces user fatigue. A 12 volt Lithium-Ion battery and 0-3,000 IPM provide longer run time and more impacts per minute for optimum performance.  </P> <P>      Other features include a battery fuel gauge that displays the remaining run time and a built-in LED light that illuminates the work surface. This kit includes a 160 Lumen LED work light.</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+    "description": "<P>       Delivering a best-in-class 850 in-lbs. of torque in a compact, lightweight package weighing less than 2-1/2 lbs, this Milwaukee&reg; 1/4\" hex impact driver is powerful enough to drive fasteners up to 75% faster with up to two times longer run-time. </P> <P>      The compact size and weight allows access to tighter areas and reduces user fatigue. A 12 volt Lithium-Ion battery and 0-3,000 IPM provide longer run time and more impacts per minute for optimum performance.  </P> <P>      Other features include a battery fuel gauge that displays the remaining run time and a built-in LED light that illuminates the work surface. This kit includes a 160 Lumen LED work light.</P><li><a href=http://extranet.acetools.com/Catalog/PM24502R.JPG>Click here for a larger image</a></li><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+  },
+    {
+    "class": "60",
+    "category": "Milwaukee®",
+    "item_no": "PM2456-20",
+    "item": "IMPACT DRIVER & WORK LIGHT - M12 LITHIUM-ION",
+    "image": "assets/img/items/PM245620.jpeg",
+    "description": "<P>This 1/4\" cordless ratchet is the ideal tool for auto mechanics, maintenance and repair professionals looking for maximum performance and productivity in a subcompact cordless tool.</P><p>It utilizes a powerful 12-volt motor to produce up to 30 ft-lbs of torque and 250 rpm, giving users the power and speed of a pneumatic ratchet without a cumbersome airhose.</p><br><b>Specifications:</b><li>Volts: 12V</li><li>Peak Torque: 30 ft/lbs</li><li>No Load Speed: 0 - 250 RPM</li><li>Tool Length: 10-3/4\"</li><li>Tool Weight: 1.9 lbs.</li><a href=http://extranet.acetools.com/Catalog/PM245620_2.jpg>Click here for a larger image</a></li><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+  },
+  {
+    "class": "60",
+    "category": "Milwaukee®",
+    "item_no": "PM2456-21",
+    "item": "IMPACT DRIVER & WORK LIGHT - M12 LITHIUM-ION",
+    "image": "assets/img/items/PM245621.jpeg",
+    "description": "<P>This 1/4\" cordless ratchet is the ideal tool for auto mechanics, maintenance and repair professionals looking for maximum performance and productivity in a subcompact cordless tool.</P><p>It utilizes a powerful 12-volt motor to produce up to 30 ft-lbs of torque and 250 rpm, giving users the power and speed of a pneumatic ratchet without a cumbersome airhose.</p><br><b>Specifications:</b><li>Volts: 12V</li><li>Peak Torque: 30 ft/lbs</li><li>No Load Speed: 0 - 250 RPM</li><li>Tool Length: 10-3/4\"</li><li>Tool Weight: 1.9 lbs.</li><li>Includes: (1) 12V RedLithium Battery, (1) Battery Charger & Carrying Case</li><li><a href=http://extranet.acetools.com/Catalog/PM2456_2.jpg>Click here for a larger image</a></li><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
   },
   {
     "class": "60",
@@ -35214,6 +35246,14 @@
     "item": "BAND SAW KIT - DEEP CUT M18 FUEL 1 BATTERY",
     "image": "assets/img/items/PM2729.JPG",
     "description": "<P>       The Milwaukee&reg; M18 cordless band saw features a Powerstate brushless motor for increased cutting speed through even the toughest applications. It also features Jobsite Armor Technology composite material and crush zone barriers for long lasting rugged protection.</P> <P>           All metal direct drive delivers maximum tool life with less servicing than a chain drive and the Redlithium XC 4.0 battery provides superior pack construction, more work per charge and more work over the life of the pack than competitive batteries.  \n\n\n\n</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+  },
+  {
+    "class": "60",
+    "category": "Milwaukee®",
+    "item_no": "PM2767-20",
+    "item": "MILWAUKEE M18 FUEL - IMPACT WRENCH 1/2 (BARE TOOL)",
+    "image": "assets/img/items/276720.png",
+    "description": "<P>The 2767 M18 FUEL high torque impact wrench with friction ring eliminates the need to use a pneumatic tool for those stubborn and rusted bolts by delivering 1,000 ft./lbs. of fastening torque and 1400 ft./lbs. of nut-busting torque. With 2X faster removal speed, users will be able to get the job done faster and be more productive throughout their day. By providing the industry’s most compact cordless high torque impact wrench at 8.39 in. length, this tool allows for more access in tight spaces. 4-Mode drive control with bolt removal mode gives users the most control over their fasteners. Bolt Removal mode gives the user more control when removing fasteners by slowing to 750 RPM once the fastener has been busted loose. This tool offers quick, tool-free socket changes with a 1/2\". friction ring anvil. A premium rubber over mold material gives you ultimate comfort during prolonged use while lasting longer against corrosive materials.</P><br><b>Specifications:</b><li>POWERSTATE brushless motor delivers up to 1000 ft./lbs. of fastening torque and 1400 ft./lbs. of nut-busting torque</li><li>Provides maximum productivity by removing stubborn and high torque fasteners up to 2x faster than the competition</li><li>Most compact cordless high torque impact wrench in its class at 8.39 in.</li><li>Industry leading 4-mode drive control with bolt removal mode, allowing for ultimate control; 0 to 550/1,400/1750/1750-750 rpm and 0-950/1,750/2,100/2,100 IPM</li><li>Bolt removal mode provides maximum nut-busting torque to break fastener free, then slows to 750 RPM for more control when removing fasteners</li><li>REDLINK plus intelligence prevents damage to the tool and battery due to overloading or overheating</li><li>REDLITHIUM batteries deliver more work per charge and more work over the life of the battery</li><li>Features a friction ring design to ensure quick and easy socket changes</li><li>Premium rubber over mold withstands corrosive materials and provides increased comfort when in use</li><li>Reduced user fatigue at only 7.5 lbs. with battery (battery not included)</li><li>LED light to illuminate the work area</li><li>Part of the M18 system, featuring over 135+ tools</li><li>Includes: 2767-20 M18 FUEL 1/2 in. high torque impact wrench with friction ring (bare tool)</li><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
   },
   {
     "class": "60",
