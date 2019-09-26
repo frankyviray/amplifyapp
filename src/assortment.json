@@ -14546,6 +14546,14 @@
   {
     "class": "19",
     "category": "Electric Tools",
+    "item_no": "M1039",
+    "item": "DRILL PRESS - 1 1/2 HP 110V / 220V",
+    "image": "assets/img/items/M1039.png",
+    "description": "<P>The Drill Press is one of the most versatile and handy machines you can add to your shop, and at over 300 lbs it is the biggest one in our lineup. Woodworkers and metalworkers alike enjoy the huge 18-3/4\" x 16-3/4\" table, speeds from 210–3300 RPM, built-in 110V work light over the table, and a generous 4-3/4\" spindle travel. The table features T-slots and coolant channels—which allows it to be easily outfitted with a vise or clamps—and helps contain cutting fluids when drilling metal.</p><br><b>Specifications:</b><li>Motor: 1-1/2 HP, 110V/220V</li><li>Swing: 20\"</li><li>Drill chuck: 1/16\" - 5/8\"</li><li>Arbor: JT-3</li><li>Spindle travel: 4-3/4\"</li><li>Number of speeds: 12</li><li>Range of speeds: 210 - 3300 RPM</li><li>Table size: 18-3/4\" x 16-3/4\"</li><li>Drilling capacity: 1-1/4\"</li><li>Features table T-slots & coolant channel</li><li>verall height: 70-3/4\"</li><li>Approximate shipping weight: 326 lbs.</li>"
+  },
+  {
+    "class": "19",
+    "category": "Electric Tools",
     "item_no": "MT02",
     "item": "MULTI-TOOL KIT - DREMEL 2.5 AMP",
     "image": "assets/img/items/MT01.JPG",
@@ -14822,14 +14830,6 @@
     "item": "RECIPROCATING SAW - SKIL (NEW)",
     "image": "assets/img/items/SB9205.jpeg",
     "description": "<P>The Skil&reg; reciprocating saw features a big 8.5 Amp motor which delivers enough power for any construction and demolition job, and with the variable speed control, can be adjusted for clean, fast cuts on any material.</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/skillogo.jpg\"></CENTER>"
-  },
-  {
-    "class": "19",
-    "category": "Electric Tools",
-    "item_no": "TIG",
-    "item": "WELDER - 160 AMP TIG",
-    "image": "assets/img/items/TIG.JPG",
-    "description": "<P>     This is a professional quality portable welder for TIG, (Tungsten Inert Gas), welding that produces cleaner welds on stainless steel, steel, copper, titanium, and nickel than MIG welding. It's quick start with high open voltage and 1/4\" welding capacity and an easy to use anti-stick circuit for work on rutile, stainless steel, cast iron and basic electrodes.</P> <P>      Use as either high accuracy TIG or thick weld MMA arc welder, torches for both are included. The turbo fan cooling system prevents overheating and it is easy to carry, and can be used with a home electrical supply.</P>"
   },
   {
     "class": "19",
@@ -19750,6 +19750,14 @@
     "item": "SPOT WELD BIT - COLBALT 3/8\"",
     "image": "assets/img/items/SPOTWELD.JPG",
     "description": "<P>       Spot weld bits are a lot more effective than hole cutters, a chipping hammer, or plain drill bits when you're replacing body panels that are spot welded together. Spot weld bits are much flatter than a regular drill bit, making them easier to control.  Your average hole saws leave too big of a hole, and chipping hammers and screwdrivers take too much time and do too much damage to flanges and edges.  </P> <P>      The perfect answer is spot weld bits that are made to cut quickly and penetrate only through the spot weld.  This makes welding another panel in place a lot less time consuming.  Available in 3/8\" or 5/16\". </P> <P>      Our bits are cobalt, so hardened welds melt away time after time. You will get hundreds of drilling applications from one bit.  </P>"
+  },
+    {
+    "class": "29",
+    "category": "Welders, Plasma Cutter's and Accessories",
+    "item_no": "355",
+    "item": "WELDER & PLASMA CUTTER 3 IN1 - TIG/ARC/PLASMA",
+    "image": "assets/img/items/355.jpeg",
+    "description": "<P>This multipurpose welding machine features industrial technology in a 200Amp DC TIG (Tungsten Inert Gas) Welder and a 50Amp continuous arc plasma cutter, which means the arc can be ignited in the air and will not go out when you have to go through metal. It has the most powerful torch available without needing a water cooler unit. (Caution: torch gets extremely hot on long welds).</P><p>The high frequency DC plasma cuts thicker materials than standard DC plasma cutters and cuts faster with less distortion in your metal. It will make a severance on 1\" steel at 3\" per minute and a quality cut on 1/2\" steel at 17\" per minute. The internal, high speed cooling fan regulates temperature and it has built in thermal and overload protection. Made exclusively for Ace.</p><br><b>Specifications</b><li>Current range: 20 - 50 A</li><li>Input power: 220 V 50/60 Hz.</li><br><b>Plasma Cutting:</b><li>100% duty cycle @ 40 amp, 60% @ 50amp</li><li>Air requirement: 4cfm @ 65psi</li><li>Cutting Capacity: 1\" (Steel severance cut), 1/2\" (quality cut)</li><li>Duty Cycle: 60% @ 50amp</li><br><b>Welding (Tig & MMA):</b><li>200 amps DC Tig Welder</li><li>Duty Cycle: 60% @ 200 amp</li><li>ARC and 100% @ 95 amps ARC</li><li>Gas Flow: 2-5 L/Minute</li><li>Duty Cycle: 60% @ 160 amp/ 100% @ 110 amps</li><li>Can weld all stainless steel</li><li>Does not weld aluminum</li><li>Includes: Welding cable & Holder, Earth Clamp, Air Pressure Regulator, Electrode Tips & Gas Hose</li>"
   },
   {
     "class": "29",
