@@ -22,9 +22,9 @@ const Categories = props => {
                     //console.log(result);
                     let classNum = result.class;
                     return (
-                        <li className="category list-group-item" onClick={() => props.click({classNum})} key={classNum}>
+                        <button className="bg danger" onClick={() => props.click({classNum})} key={classNum}>
                             {result.class} - {result.category}
-                        </li>
+                        </button>
                     )
                 })}
                 </ul>
