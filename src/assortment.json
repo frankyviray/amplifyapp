@@ -3980,7 +3980,7 @@
     "category": "Abrasives",
     "item_no": "146",
     "item": "GRINDING WHEEL - METAL 4-1/2\" x 1/4\" x 7/8\"",
-    "image": "assets/img/items/146.jpg",
+    "image": "assets/img/items/146N.jpg",
     "description": "<P>      Designed and manufactured to the exacting standards of ACE Industrial Supply and the ACE Abrasives team, our new series of 'Eagle Cut' grinding wheels are made to meet the rigorous demands of contractors in almost every trade.</P> <P>       Manufactured to our tough standards and then tested by an independent American company, the ACE Eagle Cut wheels out performed Mercer brand wheels and tested comparable to Sait. 4-1/2\" Diameter, 1/4\" thick, with 7/8\"  (non threaded) arbor.</P>"
   },
   {
@@ -15292,8 +15292,8 @@
     "category": "Air Tools",
     "item_no": "AVT1154",
     "item": "VIPER IMPACT WRENCH - 1/2\" - 590 FT/LBS.",
-    "image": "assets/img/items/AVT1154.jpg",
-    "description": "<P>Viper Air Tools have arrived! The Torque Series by Viper 1/2\" impact wrench is a tool that’s light in your hand but strong enough to punish the toughest jobs. With 590 ft./lbs. of Nut Busting Torque and a weight of only 5.5 lbs., the AVT1154 has the best power-to-weight ratio of any impact wrench on the market. Making it powerful, durable and reliable enough for any job that comes your way. Perfect for the most demanding applications, such as truck and bus service, construction and agricultural equipment maintenance. Viper built this wrench to last and designed it to withstand tough use in rugged environments and even included a Titanium hammer to protect the interior components of the impact wrench.<li>Enhanced socket retention</li><li>7-vane Motor delivers added power with less weight</li><li>Finely tuned twin hammer impact mechanism and motor deliver more torque, durability, and efficiency</li><li>Feather-touch trigger provides maximum control of this air impact wrench</li><li>Anodized end plate for enhanced durability</li><li>Optimized for the vehicle repair industry, body shops, general industrial use, MRO, rail, heavy machinery, oil and gas, shipbuilding, and construction</li><li>Patented one-hand forward/reverse control for easy operation</li><li>Optimized air flow for maximized performance when using this pneumatic</li><li>Maximum Torque 590/lbs</li><li>Hammer: Twin Hammer</li><li>No-Load Speed: 8,000 r.p.m.</li><li>Weight 5.5lbs</li></P>"
+    "image": "assets/img/items/AVT1154P.jpg",
+    "description": "<a href=assets/img/items/AVT1154P.jpg>Click here for a Larger Image</a><P>Viper Air Tools have arrived! The Torque Series by Viper 1/2\" impact wrench is a tool that’s light in your hand but strong enough to punish the toughest jobs. With 590 ft./lbs. of Nut Busting Torque and a weight of only 5.5 lbs., the AVT1154 has the best power-to-weight ratio of any impact wrench on the market. Making it powerful, durable and reliable enough for any job that comes your way. Perfect for the most demanding applications, such as truck and bus service, construction and agricultural equipment maintenance. Viper built this wrench to last and designed it to withstand tough use in rugged environments and even included a Titanium hammer to protect the interior components of the impact wrench.<li>Enhanced socket retention</li><li>7-vane Motor delivers added power with less weight</li><li>Finely tuned twin hammer impact mechanism and motor deliver more torque, durability, and efficiency</li><li>Feather-touch trigger provides maximum control of this air impact wrench</li><li>Anodized end plate for enhanced durability</li><li>Optimized for the vehicle repair industry, body shops, general industrial use, MRO, rail, heavy machinery, oil and gas, shipbuilding, and construction</li><li>Patented one-hand forward/reverse control for easy operation</li><li>Optimized air flow for maximized performance when using this pneumatic</li><li>Maximum Torque 590/lbs</li><li>Hammer: Twin Hammer</li><li>No-Load Speed: 8,000 r.p.m.</li><li>Weight 5.5lbs</li></P>"
   },
   {
     "class": "20",
@@ -25989,15 +25989,7 @@
     "item_no": "635",
     "item": "NUT DRIVER SET - 7 PC. HOLLOW SHAFT - SAE",
     "image": "assets/img/items/635_2.jpeg",
-    "description": "<P> Hollow shafts on these nut drivers allow nuts to be removed from protruding bolts. No need for sawing off an extended bolt to tighten or remove a nut.</P>"
-  },
-  {
-    "class": "39",
-    "category": "Screwdrivers",
-    "item_no": "639",
-    "item": "SCREWDRIVER - 26\" JUMBO",
-    "image": "assets/img/items/639.jpeg",
-    "description": "<P>  This driver measures 26\" in length and is used for hard to reach places where other screwdrivers won't go.</P> <P>  It has a sturdy, ABS plastic handle and a heat treated square shaft. Can be used as a pry bar or scraper and a two-fisted grip on the handle allows for greater torque on over-tightened screws. Import.</P>"
+    "description": "<P> Hollow shafts on these nut drivers allow nuts to be removed from protruding bolts. No need for sawing off an extended bolt to tighten or remove a nut.</P><br><b>Specifications:</b><li>Hollow shafts easily slip over long, protruding bolts</li><li>Cushioned, color coded handles</li><li>Sizes: 3/16\", 1/4\", 5/16\", 11/32\", 3/8\", 7/16\" and 1/2\"</li><li>6 point heads</li><li>Machined, chrome plated shafts</li>"
   },
   {
     "class": "39",
@@ -26005,7 +25997,7 @@
     "item_no": "640",
     "item": "NUT DRIVER SET - 7 PC. SAE WITH POUCH",
     "image": "assets/img/items/640.jpeg",
-    "description": "<P>Professional quality Nut Driver set with screwdriver-type handles. Comes with a handy, roll up, plastic pouch.</P>"
+    "description": "<P>Professional quality Nut Driver set with screwdriver-type handles. Comes with a handy, roll up, plastic pouch.</P><br><b>Specifications:</b><li>Rugged, ABS handles</li><li>Screwdriver type grip</li><li>Sizes: 3/16\", 1/4\", 5/16\", 11/32\", 3/8\", 7/16\", 1/2\"</li><li>6 point heads</li><li>Machined, chrome plated shafts</li><li>Roll up pouch included</li>"
   },
   {
     "class": "39",
@@ -26013,7 +26005,7 @@
     "item_no": "641",
     "item": "SCREWDRIVER SET - 6 PC. MAGNETIC 'GO-THROUGH'",
     "image": "assets/img/items/641.jpeg",
-    "description": "<P> Called 'Go-Through' screwdrivers because the shaft goes all the way through the handle, not just a bit into the handle which causes screwdrivers to snap under stress. At the end of the handle is a tough metal cap which allows screwdrivers to be hammered like a chisel if needed.</P> <P> These screwdrivers also feature magnetic tips which allow for 'one handed' operation and hold screws in place.</P>"
+    "description": "<P> Called 'Go-Through' screwdrivers because the shaft goes all the way through the handle, not just a bit into the handle which causes screwdrivers to snap under stress. At the end of the handle is a tough metal cap which allows screwdrivers to be hammered like a chisel if needed.</P> <P> These screwdrivers also feature magnetic tips which allow for 'one handed' operation and hold screws in place.</P><br><b>Specifications:</b><li>Four slotted screwdrivers (3\", 4\", 6\" & 8\")</li><li>2 Phillips screwdrivers (3\" & 4\")</li><li>See through handles with metal caps on the ends for hammering</li><li>Shafts go all the way through the handles for strength</li>"
   },
   {
     "class": "39",
@@ -26021,7 +26013,7 @@
     "item_no": "688",
     "item": "NUT DRIVER SET - 14 PC. - SAE & METRIC",
     "image": "assets/img/items/688_2.jpeg",
-    "description": "<P> Hollow shafts on these nut drivers allow nuts to be removed from protruding bolts. No need for sawing off an extended bolt to tighten or remove a nut.</P>"
+    "description": "<P> Hollow shafts on these nut drivers allow nuts to be removed from protruding bolts. No need for sawing off an extended bolt to tighten or remove a nut.</P><br><b>Specifications:</b><li>Hollow shafts easily slip over long, protruding bolts</li><li>Cushioned, color coded handles</li><li>SAE Sizes: 3/16\", 1/4\", 5/16\", 11/32\", 3/8\", 7/16\" and 1/2\"</li><li>Metric Sizes: 6mm, 7mm, 8mm, 9mm, 10mm, 11mm, and 12mm</li><li>6 point heads</li><li>Machined, chrome plated shafts</li>"
   },
   {
     "class": "39",
@@ -26045,7 +26037,7 @@
     "item_no": "635M",
     "item": "NUT DRIVER SET - 7 PC. HOLLOW SHAFT - METRIC",
     "image": "assets/img/items/635_2.jpeg",
-    "description": "<P> Hollow shafts on these nut drivers allow nuts to be removed from protruding bolts. No need for sawing off an extended bolt to tighten or remove a nut.</P>"
+    "description": "<P> Hollow shafts on these nut drivers allow nuts to be removed from protruding bolts. No need for sawing off an extended bolt to tighten or remove a nut.</P><br><b>Specifications:</b><li>Hollow shafts easily slip over long, protruding bolts</li><li>Cushioned, color coded handles</li><li>Sizes: 6mm, 7mm, 8mm, 9mm, 10mm, 11mm, and 12mm</li><li>6 point heads</li><li>Machined, chrome plated shafts</li>"
   },
   {
     "class": "39",
@@ -26077,7 +26069,7 @@
     "item_no": "N091",
     "item": "SCREWDRIVER / PRY BAR 36\"",
     "image": "assets/img/items/639.jpeg",
-    "description": "<P>  This driver measures 36\" in length and is used for hard to reach places where other screwdrivers won't go.</P> <P>  It has a sturdy, ABS plastic handle and a heat treated square shaft that goes all the way through the handle. There is a metal cap on the head of the handle for hammering on. Can be used as a pry bar or scraper and a two-fisted grip on the handle allows for greater torque on over-tightened screws. Import.</P>"
+    "description": "<P>  This driver measures 36\" in length and is used for hard to reach places where other screwdrivers won't go.</P> <P>  It has a sturdy, ABS plastic handle and a heat treated square shaft that goes all the way through the handle. There is a metal cap on the head of the handle for hammering on. Can be used as a pry bar or scraper and a two-fisted grip on the handle allows for greater torque on over-tightened screws. Import.</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/639c.bmp\"></CENTER>"
   },
   {
     "class": "39",
@@ -26103,14 +26095,14 @@
     "image": "assets/img/items/N16PS.JPG",
     "description": "<P>        This 16 piece set includes small precision drivers, also called 'jewelers' screwdrivers. They are used for tiny, intricate fasteners found in items like circuit boards, computers, electronics, jewelry and glasses.</P> <P>        They have knurled handles for easy grip and come in a plastic storage box that snaps closed.</P>"
   },
-  {
-    "class": "39",
-    "category": "Screwdrivers",
-    "item_no": "NSDS8",
-    "item": "SCREWDRIVER SET - 8 PC. PRO RED HANDLES",
-    "image": "assets/img/items/NSDS8.jpeg",
-    "description": "<P>        These professional grade screwdrivers feature heat treated tips for added strength that have also been magnetized to hold screws easily in place. They also feature hardened, chrome vanadium shafts and oversized handles which provide greater gripping power.</P> <P>      At the base of the handles are hex bolsters which allow a wrench to be applied for greater torque on over tightened screws. The handles are a bright red for easy identification and have a hanger hole for storage on a hook or a peg board. Imported.</P>"
-  },
+    {
+      "class": "39",
+      "category": "Screwdrivers",
+      "item_no": "TQ01",
+      "item": "TORQUE SCREWDRIVER W/ 20 BITS - 1/4\" DR.",
+      "image": "assets/img/items/TQ01.bmp",
+      "description": "<P>This torque screwdriver features a torque meter window to clearly see the desired setting. It is adjustable from 10 to 50 inch lbs. in 5 inch lb. increments and has a lock torque setting for continuous use without resetting. The grip handle has an ergonomic design for user comfort.</P><P>The driver will fit any 1/4\" drive sockets or bits and includes 8 Philips, 4 Hex, 2 slotted and 6 Torx bits and comes in a convenient storage case.</p><br><b>Specifications:</b><li>10 to 50 In/lbs. in 5 in/lb increments</li><li>8 Philips Bits: 2 x#0, 2 x #1, 2 x #2, 2 x #3</li><li>2 Slotted Bits: 4mm & 6mm</li><li>6 Torx Bits: T10, T15, T20, T25, T30 & T40</li><li>4 Hex Bits: 3mm, 4mm, 5mm & 6mm</li><li>Includes Carrying Case and Bit Insert</li><a href=http://extranet.acetools.com/Catalog/TQ01_2.jpg>Click here for a larger image</a>"
+    },
   {
     "class": "40",
     "category": "Ratchets, Come-Alongs, Rope",
@@ -28212,16 +28204,16 @@
     "category": "Assorted Hand Tools",
     "item_no": "644TIT",
     "item": "TAP & DIE SET - 45 PC. JUMBO - TITANIUM SAE- VIPER",
-    "image": "assets/img/items/644TIT.jpeg",
-    "description": "<P>         Titanium coated tungsten steel dissipates heat 7 times faster than regular Tungsten steel, which extends the life of the tool. This 'Jumbo' tap and die set covers both National coarse and National fine thread ranging up to 1\" in SAE (Standard American Equivalent). Includes taps and equivalent dies.</P> <P>       Set includes adjustable tap wrench, 'T' handle tap wrench, screwdriver, die stock, 20 taps for inside threads, 20 dies for outside threads and both in coarse and fine from 1/4\" to 1\". The set comes in a rugged 2'L x 18\"W x 1\"D blow mold carrying case. Import.</P><br><b>National Coarse:</b>(Size x Thread)</br><li>1/4 x 20 - 5/16 x 18 - 3/8 x 16 - 7/16 x 141/2 x 13 - 9/16 x 12 - 5/8 x 11 - 3/4 x 107/8 x 9 - 1 x 8</li><br><b>National Fine:</b>(Size x Thread)</br><li>1/4 x 28 - 5/16 x 24 - 3/8 x 24 - 7/16 x 201/2 x 20 - 9/16 x 18 - 5/8 x 18 - 3/4 x 167/8 x 14 - 1 x 14</li>"
+    "image": "assets/img/items/644TS.JPG",
+    "description": "<P>         Titanium coated tungsten steel dissipates heat 7 times faster than regular Tungsten steel, which extends the life of the tool. This 'Jumbo' tap and die set covers both National coarse and National fine thread ranging up to 1\" in SAE (Standard American Equivalent). Includes taps and equivalent dies.</P> <P>       Set includes adjustable tap wrench, 'T' handle tap wrench, screwdriver, die stock, 20 taps for inside threads, 20 dies for outside threads and both in coarse and fine from 1/4\" to 1\". The set comes in a rugged 2'L x 18\"W x 1\"D blow mold carrying case. Import.</P><br><b>National Coarse:</b>(Size x Thread)</br><li>1/4 x 20 - 5/16 x 18 - 3/8 x 16 - 7/16 x 141/2 x 13 - 9/16 x 12 - 5/8 x 11 - 3/4 x 107/8 x 9 - 1 x 8</li><br><b>National Fine:</b>(Size x Thread)</br><li>1/4 x 28 - 5/16 x 24 - 3/8 x 24 - 7/16 x 201/2 x 20 - 9/16 x 18 - 5/8 x 18 - 3/4 x 167/8 x 14 - 1 x 14</li><img src =assets/img/items/644TITVIPER.gif>"
   },
   {
     "class": "44",
     "category": "Assorted Hand Tools",
     "item_no": "644TITM",
     "item": "TAP & DIE SET - 45 PC. JUMBO - TITANIUM METRIC - VIPER",
-    "image": "assets/img/items/644TIT.jpeg",
-    "description": "<P>          Titanium coated tungsten steel dissipates heat 7 times faster than regular Tungsten steel, which extends the life of the tool.  This 'Jumbo' tap and die set covers both Metric coarse and Metric fine up to 24mm. Includes taps and equivalent dies.</P> <P>       Set includes adjustable tap wrench, 'T' handle tap wrench, screwdriver, die stock, 20 taps for inside threads, 20 dies for outside threads and both in coarse and fine from 6mm to 24mm. The set comes in a rugged 2'L x 18\"W x 1\"D blow mold carrying case. Import.</P><br><b>National Coarse:</b>(Size x Thread)</br><li>6 x .75 - 8 x 1 - 10 x 1.5 - 12 x 1.5 14 x 1.5 - 16 x 1.5 - 18 x 1.5 20 x 1.5 - 22 x 1.5 - 24 x 1.5</li><br><b>National Fine:</b>(Size x Thread)</br><li>6 x 1 - 8 x 1.25 - 10 x 1.5 - 12 x 1.75 14 x 2 - 16 x 2 - 18 x 2.5 - 20 x 2.5 22 x 2.5 - 24 x 3.0</li>"
+    "image": "assets/img/items/644TS.JPG",
+    "description": "<P>          Titanium coated tungsten steel dissipates heat 7 times faster than regular Tungsten steel, which extends the life of the tool.  This 'Jumbo' tap and die set covers both Metric coarse and Metric fine up to 24mm. Includes taps and equivalent dies.</P> <P>       Set includes adjustable tap wrench, 'T' handle tap wrench, screwdriver, die stock, 20 taps for inside threads, 20 dies for outside threads and both in coarse and fine from 6mm to 24mm. The set comes in a rugged 2'L x 18\"W x 1\"D blow mold carrying case. Import.</P><br><b>National Coarse:</b>(Size x Thread)</br><li>6 x .75 - 8 x 1 - 10 x 1.5 - 12 x 1.5 14 x 1.5 - 16 x 1.5 - 18 x 1.5 20 x 1.5 - 22 x 1.5 - 24 x 1.5</li><br><b>National Fine:</b>(Size x Thread)</br><li>6 x 1 - 8 x 1.25 - 10 x 1.5 - 12 x 1.75 14 x 2 - 16 x 2 - 18 x 2.5 - 20 x 2.5 22 x 2.5 - 24 x 3.0</li><img src = assets/img/items/644TITVIPER.gif>"
   },
   {
     "class": "44",
@@ -34903,7 +34895,7 @@
     "image": "assets/img/items/PM24502R.JPG",
     "description": "<P>       Delivering a best-in-class 850 in-lbs. of torque in a compact, lightweight package weighing less than 2-1/2 lbs, this Milwaukee&reg; 1/4\" hex impact driver is powerful enough to drive fasteners up to 75% faster with up to two times longer run-time. </P> <P>      The compact size and weight allows access to tighter areas and reduces user fatigue. A 12 volt Lithium-Ion battery and 0-3,000 IPM provide longer run time and more impacts per minute for optimum performance.  </P> <P>      Other features include a battery fuel gauge that displays the remaining run time and a built-in LED light that illuminates the work surface. This kit includes a 160 Lumen LED work light.</P><li><a href=http://extranet.acetools.com/Catalog/PM24502R.JPG>Click here for a larger image</a></li><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
   },
-    {
+  {
     "class": "60",
     "category": "Milwaukee®",
     "item_no": "PM2456-20",
