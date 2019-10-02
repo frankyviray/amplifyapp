@@ -116,7 +116,7 @@
     "category": "Electrical Power Cords",
     "item_no": "14325",
     "item": "POWER CORD - 14/3 x 25' - LIGHTEND ENDS - VIPER",
-    "image": "assets/img/items/14325.JPG",
+    "image": "assets/img/items/143100.jpg",
     "description": "<P>These are Viper heavy duty all season, 14 gauge x 3 wire round yellow power cords with a heavy duty double vinyl jacket and molded male and female ends.  They're all copper wire from end to end with no aluminum fillers and have solid brass connectors. UL and CUL Listed. Lighted Receptacle Shows Power is On. <br>Specifications:</br><li>Ultra Flexible</li><li>Water Resistant</li><li>Flame Retardant</li><li>Lightend Ends</li><li>12 Gauge Pure Copper Wire</li><li>15 Amps</li><li>1875 Watts</li></P>"
   },
   {
@@ -124,7 +124,7 @@
     "category": "Electrical Power Cords",
     "item_no": "14350",
     "item": "POWER CORD - 14/3 x 50' - LIGHTEND ENDS - VIPER",
-    "image": "assets/img/items/14350.JPG",
+    "image": "assets/img/items/143100.jpg",
     "description": "<P>These are Viper heavy duty all season, 14 gauge x 3 wire round yellow power cords with a heavy duty double vinyl jacket and molded male and female ends.  They're all copper wire from end to end with no aluminum fillers and have solid brass connectors. UL and CUL Listed. Lighted Receptacle Shows Power is On. <br>Specifications:</br><li>Ultra Flexible</li><li>Water Resistant</li><li>Flame Retardant</li><li>Lightend Ends</li><li>12 Gauge Pure Copper Wire</li><li>15 Amps</li><li>1875 Watts</li></P>"
   },
   {
@@ -132,8 +132,8 @@
     "category": "Electrical Power Cords",
     "item_no": "143100",
     "item": "POWER CORD - 14/3 x 100' - LIGHTEND ENDS - VIPER",
-    "image": "assets/img/items/143100.JPG",
-    "description": "<P>These are Viper heavy duty all season, 14 gauge x 3 wire round yellow power cords with a heavy duty double vinyl jacket and molded male and female ends.  They're all copper wire from end to end with no aluminum fillers and have solid brass connectors. UL and CUL Listed. Lighted Receptacle Shows Power is On. <br>Specifications:</br><li>Ultra Flexible</li><li>Water Resistant</li><li>Flame Retardant</li><li>Lightend Ends</li><li>12 Gauge Pure Copper Wire</li><li>15 Amps</li><li>1875 Watts</li></P>"
+    "image": "assets/img/items/143100.jpg",
+    "description": "<a href=assets/img/items/143100.jpg>Click Here for a Larger Image</a><P>These are Viper heavy duty all season, 14 gauge x 3 wire round yellow power cords with a heavy duty double vinyl jacket and molded male and female ends.  They're all copper wire from end to end with no aluminum fillers and have solid brass connectors. UL and CUL Listed. Lighted Receptacle Shows Power is On. <br>Specifications:</br><li>Ultra Flexible</li><li>Water Resistant</li><li>Flame Retardant</li><li>Lightend Ends</li><li>12 Gauge Pure Copper Wire</li><li>15 Amps</li><li>1875 Watts</li></P>"
   },
   {
     "class": "10",
@@ -3821,7 +3821,31 @@
     "item_no": "V9308",
     "item": "HOLESAW KIT - PLUMBER 8 PC",
     "image": "assets/img/items/V9308.jpeg",
-    "description": "These are the industrial bi-metal hole saws, you know the  ones that go through hard metal, stainless steel or even wood embedded with nails. You'll never  loose the teeth or dull these up after one use, these bi-metal hole saws will never have that problem. They are constructed of a combination of high speed steel and tungsten steel teeth. \t\n\n\n\n\tThis a complete set of hole saws, constructed with the most popular plumbing sizes, they go from 3/4\" all the way up to 2 1/4\". You get the large and small mandrel adapter, the pilot bits and the carrying case.  \n\n\n\n\n\n\n\nMADE IN U.S.A.\n\n\n\nBI-METAL CONSTRUCTION.\n\n\n\n1 1/4\" CUTTING DEPTH.\n\n\n\n6 HOLE SAWS (3/4, 7/8, 1 1/8, 1 3/8, 1 1/2, \n\n\n\n1 3/4, 2 1/4\") 2 - PILOT BITS, 1 LG MANDREL, 1 SM MAN. CARRY CASE.\n\n\n\nSHATTER PROOF.\n\n\n\n4 TEETH PER INCH.\n\n\n\nHEAVY DUTY BACKING PLATE\n\n\n\n<BR>\n\n\n\n<BR>\n\n\n\n</P>"
+    "description": "<P>These are the industrial bi-metal hole saws, you know the  ones that go through hard metal, stainless steel or even wood embedded with nails. You'll never  loose the teeth or dull these up after one use, these bi-metal hole saws will never have that problem. They are constructed of a combination of high speed steel and tungsten steel teeth. \t\n\n\n\n\tThis a complete set of hole saws, constructed with the most popular plumbing sizes, they go from 3/4\" all the way up to 2 1/4\". You get the large and small mandrel adapter, the pilot bits and the carrying case.  \n\n\n\n\n\n\n\nMADE IN U.S.A.\n\n\n\nBI-METAL CONSTRUCTION.\n\n\n\n1 1/4\" CUTTING DEPTH.\n\n\n\n6 HOLE SAWS (3/4, 7/8, 1 1/8, 1 3/8, 1 1/2, \n\n\n\n1 3/4, 2 1/4\") 2 - PILOT BITS, 1 LG MANDREL, 1 SM MAN. CARRY CASE.\n\n\n\nSHATTER PROOF.\n\n\n\n4 TEETH PER INCH.\n\n\n\nHEAVY DUTY BACKING PLATE\n\n\n\n<BR>\n\n\n\n<BR>\n\n\n\n</P>"
+  },
+  {
+    "class": "14",
+    "category": "Saw Blades & Hole Saws",
+    "item_no": "VCTR6",
+    "item": "CARBIDE TIPPED RECIP BLADE - 6\" X 8 TPI - METAL",
+    "image": "assets/img/items/VCTR6.jpg",
+    "description": "<P>The best reciprocating blade for cutting thick metals (between 3/16\" and 1/2\"), this Viper Badazz high-performance blade cuts faster and lasts longer than traditional bi-metal blades. While the upfront investment is a little higher, the pay-off comes quickly. Carbide remains sharper longer for more efficient cutting. Carbide-tipped blades cut faster without binding.</P><br><b>Application:</b>Cast Iron, Threaded Rod, Emt Conduit, Stainless Steel, Steel Plate, Non-Ferrous Metal, Rubber, Steel Studs, Rebar, Black Iron Pipe, Angle Iron, and Metal Alloys</br><p><b>Benifits:</b><li>More cost effective than bi-metal blades when cutting stainless steel, high strength alloys and other tough metals</li><li>Precision ground carbide teeth</li><li>Maximum cutting performance in thick metal applications</li><li>1\" x .050 blade body for straighter cuts and less vibration</li>"
+  },
+  {
+    "class": "14",
+    "category": "Saw Blades & Hole Saws",
+    "item_no": "VCTR9",
+    "item": "CARBIDE TIPPED RECIP BLADE - 9\" X 8 TPI - METAL",
+    "image": "assets/img/items/VCTR6.jpg",
+    "description": "<P>The best reciprocating blade for cutting thick metals (between 3/16\" and 1/2\"), this Viper Badazz high-performance blade cuts faster and lasts longer than traditional bi-metal blades. While the upfront investment is a little higher, the pay-off comes quickly. Carbide remains sharper longer for more efficient cutting. Carbide-tipped blades cut faster without binding.</P><br><b>Application:</b>Cast Iron, Threaded Rod, Emt Conduit, Stainless Steel, Steel Plate, Non-Ferrous Metal, Rubber, Steel Studs, Rebar, Black Iron Pipe, Angle Iron, and Metal Alloys</br><p><b>Benifits:</b><li>More cost effective than bi-metal blades when cutting stainless steel, high strength alloys and other tough metals</li><li>Precision ground carbide teeth</li><li>Maximum cutting performance in thick metal applications</li><li>1\" x .050 blade body for straighter cuts and less vibration</li>"
+  },
+  {
+    "class": "14",
+    "category": "Saw Blades & Hole Saws",
+    "item_no": "VCTR12",
+    "item": "CARBIDE TIPPED RECIP BLADE - 12\" X 8 TPI - METAL",
+    "image": "assets/img/items/VCTR6.jpg",
+    "description": "<P>The best reciprocating blade for cutting thick metals (between 3/16\" and 1/2\"), this Viper Badazz high-performance blade cuts faster and lasts longer than traditional bi-metal blades. While the upfront investment is a little higher, the pay-off comes quickly. Carbide remains sharper longer for more efficient cutting. Carbide-tipped blades cut faster without binding.</P><br><b>Application:</b>Cast Iron, Threaded Rod, Emt Conduit, Stainless Steel, Steel Plate, Non-Ferrous Metal, Rubber, Steel Studs, Rebar, Black Iron Pipe, Angle Iron, and Metal Alloys</br><p><b>Benifits:</b><li>More cost effective than bi-metal blades when cutting stainless steel, high strength alloys and other tough metals</li><li>Precision ground carbide teeth</li><li>Maximum cutting performance in thick metal applications</li><li>1\" x .050 blade body for straighter cuts and less vibration</li>"
   },
   {
     "class": "14",
@@ -26095,14 +26119,14 @@
     "image": "assets/img/items/N16PS.JPG",
     "description": "<P>        This 16 piece set includes small precision drivers, also called 'jewelers' screwdrivers. They are used for tiny, intricate fasteners found in items like circuit boards, computers, electronics, jewelry and glasses.</P> <P>        They have knurled handles for easy grip and come in a plastic storage box that snaps closed.</P>"
   },
-    {
-      "class": "39",
-      "category": "Screwdrivers",
-      "item_no": "TQ01",
-      "item": "TORQUE SCREWDRIVER W/ 20 BITS - 1/4\" DR.",
-      "image": "assets/img/items/TQ01.bmp",
-      "description": "<P>This torque screwdriver features a torque meter window to clearly see the desired setting. It is adjustable from 10 to 50 inch lbs. in 5 inch lb. increments and has a lock torque setting for continuous use without resetting. The grip handle has an ergonomic design for user comfort.</P><P>The driver will fit any 1/4\" drive sockets or bits and includes 8 Philips, 4 Hex, 2 slotted and 6 Torx bits and comes in a convenient storage case.</p><br><b>Specifications:</b><li>10 to 50 In/lbs. in 5 in/lb increments</li><li>8 Philips Bits: 2 x#0, 2 x #1, 2 x #2, 2 x #3</li><li>2 Slotted Bits: 4mm & 6mm</li><li>6 Torx Bits: T10, T15, T20, T25, T30 & T40</li><li>4 Hex Bits: 3mm, 4mm, 5mm & 6mm</li><li>Includes Carrying Case and Bit Insert</li><a href=http://extranet.acetools.com/Catalog/TQ01_2.jpg>Click here for a larger image</a>"
-    },
+  {
+    "class": "39",
+    "category": "Screwdrivers",
+    "item_no": "TQ01",
+    "item": "TORQUE SCREWDRIVER W/ 20 BITS - 1/4\" DR.",
+    "image": "assets/img/items/TQ01.bmp",
+    "description": "<P>This torque screwdriver features a torque meter window to clearly see the desired setting. It is adjustable from 10 to 50 inch lbs. in 5 inch lb. increments and has a lock torque setting for continuous use without resetting. The grip handle has an ergonomic design for user comfort.</P><P>The driver will fit any 1/4\" drive sockets or bits and includes 8 Philips, 4 Hex, 2 slotted and 6 Torx bits and comes in a convenient storage case.</p><br><b>Specifications:</b><li>10 to 50 In/lbs. in 5 in/lb increments</li><li>8 Philips Bits: 2 x#0, 2 x #1, 2 x #2, 2 x #3</li><li>2 Slotted Bits: 4mm & 6mm</li><li>6 Torx Bits: T10, T15, T20, T25, T30 & T40</li><li>4 Hex Bits: 3mm, 4mm, 5mm & 6mm</li><li>Includes Carrying Case and Bit Insert</li><a href=http://extranet.acetools.com/Catalog/TQ01_2.jpg>Click here for a larger image</a>"
+  },
   {
     "class": "40",
     "category": "Ratchets, Come-Alongs, Rope",
