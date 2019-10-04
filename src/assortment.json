@@ -496,6 +496,14 @@
     "description": "<P>The Viper Lance is one of a kind. It is a 3 in 1 LED COB slimlight, flexlight and spotlight. The Viper Lance features 350 lumens, a run time of 3hrs, along with 180 degree rotation. The light is easily rechargeable thru a USB port. Size: Overall length 12.2\",1\" thick.</P>"
   },
   {
+    "class": "12",
+    "category": "Reel Lights & Trouble Lights",
+    "item_no": "VSTRIKKER",
+    "item": "VIPER - 350 LUMENS PLUG LIGHT - 3 IN 1",
+    "image": "assets/img/items/VSTRIKER.jpg",
+    "description": "<P>The Viper Striker is a rechargeable LED battery-powered torch. This powerful light features 800 lumen. The CREE LED has an average service life of 100,000hrs (via USB connection with PowerBank function). Various modes include: 100%, 25%, flashing light, card reader, along with a rear indicator light.</P><P>The Viper Striker comes in a strong aluminum casing. Don't worry about dropping it, as it is made of a non-slip, robust surface. Also featured is a belt clip, striking bezel and magnetic back.</P><P>Viper Striker includes battery, USB car charging port and USB cable. Weight: 7.5oz. Size: 1.5 x 1.25 x 6 inches.</P>"
+  },
+  {
     "class": "13",
     "category": "Diamond Products",
     "item_no": "10010",
@@ -1677,7 +1685,7 @@
     "item_no": "729",
     "item": "SAW BLADE - 7-1/4\" x 24 TH SNAKEBITE",
     "image": "assets/img/items/729V.jpg",
-    "description": "<a href=assets/img/items/729.jpg target=_blank>Click Here for a Larger Image</a><P>These 7-1/4\" saw blades are made exclusively for Ace Industrial Supply under our Snakebite label. They feature 24 C-3 carbide teeth on .055\" steel plate. They are thin kerf design with an 18&deg; hook and anti-kick tooth design.</P> <P>       They are ATB grind blades and have expansion slots as well as heat vents for longer blade life. These are premium quality blades and made for rip and crosscut on wood. They have a 5/8\" arbor with a diamond knockout for worm drive saws. Maximum RPM is 7,000. Import.</P>"
+    "description": "<a href=assets/img/items/729V.jpg target=_blank>Click Here for a Larger Image</a><P>These 7-1/4\" saw blades are made exclusively for Ace Industrial Supply under our Snakebite label. They feature 24 C-3 carbide teeth on .055\" steel plate. They are thin kerf design with an 18&deg; hook and anti-kick tooth design.</P> <P>       They are ATB grind blades and have expansion slots as well as heat vents for longer blade life. These are premium quality blades and made for rip and crosscut on wood. They have a 5/8\" arbor with a diamond knockout for worm drive saws. Maximum RPM is 7,000. Import.</P>"
   },
   {
     "class": "14",
@@ -14210,6 +14218,14 @@
   {
     "class": "19",
     "category": "Electric Tools",
+    "item_no": "903V",
+    "item": "PORTABLE 12V JUMP STARTER PAD",
+    "image": "assets/img/items/903VGIF.gif",
+    "description": "<a href=assets/img/items/903VGIF.gif target=_blank>Click Here for a Larger Image</a><P>This waterproof device can do just about everything! Jump start your car or light duty truck, charge your cell phone, laptop or iPod! This mini jump starter weighs just 1.90 lbs and is compact enough to fit anywhere in your vehicle, yet it includes all the power and accessories needed for almost any device. Uses 13000mAh high capacity, high power, battery Features include 12V emergency start, LED flashlight, USB port for device use and charging!</P><br><b>Specifications</b><li>Uses 13000mAh high capacity, high power, battery</li><li>Features include 12V emergency start, LED flashlight and USB port for device use and charging, 300 Cold Cranking Amps. 400 peak amps.</li><li>Dimensions: 6” L x 3” H x 1.25” W, Weight: 1.90 lbs</li><li>Jump Start up to 7.0L Gas Motor</li><li>4.5L Diesel Engine</li><li>Waterproof</li></P>"
+  },
+  {
+    "class": "19",
+    "category": "Electric Tools",
     "item_no": "931",
     "item": "SUBMERSIBLE PUMP - 1/2 HP",
     "image": "assets/img/items/931.jpeg",
@@ -19108,16 +19124,16 @@
     "category": "Chemicals, Handsoap, Penetrating Oil",
     "item_no": "854",
     "item": "ACE SOFT TOUCH HAND CLEANER - 32 OZ.",
-    "image": "assets/img/items/854B.jpg",
-    "description": "<P>This is an industrial strength hand cleaner that is 'waterless', but can be used with water without it beading up. The formula has conditioning creams to help with chapped and dry hands and it won't leave a 'chemical' smell. It is pleasantly scented, and completely biodegradable. This hand cleaner safely removes anything from grease, carbon, asphalt, tar, dye, adhesives, and even printer's ink, and it comes in an easy to handle plastic tube, so you won't break it or lose the lid. ACE Hand Cleaner is available in two formulas; 'Soft Touch' which is a 'smooth' cleaner, and 'Tough Touch' which has a gritty pumice included for the real hard grease and grime. These 32 oz. plastic tubes also feature ACE logo as well as our toll-free number for quick and easy reordering.</P>"
+    "image": "assets/img/items/855PHN.jpg",
+    "description": "<a href=assets/img/items/855PHN.JPG target=_blank>Click Here for a Larger Image</a><P>This is an industrial strength hand cleaner that is 'waterless', but can be used with water without it beading up. The formula has conditioning creams to help with chapped and dry hands and it won't leave a 'chemical' smell. It is pleasantly scented, and completely biodegradable. This hand cleaner safely removes anything from grease, carbon, asphalt, tar, dye, adhesives, and even printer's ink, and it comes in an easy to handle plastic tube, so you won't break it or lose the lid. ACE Hand Cleaner is available in two formulas; 'Soft Touch' which is a 'smooth' cleaner, and 'Tough Touch' which has a gritty pumice included for the real hard grease and grime. These 32 oz. plastic tubes also feature ACE logo as well as our toll-free number for quick and easy reordering.</P>"
   },
   {
     "class": "26",
     "category": "Chemicals, Handsoap, Penetrating Oil",
     "item_no": "855",
     "item": "ACE TOUGH TOUCH HAND CLEANER - 32 OZ.",
-    "image": "assets/img/items/855.JPG",
-    "description": "<P>This is an industrial strength hand cleaner that is 'waterless', but can be used with water without it beading up. The formula has conditioning creams to help with chapped and dry hands and it won't leave a 'chemical' smell. It is pleasantly scented, and completely biodegradable. This hand cleaner safely removes anything from grease, carbon, asphalt, tar, dye, adhesives, and even printer's ink, and it comes in an easy to handle plastic tube, so you won't break it or lose the lid. ACE Hand Cleaner is available in two formulas; 'Soft Touch' which is a 'smooth' cleaner, and 'Tough Touch' which has a gritty pumice included for the real hard grease and grime. These 32 oz. plastic tubes also feature ACE logo as well as our toll-free number for quick and easy reordering.</P>"
+    "image": "assets/img/items/854PH.JPG",
+    "description": "<a href=assets/img/items/855PH.JPG target=_blank>Click Here for a Larger Image</a><P>This is an industrial strength hand cleaner that is 'waterless', but can be used with water without it beading up. The formula has conditioning creams to help with chapped and dry hands and it won't leave a 'chemical' smell. It is pleasantly scented, and completely biodegradable. This hand cleaner safely removes anything from grease, carbon, asphalt, tar, dye, adhesives, and even printer's ink, and it comes in an easy to handle plastic tube, so you won't break it or lose the lid. ACE Hand Cleaner is available in two formulas; 'Soft Touch' which is a 'smooth' cleaner, and 'Tough Touch' which has a gritty pumice included for the real hard grease and grime. These 32 oz. plastic tubes also feature ACE logo as well as our toll-free number for quick and easy reordering.</P>"
   },
   {
     "class": "26",
@@ -32698,6 +32714,14 @@
   {
     "class": "56",
     "category": "Christmas Items",
+    "item_no": "GF2291",
+    "item": "VIPER PORTABLE POWER CHARGER",
+    "image": "assets/img/items/GF2291.jpg",
+    "description": "<p>This is the newest Viper Portable Power Charger that will charge your phone, ipad or tablet. This Portable charge feautures the Quick Charge. Feautures a 3 in 1 cord.</p><br><b>Specifications:</b><li>With high capacity 10000mAh,provides powerful and stable power supply for each port. it is universal fits for iPhone X/8/7/6/5S/5/4S/4, iPad, iPod, Samsung devices, HTC phones, tablet PCs, digital cameras, game consoles and MP3/MP4 players</li><li>Slim Power Bank,slim design with a hard plastic construction, solid and portable. Convenient to carry at anytime and anywhere</li><li>3 in 1 charging cord, 8-pin lightning, USB Type-C and the 2x Micro USB</li>"
+  },
+  {
+    "class": "56",
+    "category": "Christmas Items",
     "item_no": "GF2294",
     "item": "SLIM POWER RECHARGEABLE BATTERY BANK 4000 MAH",
     "image": "assets/img/items/6585.jpeg",
@@ -36428,7 +36452,7 @@
     "category": "Tool Storage",
     "item_no": "75-8018B-JA",
     "item": "TOOL CHEST - 72\" DRAWER VIPER - ROLLER",
-    "image": "assets/img/items/",
+    "image": "assets/img/items/758018BJA.jpg",
     "description": "<p><li>Heavy Duty Ball Bearing Drawer Slides</li><li>Double slides on large drawers</li><li>All Welded Steel Construction</li><li>Industrial Powder Coat Finish Resists Rust</li><li>Secure Latch Retention System Keeps Drawers Closed</li><li>Heavy Duty 6\". Shock abosorbing casters, 2 locking swivel and 2 fixed</li><li>Non-Slip pre-cut drawer linders in all drawers</li><li>Barrel Lock to keep your Tools safe and secure</li><li>Size: 72\" L x 44\" H x 22\" W</li><li>6,500 weight capacity</li><Tool Chest weight: 550 lbs.</li></p>"
   },
   {
