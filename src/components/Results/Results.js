@@ -5,8 +5,8 @@ const Results = props => {
 
     const resultImage = {
         display: "block",
-        maxWidth:"75px",
-        maxHeight:"75px",
+        maxWidth:"100px",
+        maxHeight:"100px",
         width: "auto",
         height: "auto"
     }
