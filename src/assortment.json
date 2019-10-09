@@ -2,6 +2,22 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "644TIT",
+    "item": "TAP & DIE SET - 45 PC. JUMBO - TITANIUM SAE- VIPER",
+    "image": "assets/img/items/644TS.JPG",
+    "description": "<P>         Titanium coated tungsten steel dissipates heat 7 times faster than regular Tungsten steel, which extends the life of the tool. This 'Jumbo' tap and die set covers both National coarse and National fine thread ranging up to 1\" in SAE (Standard American Equivalent). Includes taps and equivalent dies.</P> <P>       Set includes adjustable tap wrench, 'T' handle tap wrench, screwdriver, die stock, 20 taps for inside threads, 20 dies for outside threads and both in coarse and fine from 1/4\" to 1\". The set comes in a rugged 2'L x 18\"W x 1\"D blow mold carrying case. Import.</P><br><b>National Coarse:</b>(Size x Thread)</br><li>1/4 x 20 - 5/16 x 18 - 3/8 x 16 - 7/16 x 141/2 x 13 - 9/16 x 12 - 5/8 x 11 - 3/4 x 107/8 x 9 - 1 x 8</li><br><b>National Fine:</b>(Size x Thread)</br><li>1/4 x 28 - 5/16 x 24 - 3/8 x 24 - 7/16 x 201/2 x 20 - 9/16 x 18 - 5/8 x 18 - 3/4 x 167/8 x 14 - 1 x 14</li><img src =assets/img/items/644TITVIPER.gif>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "644TITM",
+    "item": "TAP & DIE SET - 45 PC. JUMBO - TITANIUM METRIC - VIPER",
+    "image": "assets/img/items/644TS.JPG",
+    "description": "<P>          Titanium coated tungsten steel dissipates heat 7 times faster than regular Tungsten steel, which extends the life of the tool.  This 'Jumbo' tap and die set covers both Metric coarse and Metric fine up to 24mm. Includes taps and equivalent dies.</P> <P>       Set includes adjustable tap wrench, 'T' handle tap wrench, screwdriver, die stock, 20 taps for inside threads, 20 dies for outside threads and both in coarse and fine from 6mm to 24mm. The set comes in a rugged 2'L x 18\"W x 1\"D blow mold carrying case. Import.</P><br><b>National Coarse:</b>(Size x Thread)</br><li>6 x .75 - 8 x 1 - 10 x 1.5 - 12 x 1.5 14 x 1.5 - 16 x 1.5 - 18 x 1.5 20 x 1.5 - 22 x 1.5 - 24 x 1.5</li><br><b>National Fine:</b>(Size x Thread)</br><li>6 x 1 - 8 x 1.25 - 10 x 1.5 - 12 x 1.75 14 x 2 - 16 x 2 - 18 x 2.5 - 20 x 2.5 22 x 2.5 - 24 x 3.0</li><img src = assets/img/items/644TITVIPER.gif>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "75-206AX-JA",
     "item": "TOOL CHEST COMBO- 44\" - BLACK WIDOW",
     "image": "assets/img/items/75-206AX-JA.bmp",
@@ -135,7 +151,31 @@
     "image": "assets/img/items/AVT5730.jpg",
     "description": "<a href=assets/img/items/AVT5730.jpg target=_blank>Click Here for a Larger Image</a><P>Viper Air Tools have arrived! The Torque Series by Viper 1/2\" impact wrench is a tool that’s light in your hand but strong enough to punish the toughest jobs. With 590 ft./lbs. of Nut Busting Torque and a weight of only 5.5 lbs., the AVT1154 has the best power-to-weight ratio of any impact wrench on the market. Making it powerful, durable and reliable enough for any job that comes your way. Perfect for the most demanding applications, such as truck and bus service, construction and agricultural equipment maintenance. Viper built this wrench to last and designed it to withstand tough use in rugged environments and even included a Titanium hammer to protect the interior components of the impact wrench.<li>Enhanced socket retention</li><li>7-vane Motor delivers added power with less weight</li><li>Finely tuned twin hammer impact mechanism and motor deliver more torque, durability, and efficiency</li><li>Feather-touch trigger provides maximum control of this air impact wrench</li><li>Anodized end plate for enhanced durability</li><li>Optimized for the vehicle repair industry, body shops, general industrial use, MRO, rail, heavy machinery, oil and gas, shipbuilding, and construction</li><li>Patented one-hand forward/reverse control for easy operation</li><li>Optimized air flow for maximized performance when using this pneumatic</li><li>Maximum Torque 590/lbs</li><li>Hammer: Twin Hammer</li><li>No-Load Speed: 8,000 r.p.m.</li><li>Weight 5.5lbs</li></P>"
   },
-    {
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "HV5000",
+    "item": "VIPER - DIESEL/KEROSENE FORCED AIR HEATER- PORTABLE",
+    "image": "assets/img/items/HV7000.jpg",
+    "description": "<P>70,000-BTU forced-air kerosene heater for up to 2,250 square feet 5 -gallon fuel tank provides up to 8 hours of heat; adjustable thermostat with wheels for easy transportation. 31lbs.</P><P>Fuel Consumption 2L/hr</p><p>CETL, ETLUS Approved</p>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "HV7000",
+    "item": "VIPER - DIESEL/KEROSENE FORCED AIR HEATER- PORTABLE",
+    "image": "assets/img/items/HV7000.jpg",
+    "description": "<P>125,000-BTU forced-air kerosene heater for up to 3,250 square feet 10 -gallon fuel tank provides up to 8 hours of heat; adjustable thermostat with wheels for easy transportation. 58lbs.</P><P>Fuel Consumption 3.6L/hr</p><p>CETL, ETLUS Approved</p>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "MP151",
+    "item": "SCREWDRIVER - 15 IN 1 - ACE VIPER USA",
+    "image": "assets/img/items/MP151.jpeg",
+    "description": "<a href=assets/img/items/MP151_2.jpg target=_blank>Click Here For a Larger Image and a bit load</a><P>The Viper 15-in-1 Screwdriver has industrial-grade torx, square, hex, slotted and phillips screwdriver bit sizes combined into one tool and features an EZ Guide collar, retractable bit cartridge and a palm saver cap.</P><p>It is loaded with 7 double end professional quality bits that provide the 14 most popular tips for driving screws. The shaft opening serves as a 1/4 hex driver and this rugged tool is USA made.</p>"
+  },
+  {
     "class": "1",
     "category": "Viper Products",
     "item_no": "425SAMP",
@@ -158,6 +198,38 @@
     "item": "ACE TOUGH TOUCH HAND CLEANER - 32 OZ.",
     "image": "assets/img/items/854PH.JPG",
     "description": "<a href=assets/img/items/855PH.JPG target=_blank>Click Here for a Larger Image</a><P>This is an industrial strength hand cleaner that is 'waterless', but can be used with water without it beading up. The formula has conditioning creams to help with chapped and dry hands and it won't leave a 'chemical' smell. It is pleasantly scented, and completely biodegradable. This hand cleaner safely removes anything from grease, carbon, asphalt, tar, dye, adhesives, and even printer's ink, and it comes in an easy to handle plastic tube, so you won't break it or lose the lid. ACE Hand Cleaner is available in two formulas; 'Soft Touch' which is a 'smooth' cleaner, and 'Tough Touch' which has a gritty pumice included for the real hard grease and grime. These 32 oz. plastic tubes also feature ACE logo as well as our toll-free number for quick and easy reordering.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "22PC",
+    "item": "WRENCH SET - BOX & OPEN END 22 PC. SAE & METRIC VIPER",
+    "image": "assets/img/items/22PC.JPG",
+    "description": "<a href=assets/img/items/22PC.JPG target=_blank>Click Here for a Larger Image</a><P>These are Viper highly polished, chrome vanadium steel wrenches in both SAE and metric in an organized, vinyl pouch. These wrenches are heat treated and tempered for strength and feature the raised panel design.</P><P>The set includes 11 SAE sizes from 1/4\" to 7/8\" and 11 metric sizes from 7mm to 19mm. The boxed ends are 12 point and this set is manufactured to rigid standards to assure a lifetime of use.<br><b>Specifications:</b><li>SAE Sizes: 7/8\", 13/16\", 3/4\", 11/16\", 5/8\", 9/16\", 1/2\", 7/16\", 3/8\", 5/16\", 1/4\"</li><li>Metric: 7mm, 8mm, 9mm, 10mm, 11mm, 12mm, 13mm, 14mm, 15mm, 18mm, 19mm</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "N16PC",
+    "item": "WRENCH SET - BOX & OPEN 16 PC. SAE BLACK",
+    "image": "assets/img/items/N16PCV.jpg",
+    "description": "<a href=assets/img/items/N16PCV.jpg target=_blank>Click Here for a Larger Image</a><P>These are 'raised panel' wrenches that are case hardened from pure alloyed steel, and drop forged in a unique two step process. They have a black oxide finish for longer durability and corrosion resistance. Vinyl Pouch Included.<br><b>Specifications:</b>1/4\", 5/16\", 3/8\", 7/16\", 1/2\", 9/16\", 5/8\", 11/16\", 3/4\", 13/16\", 7/8\", 15/16\", 1\", 1-1/16\", 1-1/8\", 1-1/4\"</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "N16PCM",
+    "item": "WRENCH SET - BLACK OXIDE 16 PC. METRIC",
+    "image": "assets/img/items/N16PCMV.JPG",
+    "description": "<a href=assets/img/items/N16PCMV.jpg target=_blank>Click Here for a Larger Image</a><P>These are 'raised panel' wrenches that are case hardened from pure alloyed steel, and drop forged in a unique two step process. They have a black oxide finish for longer durability and corrosion resistance. Vinyl Pouch Included.</P><br><b>Specifications:</b>6mm, 8mm, 9mm, 10mm, 11mm, 12mm, 13mm, 14mm, 15mm, 17mm, 19mm, 21mm, 24mm, 27mm, 30mm, 32mm</p>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VIP38",
+    "item": "DUOMETRIC IMPACT SOCKET SET - 38 PC - VIPER",
+    "image": "assets/img/items/VIP38.jpeg",
+    "description": "<a href=assets/img/items/VIP38.jpeg>Click Here for a Larger Image</a><P>A great feature of the duometric impact sockets is that one socket will fit both standard and metric, because instead of gripping the corners of a nut or bolt these sockets grip on the side of the fastener head.</P><P>This feature has three very important benefits: you can apply up to 30% more torque, slipping is prevented and damage to corners of the fasteners is avoided. They will also fit fasteners that have been stripped at the corners.</P><P>These sockets are made from heavy duty, black chrome vanadium steel, and they meet or exceed all U.S. Federal specifications. They are manufactured exclusively for Ace Industrial Supply under our 'Viper Strike Series', with the Viper logo embossed on each socket.</P><P>This is a 38 piece, 3/8\" & 1/2\" drive set, that features deep and shallow sockets, from 8mm to 24mm and 3/8\" to 1-1/4\", with 2 extensions in a blow mold carrying case.</P><BR><b>Specifications</b><li>7 pieces - 3/8\" drive shallow sockets: 8mm (5/16\"), 9mm, 12mm, 13mm, 14mm, 16mm (5/8\") and 17mm\"</li><li>6 pieces - 3/8\" drive shallow sockets: 3/8\", 7/16\" (11mm), 1/2\", 9/16\", 11/16\", 3/4\" (19mm)</li><li>11 pieces - 1/2\" drive shallow sockets: 10mm, 11mm (7/16\"), 12mm, 13mm, 14mm, 15mm, 16mm (5/8\"), 17mm, 18mm, 21mm, 24mm (15/16\")</li><li>10 pieces - 1/2\" drive deep sockets: 1/2\", 9/16\", 11/16\", 3/4\" (19mm), 13/16\", 7/8\" (22mm), 1\", 1-1/16\", 1-1/8\", 1-1/4\"</li><li>One 1/2\" to 3/8\" reducer</li><li>One 1/2\" drive x 3\" long extension</li><li>Blow mold carrying case</li>"
   },
   {
     "class": "1",
@@ -282,6 +354,46 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "146",
+    "item": "GRINDING WHEEL - METAL 4-1/2\" x 1/4\" x 7/8\"",
+    "image": "assets/img/items/146N.JPG",
+    "description": "<a href=assets/img/items/146N.jpg target=_blank>Click Here for a Larger Image</a><P>Designed and manufactured to the exacting standards of ACE Industrial Supply and the ACE Abrasives team, our new series of 'Eagle Cut' grinding wheels are made to meet the rigorous demands of contractors in almost every trade.</P> <P>       Manufactured to our tough standards and then tested by an independent American company, the ACE Eagle Cut wheels out performed Mercer brand wheels and tested comparable to Sait. 4-1/2\" Diameter, 1/4\" thick, with 7/8\"  (non threaded) arbor.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "41216",
+    "item": "CUT-OFF WHEEL - EAGLE CUT - 4-1/2\" x 1/16\" x 7/8\"",
+    "image": "assets/img/items/41232N.jpg",
+    "description": "<a href=assets/img/items/41232N.jpg target=_blank>Click Here for a Larger Image</a><P>Designed and manufactured to the exacting standards of ACE Industrial Supply and the ACE Abrasives team, our new series of 'Eagle Cut' cut-off wheels are made to meet the rigorous demands of contractors in almost every trade.</P> <P>       Manufactured to our tough standards and then tested by an independent American company, our Eagle Cut 4-1/2\" cutoff wheels out performed and outlasted Mercer&reg; brand wheels by a ratio of 3 to 1!!</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "41232",
+    "item": "CUT-OFF WHEEL - EAGLE CUT - 4-1/2\" x 1/32\" x 7/8\"",
+    "image": "assets/img/items/41232N.jpg",
+    "description": "<a href=assets/img/items/41232N.jpg target=_blank>Click Here for a Larger Image</a><P>Designed and manufactured to the exacting standards of ACE Industrial Supply and the ACE Abrasives team, our new series of 'Eagle Cut' cut-off wheels are made to meet the rigorous demands of contractors in almost every trade.</P> <P>       Manufactured to our tough standards and then tested by an independent American company, our Eagle Cut 4-1/2\" cutoff wheels out performed and outlasted Mercer&reg; brand wheels by a ratio of 3 to 1!!</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "AX14",
+    "item": "CUTOFF SAW - 14\" HIGH SPEED 5 HP - BLACK WIDOW",
+    "image": "assets/img/items/AX.jpeg",
+    "description": "<P>The 'AX14 BLACK HAWK' is an Ace Industrial Supply private label product and is not available online or in stores. This 14\" high speed metal cut-off machine features a powerful 15 amp motor with 5 horsepower which runs up to 3,800 RPM for quick and precise cutting. This saw also comes equipped with a safety trigger to prevent accidental starts.</P><p>It is perfect for cutting steel, conduit, angle iron, pipe, tubing, rebar, brass, copper, aluminum, most plastics.</p><p>It has a heavy duty cast steel base and an ergonomic soft grip as well as a mitering vise and safety guard.</p><p><b>Specifications:</b></p><li>14\" Diameter/1\" Arbor</li><li>2,480 Watt Motor</li><li>15 Amp/120 Vol</li><li>5 HP - 3,800 RPM (No Load Speed)</li><li>Heavy Duty Cast Steel Base</li><li>Mitering Vise</li><li>Adjustable angle: 0 - 45&deg; left/right</li><li>Weight: 48lbs</li></p>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "MX14",
+    "item": "CUTOFF SAW - 14\" HIGH SPEED 5 HP - BLACK WIDOW",
+    "image": "assets/img/items/MX14.jpg",
+    "description": "<a href=assets/img/items/MX14.jpg target=_blank>Click Here for a Larger Image</a><P>The 'MX14 Chopper' is an Ace Industrial Supply/Black Widow branded product and not available online or in stores. This 14\" dry cutting chop saw features a 15A, 2,480 watt, double insulated motor and a safety trigger to prevent accidental starts</P><P>This saw can be used for cutting dry with no need for cooling fluids. It is perfect for cutting steel, wood, brass, aluminum and most plastics and has a maximum cutting capacity of 4.72\".</P><P>It has a cast alloy base and saw arm as well as a mitering vise and safety guard. It is low speed at 1,450 RPM so it is the perfect portable dry cutting saw at a very competitive price.</P><br><b>Specifications:</b><li>14\" Diameter/1\" Arbor</li><li>2,480 Watt Motor</li><li>15 Amp/120 Volt</li><li>1,450 RPM</li><li>Cast Alloy Base and Saw Arm</li><li>Mitering Vise</li><li>Safety Trigger</li><li>Maximum Capacity @ 90&deg;: Bar: 4.72\" - Pipe: 4.13\"</li><li>Maximum Capacity @ 45&deg;: Bar: 3.74\" - Pipe: 3.15\"</li><li>Weight: 47 Lbs.</li>Blade not included</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "VCTR6",
     "item": "CARBIDE TIPPED RECIP BLADE - 6\" X 8 TPI - METAL",
     "image": "assets/img/items/VCTR6.jpg",
@@ -362,6 +474,14 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "729",
+    "item": "SAW BLADE - 7-1/4\" x 24 TH SNAKEBITE",
+    "image": "assets/img/items/729V.jpg",
+    "description": "<a href=assets/img/items/729V.jpg target=_blank>Click Here for a Larger Image</a><P>These 7-1/4\" saw blades are made exclusively for Ace Industrial Supply under our Snakebite label. They feature 24 C-3 carbide teeth on .055\" steel plate. They are thin kerf design with an 18&deg; hook and anti-kick tooth design.</P> <P>       They are ATB grind blades and have expansion slots as well as heat vents for longer blade life. These are premium quality blades and made for rip and crosscut on wood. They have a 5/8\" arbor with a diamond knockout for worm drive saws. Maximum RPM is 7,000. Import.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "VBEACON",
     "item": "VIPER BEACON - PORTABLE SEARCHLIGHT",
     "image": "assets/img/items/VBEACON.png",
@@ -382,6 +502,14 @@
     "item": "VIPER - 350 LUMENS PLUG LIGHT - 3 IN 1",
     "image": "assets/img/items/VLANCE.jpeg",
     "description": "<P>The Viper Lance is one of a kind. It is a 3 in 1 LED COB slimlight, flexlight and spotlight. The Viper Lance features 350 lumens, a run time of 3hrs, along with 180 degree rotation. The light is easily rechargeable thru a USB port. Size: Overall length 12.2\",1\" thick.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "14MC",
+    "item": "VIPER 14\" METAL CUT-OFF WHEELS",
+    "image": "assets/img/items/14MC_2.jpeg",
+    "description": "<P>       Designed and manufactured to the exacting standards of ACE Industrial Supply and the ACE Abrasives team, this double reinforced cut-off wheel is made to meet the demands of contractors in almost every trade.</P> <P>      These 14\" diameter wheels are 1/8\" thick and have the standard 1\" arbor to fit most electric chop saws. They are manufactured from aluminum oxide 'A24R' abrasive bonded with two layers of fiberglass reinforcement and are made to cut all ferrous materials like steel, cast iron and other metals.</P> <P>      They have a maximum RPM of 4,400 and are for electric chop saws only and not recommended for use on high RPM, gas powered saws.</P>"
   },
   {
     "class": "1",
@@ -574,6 +702,78 @@
     "item": "PORTABLE 12V JUMP STARTER PAD",
     "image": "assets/img/items/903VGIF.gif",
     "description": "<a href=assets/img/items/903VGIF.gif target=_blank>Click Here for a Larger Image</a><P>This waterproof device can do just about everything! Jump start your car or light duty truck, charge your cell phone, laptop or iPod! This mini jump starter weighs just 1.90 lbs and is compact enough to fit anywhere in your vehicle, yet it includes all the power and accessories needed for almost any device. Uses 13000mAh high capacity, high power, battery Features include 12V emergency start, LED flashlight, USB port for device use and charging!</P><br><b>Specifications</b><li>Uses 13000mAh high capacity, high power, battery</li><li>Features include 12V emergency start, LED flashlight and USB port for device use and charging, 300 Cold Cranking Amps. 400 peak amps.</li><li>Dimensions: 6” L x 3” H x 1.25” W, Weight: 1.90 lbs</li><li>Jump Start up to 7.0L Gas Motor</li><li>4.5L Diesel Engine</li><li>Waterproof</li></P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "127",
+    "item": "SAWBLADE - CARBIDE 6-1/2\" x 24 TOOTH",
+    "image": "assets/img/items/127.JPG",
+    "description": "<P>         These general purpose & framing blades have been designed for quick, clean cutting with various portable saws. They are ideal for cutting of all types of hardwood, softwood, particle board and plywood. </P> <P>         The aggressive hook angle and super thin kerf make for fast and easy cutting. Other features include an anti-kickback tooth design for added safety and heat vents for cooler operation resulting in extended blade life. The long lasting micro grain carbide is precision ground to ensure the best possible cut. \n\n\n\n</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "130",
+    "item": "SAWBLADE - 7-1/4\" x 40 TOOTH - CARBIDE",
+    "image": "assets/img/items/130.jpeg",
+    "description": "<P>         These are heavy duty 'Viper' carbide tipped saw blades,  American made for ACE Industrial in Woodburn, Oregon. These blades last five times longer than standard blades and each blade is heat treated and polished. </P> <P>      This blade is designed to give accurate cuts in wood, plastic, formica and masonite and is made from the best American made tungsten carbide. They're rated at 9400 RPM that's 2400 more RPM's than a standard blade.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VDG100L",
+    "item": "VIPER GRIP BLACK DIAMOND NITRILE GLOVES- LARGE",
+    "image": "assets/img/items/VDG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Raised Textured Surface for Snake-Like Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VDG100M",
+    "item": "VIPER GRIP BLACK DIAMOND NITRILE GLOVES- MEDIUM",
+    "image": "assets/img/items/VDG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Raised Textured Surface for Snake-Like Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VDG100XL",
+    "item": "VIPER GRIP BLACK DIAMOND NITRILE GLOVES- X LARGE",
+    "image": "assets/img/items/VDG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Raised Textured Surface for Snake-Like Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VPG100L",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES 6 MIL LARGE",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VPG100M",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES - MEDIUM",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VPG100XL",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES - X LARGE",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VPG100XXL",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES - XX - LARGE",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
   },
   {
     "class": "10",
@@ -4588,7 +4788,7 @@
     "category": "Abrasives",
     "item_no": "146",
     "item": "GRINDING WHEEL - METAL 4-1/2\" x 1/4\" x 7/8\"",
-    "image": "assets/img/items/146N.jpg",
+    "image": "assets/img/items/146N.JPG",
     "description": "<a href=assets/img/items/146N.jpg target=_blank>Click Here for a Larger Image</a><P>Designed and manufactured to the exacting standards of ACE Industrial Supply and the ACE Abrasives team, our new series of 'Eagle Cut' grinding wheels are made to meet the rigorous demands of contractors in almost every trade.</P> <P>       Manufactured to our tough standards and then tested by an independent American company, the ACE Eagle Cut wheels out performed Mercer brand wheels and tested comparable to Sait. 4-1/2\" Diameter, 1/4\" thick, with 7/8\"  (non threaded) arbor.</P>"
   },
   {
@@ -4884,7 +5084,7 @@
     "category": "Abrasives",
     "item_no": "41216",
     "item": "CUT-OFF WHEEL - EAGLE CUT - 4-1/2\" x 1/16\" x 7/8\"",
-    "image": "assets/img/items/41232N.JPG",
+    "image": "assets/img/items/41232N.jpg",
     "description": "<a href=assets/img/items/41232N.jpg target=_blank>Click Here for a Larger Image</a><P>Designed and manufactured to the exacting standards of ACE Industrial Supply and the ACE Abrasives team, our new series of 'Eagle Cut' cut-off wheels are made to meet the rigorous demands of contractors in almost every trade.</P> <P>       Manufactured to our tough standards and then tested by an independent American company, our Eagle Cut 4-1/2\" cutoff wheels out performed and outlasted Mercer&reg; brand wheels by a ratio of 3 to 1!!</P>"
   },
   {
@@ -4892,7 +5092,7 @@
     "category": "Abrasives",
     "item_no": "41232",
     "item": "CUT-OFF WHEEL - EAGLE CUT - 4-1/2\" x 1/32\" x 7/8\"",
-    "image": "assets/img/items/41232N.JPG",
+    "image": "assets/img/items/41232N.jpg",
     "description": "<a href=assets/img/items/41232N.jpg target=_blank>Click Here for a Larger Image</a><P>Designed and manufactured to the exacting standards of ACE Industrial Supply and the ACE Abrasives team, our new series of 'Eagle Cut' cut-off wheels are made to meet the rigorous demands of contractors in almost every trade.</P> <P>       Manufactured to our tough standards and then tested by an independent American company, our Eagle Cut 4-1/2\" cutoff wheels out performed and outlasted Mercer&reg; brand wheels by a ratio of 3 to 1!!</P>"
   },
   {
@@ -15006,6 +15206,14 @@
     "item": "CUTOFF SAW - 14\" HIGH SPEED 5 HP - BLACK WIDOW",
     "image": "assets/img/items/AX.jpeg",
     "description": "<P>The 'AX14 BLACK HAWK' is an Ace Industrial Supply private label product and is not available online or in stores. This 14\" high speed metal cut-off machine features a powerful 15 amp motor with 5 horsepower which runs up to 3,800 RPM for quick and precise cutting. This saw also comes equipped with a safety trigger to prevent accidental starts.</P><p>It is perfect for cutting steel, conduit, angle iron, pipe, tubing, rebar, brass, copper, aluminum, most plastics.</p><p>It has a heavy duty cast steel base and an ergonomic soft grip as well as a mitering vise and safety guard.</p><p><b>Specifications:</b></p><li>14\" Diameter/1\" Arbor</li><li>2,480 Watt Motor</li><li>15 Amp/120 Vol</li><li>5 HP - 3,800 RPM (No Load Speed)</li><li>Heavy Duty Cast Steel Base</li><li>Mitering Vise</li><li>Adjustable angle: 0 - 45&deg; left/right</li><li>Weight: 48lbs</li></p>"
+  },
+  {
+    "class": "19",
+    "category": "Electric Tools",
+    "item_no": "MX14",
+    "item": "CUTOFF SAW - 14\" HIGH SPEED 5 HP - BLACK WIDOW",
+    "image": "assets/img/items/MX14.jpg",
+    "description": "<a href=assets/img/items/MX14.jpg target=_blank>Click Here for a Larger Image</a><P>The 'MX14 Chopper' is an Ace Industrial Supply/Black Widow branded product and not available online or in stores. This 14\" dry cutting chop saw features a 15A, 2,480 watt, double insulated motor and a safety trigger to prevent accidental starts</P><P>This saw can be used for cutting dry with no need for cooling fluids. It is perfect for cutting steel, wood, brass, aluminum and most plastics and has a maximum cutting capacity of 4.72\".</P><P>It has a cast alloy base and saw arm as well as a mitering vise and safety guard. It is low speed at 1,450 RPM so it is the perfect portable dry cutting saw at a very competitive price.</P><br><b>Specifications:</b><li>14\" Diameter/1\" Arbor</li><li>2,480 Watt Motor</li><li>15 Amp/120 Volt</li><li>1,450 RPM</li><li>Cast Alloy Base and Saw Arm</li><li>Mitering Vise</li><li>Safety Trigger</li><li>Maximum Capacity @ 90&deg;: Bar: 4.72\" - Pipe: 4.13\"</li><li>Maximum Capacity @ 45&deg;: Bar: 3.74\" - Pipe: 3.15\"</li><li>Weight: 47 Lbs.</li>Blade not included</li>"
   },
   {
     "class": "19",
