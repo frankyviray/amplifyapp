@@ -29,8 +29,8 @@ class Modal extends Component {
       margin: '25px auto',
       padding: 30,
       display: "flex",
-      height: "150vh",
-      width: "150vh",
+      height: "auto",
+      width: "auto",
       flexWrap: "wrap",
       textAlign: "center",
       overflow: "auto",
@@ -38,7 +38,7 @@ class Modal extends Component {
     };
 
     const productImg = {
-      maxWidth: "220px"
+      maxWidth: "600px"
     }
 
     const cardHeader = {
