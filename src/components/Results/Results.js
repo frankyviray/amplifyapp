@@ -13,7 +13,7 @@ const Results = props => {
 
     
     return (
-        <div className="col-l-12 col-md-9">
+        <div className="col-md-6 col-sm-6 col-xs-6">
             <div id="result-card"className="card">
                 <table className="table">
                     <thead className="card-header">
