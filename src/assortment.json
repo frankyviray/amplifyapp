@@ -250,6 +250,14 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "DCAM",
+    "item": "VIPER HD DASH CAM",
+    "image": "assets/img/items/DCAM.jpg",
+    "description": "<a href=assets/img/items/DCAM.gif>Click Here for a Larger Image</a><P>Viper HD Dash Cam has a LCD Screen with everything thank you would need. Includes a 16GB memory card <br><b>Specifications</b></br><li>16GB memory card</li><li>HD DVR</li><li>Mode Video Recorder</li><li>Camera</li></P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "V110",
     "item": "POWER CORD - 12/3 x 25' - LIGHTEND ENDS - VIPER",
     "image": "assets/img/items/V110PH.jpg",
