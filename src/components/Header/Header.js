@@ -7,8 +7,11 @@ const Header = props => {
         <div id="nav-wrapper">
             <nav className="navbar">
                 <a className="navbar-brand">
-                    <img src="assets/img/ace_logo.png" width="400px" height="" alt=""/>
-                    <p>Ace Industrial Supply, 7535 San Fernando Road, Burbank, CA</p>
+                    <img src="assets/img/ace_logo.png" width="400px" height="" alt="" />
+                    <form>
+                        <a href="https://www.acetools.com/">Ace Industrial Supply, 7535 San Fernando Road, Burbank, CA</a>
+                    </form>
+
                 </a>
             </nav>
         </div>
