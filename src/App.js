@@ -8,7 +8,7 @@ import Modal from './components/Modal';
 
 import assortment from './assortment.json'
 
-
+alert("To access please use Internet Explorer 11 at a minimum, Firefox or Chrome.");
 class App extends Component {
   state = {
     assortment: assortment,
