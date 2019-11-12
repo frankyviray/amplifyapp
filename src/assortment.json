@@ -533,7 +533,7 @@
     "item_no": "MX14",
     "item": "CUTOFF SAW - 14\" HIGH SPEED 5 HP - BLACK WIDOW",
     "image": "assets/img/items/MX14.jpg",
-    "description": "<P>The 'MX14 Chopper' is an Ace Industrial Supply/Black Widow branded product and not available online or in stores. This 14\" dry cutting chop saw features a 15A, 2,480 watt, double insulated motor and a safety trigger to prevent accidental starts</P><P>This saw can be used for cutting dry with no need for cooling fluids. It is perfect for cutting steel, wood, brass, aluminum and most plastics and has a maximum cutting capacity of 4.72\".</P><P>It has a cast alloy base and saw arm as well as a mitering vise and safety guard. It is low speed at 1,450 RPM so it is the perfect portable dry cutting saw at a very competitive price.</P><br><b>Specifications:</b><li>14\" Diameter/1\" Arbor</li><li>2,480 Watt Motor</li><li>15 Amp/120 Volt</li><li>1,450 RPM</li><li>Cast Alloy Base and Saw Arm</li><li>Mitering Vise</li><li>Safety Trigger</li><li>Maximum Capacity @ 90&deg;: Bar: 4.72\" - Pipe: 4.13\"</li><li>Maximum Capacity @ 45&deg;: Bar: 3.74\" - Pipe: 3.15\"</li><li>Weight: 47 Lbs.</li>Blade not included</li>"
+    "description": "<P>The 'MX14 Chopper' is an Ace Industrial Supply/Black Widow branded product and not available online or in stores. This 14\" dry cutting chop saw features a 15A, 2,480 watt, double insulated motor and a safety trigger to prevent accidental starts</P><P>This saw can be used for cutting dry with no need for cooling fluids. It is perfect for cutting steel, wood, brass, aluminum and most plastics and has a maximum cutting capacity of 4.72\".</P><P>It has a cast alloy base and saw arm as well as a mitering vise and safety guard.</P><br><b>Specifications:</b><li>14\" Diameter/1\" Arbor</li><li>2,480 Watt Motor</li><li>15 Amp/120 Volt</li><li>1,450 RPM</li><li>Cast Alloy Base and Saw Arm</li><li>Mitering Vise</li><li>Safety Trigger</li><li>Maximum Capacity @ 90&deg;: Bar: 4.72\" - Pipe: 4.13\"</li><li>Maximum Capacity @ 45&deg;: Bar: 3.74\" - Pipe: 3.15\"</li><li>Weight: 47 Lbs.</li>Blade not included</li>"
   },
   {
     "class": "1",
@@ -622,6 +622,46 @@
     "item": "SAW BLADE - 7-1/4\" x 24 TH SNAKEBITE",
     "image": "assets/img/items/729V.jpg",
     "description": "<P>These 7-1/4\" saw blades are made exclusively for Ace Industrial Supply under our Snakebite label. They feature 24 C-3 carbide teeth on .055\" steel plate. They are thin kerf design with an 18&deg; hook and anti-kick tooth design.</P> <P>       They are ATB grind blades and have expansion slots as well as heat vents for longer blade life. These are premium quality blades and made for rip and crosscut on wood. They have a 5/8\" arbor with a diamond knockout for worm drive saws. Maximum RPM is 7,000. Import.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "3MTL",
+    "item": "DIAMOND BLADE - METAL CUTTING - 3\" x 3/8\" VIPER",
+    "image": "assets/img/items/45MTL_G.JPG",
+    "description": "<P>The Viper Snakebite is a revolutionary line of diamond wheels for metal applications. It is designed to cut metal, stainless steel and a variety of ferrous metals with less odor and debris compared to conventional abrasives.</p><p>It is engineered with a high concentration of diamonds with an extremely strong bond. They can handle higher RPM's than traditional abrasive wheels and unlike traditional cut-off wheels these blade do not change over time, resulting in a blade that remains the same from the first cut to final cut.</p><br><b>Specifications:</b><li>3\" x .040 x 3/8\"</li><li>Ultra Thin Kerf - Cuts Extremely Fast</li><li>Vacuum Brazed Technology - For Extra Long Life</li><li>Blade Life is Equivalent to 65 Abrasive Wheels.</li><li>Max RPM: 25,000</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "45MTL",
+    "item": "DIAMOND BLADE - METAL CUTTING 4-1/2\" x 7/8\" VIPER",
+    "image": "assets/img/items/45MTL_G.JPG",
+    "description": "<P>     The Viper Snakebite Blade is a revolutionary line of diamond wheels for metal applications. It is designed to cut metal, stainless steel and a variety of ferrous metals with less odor and debris compared to conventional abrasives. </P> <P>    It is engineered with a high concentration of diamonds with an extremely strong bond. They can handle higher RPM's than traditional abrasive wheels and unlike traditional cut-off wheels these blade do not change over time, resulting in a blade that remains the same from the first cut to final cut.</P><br><b>Specifications:</b><li>4-1/2\" x .050 x 7/8\", 5/8\"</li><li>Ultra Thin Kerf - Cuts Extremely Fast</li><li>Vacuum Brazed Technology - For Extra Long Life</li><li>Blade Life is Equivalent to 65 Abrasive Wheels.</li><li>Max RPM: 13,000</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "5MTL",
+    "item": "DIAMOND BLADE - METAL CUTTING - 5\"  x 7/8\",5/8\" VIPER",
+    "image": "assets/img/items/45MTL_2.JPG",
+    "description": "<P>   The Viper Snakebite is a revolutionary line of diamond wheels for metal applications. It is designed to cut metal, stainless steel and a variety of ferrous metals with less odor and debris compared to conventional abrasives. </P> <P>    It is engineered with a high concentration of diamonds with an extremely strong bond. They can handle higher RPM's than traditional abrasive wheels and unlike traditional cut-off wheels these blade do not change over time, resulting in a blade that remains the same from the first cut to final cut. These wheels will work with a 5/8\" and 7/8\" arbor. For use of 7/8\" all you need to do is knock out the copper ring inside the arbor.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "7MTL",
+    "item": "DIAMOND BLADE - METAL CUTTING - 7\" x 7/8\", 5/8\"  DI VIPER",
+    "image": "assets/img/items/45MTL_2.JPG",
+    "description": "<P>    This Mean Red Blade is a revolutionary line of diamond wheels for metal applications. It is designed to cut metal, stainless steel and a variety of ferrous metals with less odor and debris compared to conventional abrasives. </P> <P>    It is engineered with a high concentration of diamonds with an extremely strong bond. They can handle higher RPM's than traditional abrasive wheels and unlike traditional cut-off wheels these blade do not change over time, resulting in a blade that remains the same from the first cut to final cut.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "14MTL",
+    "item": "DIAMOND BLADE - METAL CUTTING -  14\" VIPER",
+    "image": "assets/img/items/45MTL_G.JPG",
+    "description": "<P>    The Viper Snakebite Blade is a revolutionary line of diamond wheels for metal applications. It is designed to cut metal, stainless steel and a variety of ferrous metals with less odor and debris compared to conventional abrasives. </P> <P>    It is engineered with a high concentration of diamonds with an extremely strong bond. They can handle higher RPM's than traditional abrasive wheels and unlike traditional cut-off wheels these blade do not change over time, resulting in a blade that remains the same from the first cut to final cut.</P>"
   },
   {
     "class": "1",
@@ -2195,9 +2235,9 @@
     "class": "13",
     "category": "Diamond Products",
     "item_no": "45MTL",
-    "item": "DIAMOND BLADE - METAL CUTTING 4-1/2\" x 7/8\"",
+    "item": "DIAMOND BLADE - METAL CUTTING 4-1/2\" x 7/8\" VIPER",
     "image": "assets/img/items/45MTL_G.JPG",
-    "description": "<P>     The Viper Snakebite Blade is a revolutionary line of diamond wheels for metal applications. It is designed to cut metal, stainless steel and a variety of ferrous metals with less odor and debris compared to conventional abrasives. </P> <P>    It is engineered with a high concentration of diamonds with an extremely strong bond. They can handle higher RPM's than traditional abrasive wheels and unlike traditional cut-off wheels these blade do not change over time, resulting in a blade that remains the same from the first cut to final cut.</P>"
+    "description": "<P>     The Viper Snakebite Blade is a revolutionary line of diamond wheels for metal applications. It is designed to cut metal, stainless steel and a variety of ferrous metals with less odor and debris compared to conventional abrasives. </P> <P>    It is engineered with a high concentration of diamonds with an extremely strong bond. They can handle higher RPM's than traditional abrasive wheels and unlike traditional cut-off wheels these blade do not change over time, resulting in a blade that remains the same from the first cut to final cut.</P><br><b>Specifications:</b><li>4-1/2\" x .050 x 7/8\", 5/8\"</li><li>Ultra Thin Kerf - Cuts Extremely Fast</li><li>Vacuum Brazed Technology - For Extra Long Life</li><li>Blade Life is Equivalent to 65 Abrasive Wheels.</li><li>Max RPM: 13,000</li>"
   },
   {
     "class": "13",
@@ -15373,7 +15413,7 @@
     "item_no": "MX14",
     "item": "CUTOFF SAW - 14\" HIGH SPEED 5 HP - BLACK WIDOW",
     "image": "assets/img/items/MX14.jpg",
-    "description": "<P>The 'MX14 Chopper' is an Ace Industrial Supply/Black Widow branded product and not available online or in stores. This 14\" dry cutting chop saw features a 15A, 2,480 watt, double insulated motor and a safety trigger to prevent accidental starts</P><P>This saw can be used for cutting dry with no need for cooling fluids. It is perfect for cutting steel, wood, brass, aluminum and most plastics and has a maximum cutting capacity of 4.72\".</P><P>It has a cast alloy base and saw arm as well as a mitering vise and safety guard. It is low speed at 1,450 RPM so it is the perfect portable dry cutting saw at a very competitive price.</P><br><b>Specifications:</b><li>14\" Diameter/1\" Arbor</li><li>2,480 Watt Motor</li><li>15 Amp/120 Volt</li><li>1,450 RPM</li><li>Cast Alloy Base and Saw Arm</li><li>Mitering Vise</li><li>Safety Trigger</li><li>Maximum Capacity @ 90&deg;: Bar: 4.72\" - Pipe: 4.13\"</li><li>Maximum Capacity @ 45&deg;: Bar: 3.74\" - Pipe: 3.15\"</li><li>Weight: 47 Lbs.</li>Blade not included</li>"
+    "description": "<P>The 'MX14 Chopper' is an Ace Industrial Supply/Black Widow branded product and not available online or in stores. This 14\" dry cutting chop saw features a 15A, 2,480 watt, double insulated motor and a safety trigger to prevent accidental starts</P><P>This saw can be used for cutting dry with no need for cooling fluids. It is perfect for cutting steel, wood, brass, aluminum and most plastics and has a maximum cutting capacity of 4.72\".</P><P>It has a cast alloy base and saw arm as well as a mitering vise and safety guard.</P><br><b>Specifications:</b><li>14\" Diameter/1\" Arbor</li><li>2,480 Watt Motor</li><li>15 Amp/120 Volt</li><li>1,450 RPM</li><li>Cast Alloy Base and Saw Arm</li><li>Mitering Vise</li><li>Safety Trigger</li><li>Maximum Capacity @ 90&deg;: Bar: 4.72\" - Pipe: 4.13\"</li><li>Maximum Capacity @ 45&deg;: Bar: 3.74\" - Pipe: 3.15\"</li><li>Weight: 47 Lbs.</li>Blade not included</li>"
   },
   {
     "class": "19",
