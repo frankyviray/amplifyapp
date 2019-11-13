@@ -157,7 +157,7 @@
     "item_no": "AVT5730",
     "item": "VIPER TORQUE - AIR CHISEL HAMMER",
     "image": "assets/img/items/AVT5730.jpg",
-    "description": "<P>Viper Air Tools have arrived! The Torque Series by Viper 1/2\" impact wrench is a tool that’s light in your hand but strong enough to punish the toughest jobs. With 590 ft./lbs. of Nut Busting Torque and a weight of only 5.5 lbs., the AVT1154 has the best power-to-weight ratio of any impact wrench on the market. Making it powerful, durable and reliable enough for any job that comes your way. Perfect for the most demanding applications, such as truck and bus service, construction and agricultural equipment maintenance. Viper built this wrench to last and designed it to withstand tough use in rugged environments and even included a Titanium hammer to protect the interior components of the impact wrench.<li>Enhanced socket retention</li><li>7-vane Motor delivers added power with less weight</li><li>Finely tuned twin hammer impact mechanism and motor deliver more torque, durability, and efficiency</li><li>Feather-touch trigger provides maximum control of this air impact wrench</li><li>Anodized end plate for enhanced durability</li><li>Optimized for the vehicle repair industry, body shops, general industrial use, MRO, rail, heavy machinery, oil and gas, shipbuilding, and construction</li><li>Patented one-hand forward/reverse control for easy operation</li><li>Optimized air flow for maximized performance when using this pneumatic</li><li>Maximum Torque 590/lbs</li><li>Hammer: Twin Hammer</li><li>No-Load Speed: 8,000 r.p.m.</li><li>Weight 5.5lbs</li></P>"
+    "description": "<P>Viper’s AVT5730 heavy duty air hammer and chisel are perfect for cutting, chipping, piercing, and scraping. The steel sleeve inside cylinder absorbs direct shock increasing wear resistance of tool. The double threaded hammer cylinder allows a more solid impact. Quick-change chisel retainer makes changing chisels quick and easy. Constructed of lightweight die cast aluminum to reduce user fatigue during long jobs. Features include a positive action trigger and built-in air regulator.</P><br><b>Specifications:</b><li>Includes 2 steel chisels</li><li>Soft-touch grip for firm hold and reduced vibration</li><li>Handle exhaust keeps heat away from work surface</li><li>Stroke length: 67mm</li><li>90 PSI shock: 3500 times/m</li>"
   },
   {
     "class": "1",
@@ -618,6 +618,46 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "WCB1040",
+    "item": "SAW BLADE - 10\" X 40T WOOD",
+    "image": "assets/img/items/WCB1060.jpg",
+    "description": "<P>For use on chop saws, radial arm saws and miter machines. Blades come with a negative hook, which causes it to be lesse aggressive and pushes the material into the table instead of pulling it into its rotation making it a much safer option. The negative cutting of the blade produces more of a (shaving) cut versus an aggressive (attacking) cut. Great for cutting 2x4 boards (good for framers), moldings/trim. Can be sharpened up to 6 times.<BR>Specifications:</br><li>Dia: 10\"</li><li>Teeth: 60</li><li>Grind: ATBR</li><li>Arbor: 5/8\"</li><li>KERF: .118\"</li><li>Plate: .087\"</li><li>&deg;Hook: -5&deg;</li></P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "WCB1060",
+    "item": "SAW BLADE - 10\" X 60T WOOD",
+    "image": "assets/img/items/WCB1060.jpg",
+    "description": "<P>For use on chop saws, radial arm saws and miter machines. Blades come with a negative hook, which causes it to be lesse aggressive and pushes the material into the table instead of pulling it into its rotation making it a much safer option. The negative cutting of the blade produces more of a (shaving) cut versus an aggressive (attacking) cut. Great for cutting 2x4 boards (good for framers), moldings/trim. Can be sharpened up to 6 times.<BR>Specifications:</br><li>Dia: 10\"</li><li>Teeth: 60</li><li>Grind: ATBR</li><li>Arbor: 5/8\"</li><li>KERF: .118\"</li><li>Plate: .087\"</li><li>&deg;Hook: -5&deg;</li></P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "WCB1080",
+    "item": "SAW BLADE - 10\" X 80T WOOD",
+    "image": "assets/img/items/WCB1080.jpg",
+    "description": "<P>For use on chop saws, radial arm saws and miter machines. Blades come with a negative hook, which causes it to be lesse aggressive and pushes the material into the table instead of pulling it into its rotation making it a much safer option. The negative cutting of the blade produces more of a (shaving) cut versus an aggressive (attacking) cut. Great for cutting 2x4 boards (good for framers), moldings/trim. Can be sharpened up to 6 times.<BR>Specifications:</br><li>Dia: 10\"</li><li>Teeth: 80</li><li>Grind: ATBR</li><li>Arbor: 5/8\"</li><li>KERF: .118\"</li><li>Plate: .087\"</li><li>&deg;Hook: -5&deg;</li></P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "WCB1280",
+    "item": "SAW BLADE - 12\" X 80T WOOD",
+    "image": "assets/img/items/WCB1280.jpg",
+    "description": "<P>For use on chop saws, radial arm saws and miter machines. Blades come with a negative hook, which causes it to be lesse aggressive and pushes the material into the table instead of pulling it into its rotation making it a much safer option. The negative cutting of the blade produces more of a (shaving) cut versus an aggressive (attacking) cut. Great for cutting 2x4 boards (good for framers), moldings/trim. Can be sharpened up to 6 times.<BR>Specifications:</br><li>Dia: 12\"</li><li>Teeth: 80</li><li>Grind: ATBR</li><li>Arbor: 1\"</li><li>KERF: .110\"</li><li>Plate: .079\"</li><li>&deg;Hook: -5&deg;</li></P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "WCB12100",
+    "item": "SAW BLADE - 12\" X 100T WOOD",
+    "image": "assets/img/items/WCB12100.jpg",
+    "description": "<P>For use on chop saws, radial arm saws and miter machines. Blades come with a negative hook, which causes it to be lesse aggressive and pushes the material into the table instead of pulling it into its rotation making it a much safer option. The negative cutting of the blade produces more of a (shaving) cut versus an aggressive (attacking) cut. Great for cutting 2x4 boards (good for framers), moldings/trim. Can be sharpened up to 6 times.<BR>Specifications:</br><li>Dia: 12\"</li><li>Teeth: 100</li><li>Grind: ATBR</li><li>Arbor: 1\"</li><li>KERF: .126\"</li><li>Plate: .095\"</li><li>&deg;Hook: -5&deg;</li></P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "729",
     "item": "SAW BLADE - 7-1/4\" x 24 TH SNAKEBITE",
     "image": "assets/img/items/729V.jpg",
@@ -958,6 +998,54 @@
     "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES - XX - LARGE",
     "image": "assets/img/items/VPG.jpeg",
     "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "V1425",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 1/4\" x 25' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "V1450",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 1/4\" x 50' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "V14100",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 1/4\" x 100' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "V3825",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 3/8\" x 25' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "V3850",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 3/8\" x 50' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "V38100",
+    "item": "AIR HOSE - HYPERFLEX® VIPER 3/8\" x 100' (1/4\" NPT)",
+    "image": "assets/img/items/VHOSE.png",
+    "description": "<P>New and improved, Continental&reg; engineered HYPERFLEX&trade; by Viper air hose is made exclusively for Ace Industrial Supply.</p><P>This a new hybrid thermoplastic hose that provides durability and flexibility, is lightweight and has a low drag resistance. HYPERFLEX&trade; by Viper air hose is non-marking, oil-resistant and performs well under cold temperatures to -39&deg;F. This 300 psi hose is designed for a variety of pneumatic applications in industries such as construction and manufacturing. Labeled: 'HYPERFLEX BY VIPER, MADE IN USA, FOR REORDER CALL 800-223-3129'.</P>"
   },
   {
     "class": "10",
@@ -4870,6 +4958,14 @@
     "item": "VIPER SNAKE BITE 5-3/8\" x 50 TEETH METAL CUTTING BLADE",
     "image": "assets/img/items/VIP53850.jpeg",
     "description": "<P>The Viper SnakeBite 5-3/8\" Metal Cutting blades are finally here! These blades are exclusive to Ace and are not availableOur blades are designed with a durable C-6 carbide grade and triple chip tooth grind for a long blade while cutting ferrous metals such as steel studs, angle iron, pipe, rebar, flat stock, conduit, and much more. They also cut the non-ferrous metals such as aluminum, copper and brass. Not recommended for hardened materials or stainless steel.</P><p>The specially formulated micro grain carbide tips with titanium and tantalum last longer, dont leave burrs, and will cut 5 to 10 times faster and last 30 times longer while creating little to no sparks or dust during the cut compared to the abrasive wheels. Not recommended for hardened materials or stainless steel.</p><br><b>Specifications:</b></br><li>5-3/8\" x 50 Teeth</li><li>C-6 Carbide Grade</li><li>Triple Chip Tooth Grind</li><li>Micro-Grain Carbide Tips with titanium and tantalum</li><li>5 to 10 times faster than abrasvies</li><li>Not recommended for hardened materials or stainless steel.</li>"
+  },
+  {
+    "class": "14",
+    "category": "Saw Blades & Hole Saws",
+    "item_no": "WCB1040",
+    "item": "SAW BLADE - 10\" X 40T WOOD",
+    "image": "assets/img/items/WCB1060.jpg",
+    "description": "<P>For use on chop saws, radial arm saws and miter machines. Blades come with a negative hook, which causes it to be lesse aggressive and pushes the material into the table instead of pulling it into its rotation making it a much safer option. The negative cutting of the blade produces more of a (shaving) cut versus an aggressive (attacking) cut. Great for cutting 2x4 boards (good for framers), moldings/trim. Can be sharpened up to 6 times.<BR>Specifications:</br><li>Dia: 10\"</li><li>Teeth: 60</li><li>Grind: ATBR</li><li>Arbor: 5/8\"</li><li>KERF: .118\"</li><li>Plate: .087\"</li><li>&deg;Hook: -5&deg;</li></P>"
   },
   {
     "class": "14",
@@ -16429,7 +16525,7 @@
     "item_no": "AVT5730",
     "item": "VIPER TORQUE - AIR CHISEL HAMMER",
     "image": "assets/img/items/AVT5730.jpg",
-    "description": "<P>Viper Air Tools have arrived! The Torque Series by Viper 1/2\" impact wrench is a tool that’s light in your hand but strong enough to punish the toughest jobs. With 590 ft./lbs. of Nut Busting Torque and a weight of only 5.5 lbs., the AVT1154 has the best power-to-weight ratio of any impact wrench on the market. Making it powerful, durable and reliable enough for any job that comes your way. Perfect for the most demanding applications, such as truck and bus service, construction and agricultural equipment maintenance. Viper built this wrench to last and designed it to withstand tough use in rugged environments and even included a Titanium hammer to protect the interior components of the impact wrench.<li>Enhanced socket retention</li><li>7-vane Motor delivers added power with less weight</li><li>Finely tuned twin hammer impact mechanism and motor deliver more torque, durability, and efficiency</li><li>Feather-touch trigger provides maximum control of this air impact wrench</li><li>Anodized end plate for enhanced durability</li><li>Optimized for the vehicle repair industry, body shops, general industrial use, MRO, rail, heavy machinery, oil and gas, shipbuilding, and construction</li><li>Patented one-hand forward/reverse control for easy operation</li><li>Optimized air flow for maximized performance when using this pneumatic</li><li>Maximum Torque 590/lbs</li><li>Hammer: Twin Hammer</li><li>No-Load Speed: 8,000 r.p.m.</li><li>Weight 5.5lbs</li></P>"
+    "description": "<P>Viper’s AVT5730 heavy duty air hammer and chisel are perfect for cutting, chipping, piercing, and scraping. The steel sleeve inside cylinder absorbs direct shock increasing wear resistance of tool. The double threaded hammer cylinder allows a more solid impact. Quick-change chisel retainer makes changing chisels quick and easy. Constructed of lightweight die cast aluminum to reduce user fatigue during long jobs. Features include a positive action trigger and built-in air regulator.</P><br><b>Specifications:</b><li>Includes 2 steel chisels</li><li>Soft-touch grip for firm hold and reduced vibration</li><li>Handle exhaust keeps heat away from work surface</li><li>Stroke length: 67mm</li><li>90 PSI shock: 3500 times/m</li>"
   },
   {
     "class": "20",
