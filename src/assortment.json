@@ -1,5 +1,13 @@
 [
   {
+    "class": "0",
+    "category": "Tools By Trade",
+    "item_no": "CATALOG",
+    "item": "Ace Tools Catalog",
+    "image": "assets/img/items/CATALOG.png",
+    "description": "<a href=http://aceindustrialtools.com>Tools by Trade</a>"
+  },
+  {
     "class": "1",
     "category": "Viper Products",
     "item_no": "VIP82",
