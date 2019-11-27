@@ -33802,6 +33802,14 @@
   {
     "class": "56",
     "category": "Christmas Items",
+    "item_no": "DRONE",
+    "item": "Drone with built in camera",
+    "image": "assets/img/items/DRONE.jpg",
+    "description": "<P>The combination of drone and selfie has brought about a new Air Drone Craze known as the gesture selfie drone.  The best drones can be shot by having the drone focusing on you or your group and then backing out to reveal your location. While hand held selfies are cool, selfies from a drone provide that WOW factor.  If you are looking for a small drone you can bring everywhere, that still takes great photos and video or if you are a beginner who loves taking videos andf photos this gesture selfie drone is for you. For ages 14 and up</P>"
+  },
+  {
+    "class": "56",
+    "category": "Christmas Items",
     "item_no": "FERRARI",
     "item": "RC CAR - FERRARI SPORTS CAR - 1:18 SCALE",
     "image": "assets/img/items/DOWNLOAD.jpeg",
@@ -33894,6 +33902,38 @@
     "item": "HOT AND COLD THERAPY SOOTHING BODY WRAP",
     "image": "assets/img/items/13005.jpeg",
     "description": "<p>Soothe and relax your body today with this microwaveable body wrap. In 100% cotton, this wrap is filled with wheat blended with pure lavender leaf to create a therapeutic wrap that can be used hot or cold to ease, relax and sooth your body. Whether you're treating sports injuries, tension, or you'd just like to enjoy the textured feel of the wheat molding to your skin and the subtle lavender fragrance, this is the perfect treat for you as well as an ideal gift for your loved ones. Use warm on aching muscles, for stress and to relieve joint pain, or chilled to reduce inflammation, ease sprains and bruises and relieve headaches.</p>"
+  },
+  {
+    "class": "56",
+    "category": "Christmas Items",
+    "item_no": "GF4064",
+    "item": "GLITS MAKE-UP BEAUTY KIT",
+    "image": "assets/img/items/GF4064.jpg",
+    "description": "<p>This little girl's cosmetic kit guides young girls to create their own look.  Fun for slumber parties or any pretend cosmetic play date with kids 5 and up.  With lots to choose from, there's makeup for everyone. Includes Blush, Eyeshawdow, Lip Gloss, Lipstick, Roll-On Glitter Gel and Nail Polish.</p>"
+  },
+  {
+    "class": "56",
+    "category": "Christmas Items",
+    "item_no": "GF6440",
+    "item": "TRANS TRUCK",
+    "image": "assets/img/items/GF6440.jpg",
+    "description": "<p>This fun Transformers set is packed with potential action.  It includes the Iron Arm King with four additional pieces of heavy construction equipment that can be deformed to attach to the Iron Arm King to make the Super alloy deformed King. Recommended for ages 3 and up.</p>"
+  },
+  {
+    "class": "56",
+    "category": "Christmas Items",
+    "item_no": "GF7916",
+    "item": "TEGOLE TOOL SET",
+    "image": "assets/img/items/GF7916.jpg",
+    "description": "<p>This 3 level Police Parking Garage from Six-Six-Zero provides a cool and safe place to park your little one's car collection.  The delifghtful garage has many interesting features like a ramp to the roof, signs, and traffic lights.  Includes six toy emergency vehicles not for children under the age of 3.</p>"
+  },
+  {
+    "class": "56",
+    "category": "Christmas Items",
+    "item_no": "GF9906",
+    "item": "TEGOLE TOOL SET",
+    "image": "assets/img/items/GF9906.jpg",
+    "description": "<p>This kids tool set contains 41 items, tools and accessories and a toolbox to store the toy's in. Open the toolbox, little handymen will find an assortment of pretend play tools: a toy power drill, saw, wrench, screwdriver, screws and an assortment of other accessories.</p>"
   },
   {
     "class": "56",
