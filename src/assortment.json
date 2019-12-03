@@ -18058,14 +18058,6 @@
   {
     "class": "24",
     "category": "Hose Products Air, Weld, Water",
-    "item_no": "38675",
-    "item": "MILLENIUM AIR HOSE - 3/8\" x 75' - CONTINENTAL",
-    "image": "assets/img/items/385.jpeg",
-    "description": "<P>         Continental's new 'Millennium' air hose is a high visibility black Pliovic air hose that has a bright yellow stripe along the jacket. You can almost see it in the dark!</P> <P>             This is the same quality hose Continental&reg; has always produced; double reinforced 300 PSI working pressure and a 1200 PSI bursting pressure. They have a vinyl hose guard on one end to prevent the coupling from splitting off the hose. </P> <P>        This hose is also used for pneumatic machinery, spray solutions, and a lot of other multi purpose applications and is weather and abrasion resistant. USA Made.</P>"
-  },
-  {
-    "class": "24",
-    "category": "Hose Products Air, Weld, Water",
     "item_no": "387",
     "item": "MILLENIUM AIR HOSE - 3/8\" x 100' - CONTINENTAL",
     "image": "assets/img/items/385.jpeg",
@@ -25714,22 +25706,6 @@
   {
     "class": "38",
     "category": "Gloves",
-    "item_no": "594",
-    "item": "VINYL EXAMINATION GLOVES - LARGE - 100 PK.",
-    "image": "assets/img/items/594.jpeg",
-    "description": "<P>These disposable vinyl gloves are ambidextrous and lightly powdered. They are different from the latex gloves because they won't cause an allergic reaction in some people who have a sensitivity to latex. They also do not stretch like the latex and are much easier to slip on.</P> <P>These are packed 100 gloves per dispenser box and are used in many different applications like latex but are preferred by those who are 'Latex sensitive'.</P>"
-  },
-  {
-    "class": "38",
-    "category": "Gloves",
-    "item_no": "594XL",
-    "item": "VINYL EXAMINATION GLOVES - X LARGE - 100 PK.",
-    "image": "assets/img/items/594.jpeg",
-    "description": "<P>These disposable vinyl gloves are ambidextrous and lightly powdered. They are different from the latex gloves because they won't cause an allergic reaction in some people who have a sensitivity to latex. They also do not stretch like the latex and are much easier to slip on.</P> <P>These are packed 100 gloves per dispenser box and are used in many different applications like latex but are preferred by those who are 'Latex sensitive'.</P>"
-  },
-  {
-    "class": "38",
-    "category": "Gloves",
     "item_no": "595",
     "item": "COTTON LINER GLOVES - 1 DOZEN",
     "image": "assets/img/items/595.jpeg",
@@ -26431,46 +26407,7 @@
     "image": "assets/img/items/594.jpeg",
     "description": "<P>These disposable vinyl gloves are ambidextrous and lightly powdered. They are different from the latex gloves because they won't cause an allergic reaction in some people who have a sensitivity to latex. They also do not stretch like the latex and are much easier to slip on.</P> <P>These are packed 100 gloves per dispenser box and are used in many different applications like latex but are preferred by those who are 'Latex sensitive'.</P>"
   },
-  {
-    "class": "38",
-    "category": "Gloves",
-    "item_no": "596M",
-    "item": "LEATHER WORK GLOVES - ALL COWHIDE - MEDIUM",
-    "image": "assets/img/items/596S.jpeg",
-    "description": "<P>     These all leather work gloves are constructed like our leather palm work gloves, but with an all leather backing and leather cuff as opposed to canvas. They are double stitched, grey split cowhide, and have a shirred wrist and a keystone thumb.</P> <P>      These gloves are built to last through tough jobs and resist mildew build up due to moisture. Available in small, medium, large and X-L. Import.</P>"
-  },
-  {
-    "class": "38",
-    "category": "Gloves",
-    "item_no": "596S",
-    "item": "LEATHER WORK GLOVES - ALL COWHIDE - SMALL",
-    "image": "assets/img/items/596S.jpeg",
-    "description": "<P>     These all leather work gloves are constructed like our leather palm work gloves, but with an all leather backing and leather cuff as opposed to canvas. They are double stitched, grey split cowhide, and have a shirred wrist and a keystone thumb.</P> <P>      These gloves are built to last through tough jobs and resist mildew build up due to moisture. Available in small, medium, large and X-L. Import.</P>"
-  },
-  {
-    "class": "38",
-    "category": "Gloves",
-    "item_no": "596XL",
-    "item": "LEATHER WORK GLOVES - ALL COWHIDE - X-LARGE",
-    "image": "assets/img/items/596S.jpeg",
-    "description": "<P>     These all leather work gloves are constructed like our leather palm work gloves, but with an all leather backing and leather cuff as opposed to canvas. They are double stitched, grey split cowhide, and have a shirred wrist and a keystone thumb.</P> <P>      These gloves are built to last through tough jobs and resist mildew build up due to moisture. Available in small, medium, large and X-L. Import.</P>"
-  },
-  {
-    "class": "38",
-    "category": "Gloves",
-    "item_no": "601M",
-    "item": "LEATHER WORK GLOVES - CANVAS BACK - MEDIUM",
-    "image": "assets/img/items/601.jpeg",
-    "description": "<P>    These are leather palm, canvas backed gloves with a rubberized gauntlet cuff. They are standard, shoulder leather, in the gunn cut design with leather on the palms and fingers and a strip across the knuckles.</P> <P>   They are double stitched with inside seams and elasticized, open cuff and are made to withstand abuse and protect the hands around almost any harsh, abrasive, or sharp objects. Cotton lined inside the palms and fingers and available in medium, large and XL.</P>"
-  },
-  {
-    "class": "38",
-    "category": "Gloves",
-    "item_no": "601XL",
-    "item": "LEATHER WORK GLOVES - CANVAS BACK - X-LARGE",
-    "image": "assets/img/items/601.jpeg",
-    "description": "<P>    These are leather palm, canvas backed gloves with a rubberized gauntlet cuff. They are standard, shoulder leather, in the gunn cut design with leather on the palms and fingers and a strip across the knuckles.</P> <P>   They are double stitched with inside seams and elasticized, open cuff and are made to withstand abuse and protect the hands around almost any harsh, abrasive, or sharp objects. Cotton lined inside the palms and fingers and available in medium, large and XL.</P>"
-  },
+  
   {
     "class": "38",
     "category": "Gloves",
@@ -26554,7 +26491,7 @@
   {
     "class": "38",
     "category": "Gloves",
-    "item_no": "696M",
+    "item_no": "696L",
     "item": "LEATHER WORK GLOVES - 4-1/2\" GAUNTLET CUFF - LARGE",
     "image": "assets/img/items/696L.jpeg",
     "description": "<P>      These leather palm, canvas backed gloves are gunn cut with a rubberized 4-1/2\" gauntlet cuff. They are premium grain cowhide leather with a wing thumb and leather across the knuckles. </P>"
