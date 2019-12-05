@@ -1,13 +1,5 @@
 [
   {
-    "class": "0",
-    "category": "Tools By Trade",
-    "item_no": "CATALOG",
-    "item": "Ace Tools Catalog",
-    "image": "assets/img/items/CATALOG.png",
-    "description": "<a href=http://aceindustrialtools.com>Click here for Tools by Trade</a>"
-  },
-  {
     "class": "1",
     "category": "Viper Products",
     "item_no": "19-SCY20-SA",
@@ -582,6 +574,22 @@
     "item": "CUTOFF SAW - 14\" HIGH SPEED 5 HP - BLACK WIDOW",
     "image": "assets/img/items/MX14.jpg",
     "description": "<P>The 'MX14 Chopper' is an Ace Industrial Supply/Black Widow branded product and not available online or in stores. This 14\" dry cutting chop saw features a 15A, 2,480 watt, double insulated motor and a safety trigger to prevent accidental starts</P><P>This saw can be used for cutting dry with no need for cooling fluids. It is perfect for cutting steel, wood, brass, aluminum and most plastics and has a maximum cutting capacity of 4.72\".</P><P>It has a cast alloy base and saw arm as well as a mitering vise and safety guard.</P><br><b>Specifications:</b><li>14\" Diameter/1\" Arbor</li><li>2,480 Watt Motor</li><li>15 Amp/120 Volt</li><li>1,450 RPM</li><li>Cast Alloy Base and Saw Arm</li><li>Mitering Vise</li><li>Safety Trigger</li><li>Maximum Capacity @ 90&deg;: Bar: 4.72\" - Pipe: 4.13\"</li><li>Maximum Capacity @ 45&deg;: Bar: 3.74\" - Pipe: 3.15\"</li><li>Weight: 47 Lbs.</li>Blade not included</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "MS10T",
+    "item": "VIPER MITER-TABLE SAW 10\"",
+    "image": "assets/img/items/MS10T.png",
+    "description": "<P>This Viper is both a miter and  a table saw, and has  a 3,000 RPM no load speed. The rated voltage is 110V-125V and weighs 52 lbs.<br><b>Specifications</b><li>Miter Saw</li><li>Table Saw</li><li>3,000 No Load Speed</li><li>110-125V</li><li>52lbs</li><li>Table Saw push stick included</li></P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "MS12DB",
+    "item": "AC SLIDE COMPOUND MITER SAW 12\"",
+    "image": "assets/img/items/MS12DB.jpg",
+    "description": "<P>This New Viper sliding compound miter saw is designed to make smooth, accurate cuts in larger workpieces - up to 13.78 inches (350mm) wide. The 12\" blade on this sliding miter saw cuts thicker sections of wood with a maxiumum cutting depth of 4.25 inches (108mm).  This is a well-built tool produces the best cuts that are accurate and beautiful .  Perfect for custom work, the Viper has a great angle adjustment and runs clean and smooth.</P><P> Featuring Precise and Sturdy die-cast aluminum construction with an intergrated fold-away cutting depth limiter for grooving.  This Powerful 15-amp, 3,800 RPM tool features durable guards' precision machined castings, fences, a bevel system, and rugged stainless-steel detent plates that are designed to hold up to the rigorous demands of the job site</P><br><b>Specifications</b><li>94&deg; cutting angle range for bevel cuts with seven positive stops</li><li>110&deg; cutting angle range for miter cuts with ten positive stops</li><li>Individually adjustable stops for miter cuts</li><li>Soft Start</li><li>Motor Brake</li><li>Integrated fold away cutting depth limiter for grooving</li><li>TCT Saw Blade</li>Maximum Depth of cut 4.25 inches</li>The track arm provides for up to 350mm cutting width</li><li>Ergonmic control for both left-handed and right-handed people</li><li>Built in table side extenstion</li>"
   },
   {
     "class": "1",
@@ -26407,7 +26415,6 @@
     "image": "assets/img/items/594.jpeg",
     "description": "<P>These disposable vinyl gloves are ambidextrous and lightly powdered. They are different from the latex gloves because they won't cause an allergic reaction in some people who have a sensitivity to latex. They also do not stretch like the latex and are much easier to slip on.</P> <P>These are packed 100 gloves per dispenser box and are used in many different applications like latex but are preferred by those who are 'Latex sensitive'.</P>"
   },
-  
   {
     "class": "38",
     "category": "Gloves",
@@ -34296,7 +34303,6 @@
     "image": "assets/img/items/ACEBTSM.jpeg",
     "description": "<P>Hot, new 'tattoo' T's from ACE Industrial Supply are sure to turn a few heads and grab some attention. This eye catching design is crafted like tattoo artwork with bright colors, freeform drawing and a collage of tools with the famous 'Skull and Cross&reg; Drivers'.</P> <P>        These genuine Hanes&reg; t-shirts are made of 100% pre-shrunk cotton and completely machine washable. Available in black or white and they come in five sizes from small to XX.</P>"
   },
-  
   {
     "class": "58",
     "category": "Ace Gear",
