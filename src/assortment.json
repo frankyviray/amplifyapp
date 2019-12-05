@@ -581,13 +581,13 @@
     "item_no": "MS10T",
     "item": "VIPER MITER-TABLE SAW 10\"",
     "image": "assets/img/items/MS10T.png",
-    "description": "<P>This Viper is both a miter and  a table saw, and has  a 3,000 RPM no load speed. The rated voltage is 110V-125V and weighs 52 lbs.<br><b>Specifications</b><li>Miter Saw</li><li>Table Saw</li><li>3,000 No Load Speed</li><li>110-125V</li><li>52lbs</li><li>Table Saw push stick included</li></P>"
+    "description": "<P>The Viper 14.5 Amp 10 in. combination Table Saw, and Miter Saw can handle any job thrown its way. It boasts a work light to improve the accuracy of the cut for precision and a 14.5 Amp motor that easily handles the toughest of materials. This Viper saw was designed to meet the demanding needs of professional carpenters and remodelers</P><br><b>Specifications</b><li>Adjustable miter and bevel detents with bypass allow for quick adjustments to the most common angles</li><li>14.5 Amp motor powers through even the most difficult materials</li><li>Positive stops at the most common angles:0&deg;, 15&deg;, 22.5&deg;, 30&deg; and 45&deg;, 50&deg; left and right (90&deg; cuts)</li><li>Bevel cut stops up to 45 to the left</li><li>3000 RPM for powerful performance</li><li>Powerful AC induction motor</li><li>No gear no noise</li><li>Large size table 410 x 286mm and 16.14\" x 11.25\"</li><li>1\" Arbor</li>"
   },
   {
     "class": "1",
     "category": "Viper Products",
     "item_no": "MS12DB",
-    "item": "AC SLIDE COMPOUND MITER SAW 12\"",
+    "item": "VIPER AC SLIDE COMPOUND MITER SAW 12\"",
     "image": "assets/img/items/MS12DB.jpg",
     "description": "<P>This New Viper sliding compound miter saw is designed to make smooth, accurate cuts in larger workpieces - up to 13.78 inches (350mm) wide. The 12\" blade on this sliding miter saw cuts thicker sections of wood with a maxiumum cutting depth of 4.25 inches (108mm).  This is a well-built tool produces the best cuts that are accurate and beautiful .  Perfect for custom work, the Viper has a great angle adjustment and runs clean and smooth.</P><P> Featuring Precise and Sturdy die-cast aluminum construction with an intergrated fold-away cutting depth limiter for grooving.  This Powerful 15-amp, 3,800 RPM tool features durable guards' precision machined castings, fences, a bevel system, and rugged stainless-steel detent plates that are designed to hold up to the rigorous demands of the job site</P><br><b>Specifications</b><li>94&deg; cutting angle range for bevel cuts with seven positive stops</li><li>110&deg; cutting angle range for miter cuts with ten positive stops</li><li>Individually adjustable stops for miter cuts</li><li>Soft Start</li><li>Motor Brake</li><li>Integrated fold away cutting depth limiter for grooving</li><li>TCT Saw Blade</li>Maximum Depth of cut 4.25 inches</li>The track arm provides for up to 350mm cutting width</li><li>Ergonmic control for both left-handed and right-handed people</li><li>Built in table side extenstion</li>"
   },
@@ -15790,6 +15790,22 @@
     "item": "VIPER - DIESEL/KEROSENE FORCED AIR HEATER- PORTABLE",
     "image": "assets/img/items/HV7000.jpg",
     "description": "<P>125,000-BTU forced-air kerosene heater for up to 3,250 square feet 10 -gallon fuel tank provides up to 8 hours of heat; adjustable thermostat with wheels for easy transportation. 58lbs.</P><P>Fuel Consumption 3.6L/hr</p><p>CETL, ETLUS Approved</p>"
+  },
+  {
+    "class": "19",
+    "category": "Electric Tools",
+    "item_no": "MS10T",
+    "item": "VIPER MITER-TABLE SAW 10\"",
+    "image": "assets/img/items/MS10T.png",
+    "description": "<P>The Viper 14.5 Amp 10 in. combination Table Saw, and Miter Saw can handle any job thrown its way. It boasts a work light to improve the accuracy of the cut for precision and a 14.5 Amp motor that easily handles the toughest of materials. This Viper saw was designed to meet the demanding needs of professional carpenters and remodelers</P><br><b>Specifications</b><li>Adjustable miter and bevel detents with bypass allow for quick adjustments to the most common angles</li><li>14.5 Amp motor powers through even the most difficult materials</li><li>Positive stops at the most common angles:0&deg;, 15&deg;, 22.5&deg;, 30&deg; and 45&deg;, 50&deg; left and right (90&deg; cuts)</li><li>Bevel cut stops up to 45 to the left</li><li>3000 RPM for powerful performance</li><li>Powerful AC induction motor</li><li>No gear no noise</li><li>Large size table 410 x 286mm and 16.14\" x 11.25\"</li><li>1\" Arbor</li>"
+  },
+  {
+    "class": "19",
+    "category": "Electric Tools",
+    "item_no": "MS12DB",
+    "item": "VIPER AC SLIDE COMPOUND MITER SAW 12\"",
+    "image": "assets/img/items/MS12DB.jpg",
+    "description": "<P>This New Viper sliding compound miter saw is designed to make smooth, accurate cuts in larger workpieces - up to 13.78 inches (350mm) wide. The 12\" blade on this sliding miter saw cuts thicker sections of wood with a maxiumum cutting depth of 4.25 inches (108mm).  This is a well-built tool produces the best cuts that are accurate and beautiful .  Perfect for custom work, the Viper has a great angle adjustment and runs clean and smooth.</P><P> Featuring Precise and Sturdy die-cast aluminum construction with an intergrated fold-away cutting depth limiter for grooving.  This Powerful 15-amp, 3,800 RPM tool features durable guards' precision machined castings, fences, a bevel system, and rugged stainless-steel detent plates that are designed to hold up to the rigorous demands of the job site</P><br><b>Specifications</b><li>94&deg; cutting angle range for bevel cuts with seven positive stops</li><li>110&deg; cutting angle range for miter cuts with ten positive stops</li><li>Individually adjustable stops for miter cuts</li><li>Soft Start</li><li>Motor Brake</li><li>Integrated fold away cutting depth limiter for grooving</li><li>TCT Saw Blade</li>Maximum Depth of cut 4.25 inches</li>The track arm provides for up to 350mm cutting width</li><li>Ergonmic control for both left-handed and right-handed people</li><li>Built in table side extenstion</li>"
   },
   {
     "class": "19",
