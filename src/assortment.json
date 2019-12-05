@@ -34083,7 +34083,7 @@
     "class": "56",
     "category": "Christmas Items",
     "item_no": "SEES",
-    "item": " SEES CANDY (OUT OF STOCK FOR THE SEASON)",
+    "item": " SEES CANDY (STOCKED IN THE MONTH OF DECEMBER)",
     "image": "assets/img/items/SEES.jpeg",
     "description": "<P> This is a promotional, 1 pound box of See's&reg; famous 'Nuts and Chews' candy in both milk and dark chocolate.</P> <P> This is a giveaway item only. Not for sale.</P>"
   },
@@ -34350,22 +34350,6 @@
     "item": "CALENDAR - SCENIC 2018",
     "image": "assets/img/items/CAL.jpeg",
     "description": "<P>Escape to lands of natural beauty with this display of America's best scenery. Features thirteen breathtaking images of the most picturesque vistas from across this great land .</P>"
-  },
-  {
-    "class": "58",
-    "category": "Ace Gear",
-    "item_no": "CANDY01",
-    "item": "M & M CANDY - PLAIN",
-    "image": "assets/img/items/CANDY01.JPG",
-    "description": "<br>\n\n\n\n<center>    Classic M & M chocolate candy. 19.2 oz. bag. </center><br>\n\n\n\n<center>    <font color=\"red\"><b> This is a giveaway item. $11.00 underage applies. </b></font></center>\n\n\n\n<br>\n\n\n\n<CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/m&mplain.jpg\"></CENTER>\n\n\n\n<BR>\n\n\n\n<BR>\n\n\n\n<INPUT TYPE=\"button\" VALUE=\"Back\" onClick=\"history.go(-1);\">"
-  },
-  {
-    "class": "58",
-    "category": "Ace Gear",
-    "item_no": "CANDY02",
-    "item": "M & M CANDY - PEANUT",
-    "image": "assets/img/items/CANDY02.JPG",
-    "description": "<br>\n\n\n\n<center>    Classic M & M chocolate covered peanut candy. 19.2 oz. bag. </center><br>\n\n\n\n<center>    <font color=\"red\"><b> This is a giveaway item. $11.00 underage applies. </b></font></center>\n\n\n\n<br>\n\n\n\n<CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/m&mpeanut.jpg\"></CENTER>\n\n\n\n<BR>\n\n\n\n<BR>\n\n\n\n<INPUT TYPE=\"button\" VALUE=\"Back\" onClick=\"history.go(-1);\">"
   },
   {
     "class": "58",
