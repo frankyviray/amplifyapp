@@ -92,8 +92,25 @@ class App extends Component {
     })
   }
 
+    handleSearch = (searchValue) =>{
+      const newCategorItems = this.filterItems(searchValue, this.state.assortment);
+
+      this.setState({
+        selectedCategoryItems: newCategorItems,
+      })
+      
+    }
+
+
+   filterItems = (needle, heystack) => {
+    let query = needle.toLowerCase();
+    return heystack.filter(element => element.item.toLowerCase().indexOf(query) >= 0);
+  }
+
+
 
   render() {
+    console.log(this.state.selectedCategoryItems)
     return (
       <Wrapper>
         <Header />
@@ -101,6 +118,7 @@ class App extends Component {
           <Categories 
             categories={this.state.categories}
             click={this.handleCategoryClick}
+            search={this.handleSearch}
           />
           <Results 
             items={this.state.selectedCategoryItems}

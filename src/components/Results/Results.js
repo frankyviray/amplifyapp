@@ -11,6 +11,8 @@ const Results = props => {
         height: "auto"
     }
 
+    // console.log(props.items)
+
     
     return (
         <div className="col-9">
@@ -25,11 +27,11 @@ const Results = props => {
                         </tr>
                     </thead>
                     <tbody id="category-result">
-                    {props.items.map((result) => {
+                    {props.items.map((result, index) => {
                         //console.log(result.image)
                         let itemNum = result.item_no;
                         return (
-                            <tr className="product" key={result.item_no}>
+                            <tr className="product" key={`${result.item_no}-${index}`}>
                                 <td className="mx-auto">
                                     <img id="result-img" className="mx-auto" src={result.image} alt="" style={resultImage}></img>
                                 </td>

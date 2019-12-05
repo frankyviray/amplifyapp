@@ -3,12 +3,17 @@ import './Categories.css';
 
 const Categories = props => {
 
+
+    function handleChange(value) {
+
+        props.search(value);
+    }
     
 
     return (
         <div className="col-3">
             <form id="search-wrapper" className="input-group mb-3">
-                <input id="searchInput" className="form-control" type="search" placeholder="Search" aria-label="Search"/>
+                <input id="searchInput" className="form-control" type="search" onChange={(e) => handleChange(e.target.value)} placeholder="Search" aria-label="Search"/>
                 <div className="input-group-append">
                     <button id="searchSubmit" className="btn btn-primary" type="submit">Search</button>
                 </div>
