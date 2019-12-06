@@ -88,7 +88,7 @@ class Modal extends Component {
                   </div>
 
                   <div className="row justify-content-center mt-3">
-                    <button className="btn btn-outline-primary" onClick={this.props.onClose}>Close</button>
+                    <button className="btn btn-primary" onClick={this.props.onClose}>Close</button>
                   </div>
                 </div>
               </div>

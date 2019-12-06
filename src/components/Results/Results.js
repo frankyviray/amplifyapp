@@ -37,7 +37,7 @@ const Results = props => {
                                 </td>
                                 <td>{result.item_no}</td>
                                 <td>{result.item}</td>
-                                <td><button className="info-btn btn btn-outline-primary" onClick={() => props.modal({itemNum})}>More Info</button></td>
+                                <td><button className="btn btn-primary" onClick={() => props.modal({itemNum})}>More Info</button></td>
                             </tr>
                         )
                     })}

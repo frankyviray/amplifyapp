@@ -9,6 +9,7 @@ const Header = props => {
             <nav className="navbar">
                 {/* <a className="navbar-brand"> */}
                 <a href="https://acetools.com"><img src="assets/img/ace_logo.png" width="400px" height="" alt="" onClick="https://acetools.com" /></a>
+                {/* <img src="assets/img/start.jpg" width="400px" height="" alt="" /> */}
                     {/* <form>
                         <a href="https://www.acetools.com/">Home</a>
                     </form>
