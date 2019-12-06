@@ -8,7 +8,7 @@ const Header = props => {
         <div id="nav-wrapper">
             <nav className="navbar">
                 {/* <a className="navbar-brand"> */}
-                    <img src="assets/img/ace_logo.png" width="400px" height="" alt="" />
+                <a href="https://acetools.com"><img src="assets/img/ace_logo.png" width="400px" height="" alt="" onClick="https://acetools.com" /></a>
                     {/* <form>
                         <a href="https://www.acetools.com/">Home</a>
                     </form>
