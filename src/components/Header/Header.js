@@ -19,7 +19,9 @@ const Header = props => {
                     <form>
                         <a href="https://www.aceindustrialtools.com/">Tools By Trade</a>
                     </form> */}
-                
+                <a href="https://acetools.com"><img src="assets/img/warehouse.jpg" width="50px" height="" alt="" onClick="https://acetools.com" />Home</a>
+                <a href="https://acetools.com"><img src="assets/img/catalog.jpg" width="50px" height="" alt="" onClick="https://aceindustrialtools.com" />Tools By Trade</a>
+                <a href="https://acetools.com"><img src="assets/img/contactus.jpeg" width="50px" height="" alt="" onClick="https://www.acetools.com/contato-1" />Contact</a>
                 {/* </a> */}
             </nav>
         </div>
