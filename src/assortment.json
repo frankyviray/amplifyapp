@@ -2260,7 +2260,7 @@
     "category": "Diamond Products",
     "item_no": "10091M",
     "item": "DIAMOND BLADE - DUCTILE IRON 14\" x TRUE 20mm VIPER",
-    "image": "assets/img/items/",
+    "image": "assets/img/items/noimage.jpg",
     "description": "<P>       These blades are manufactured exclusively for Ace Industrial Supply and are available in a wide variety of applications under our own Ace Viper  brand. They are made to our exact specifications and are not available online or in stores.</P> <P>        These are laser welded diamond blades designed to cut very abrasive ductile iron. The swirl pattern in the blade prevents 'pipe-pinching' and heat build up that could damage other blades. Made for high powered gas walk behind or hand held saws. </P>"
   },
   {
@@ -5031,7 +5031,7 @@
     "image": "assets/img/items/UTWOOD.jpeg",
     "description": "<P>\tWe move a lot of blades to the service industries all over the country, and one blade they keep asking us for is BOSCH'S Progressive cut Jigsaw blade.  We carry them in both the common universal U-Shank that will fit most all saws like SKIL, DEWALT, RYOBI, MAKITA, and many more. </P> <P>          We also carry them in BOSCH'S new \"tang\" T-Shank blades.  The teeth are configured to cut both precisely and easily in conventional and specialized materials.  We have them both for metal cutting and wood cutting. </P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/boschlogo.jpg\"></CENTER>"
   },
-    {
+  {
     "class": "14",
     "category": "Saw Blades & Hole Saws",
     "item_no": "V9108",
@@ -34224,6 +34224,14 @@
     "description": "<P>This high quality stainless steel sports water bottle can hold both hot water & cold water. Made by the highest standard of single wall stainless steel bottle. The specially designed stainless steel cap prevents any accidental spills. The exquisite cup mouth is safe for your lip and allows water to stream out smoothly.</P>"
   },
   {
+    "class": "56",
+    "category": "Christmas Items",
+    "item_no": "WB160",
+    "item": "CHEF'S KNIFE SET W/ CHOPPING BOARD - 16 PC.",
+    "image": "assets/img/items/WB160.JPG",
+    "description": "<P>This is a very handy, and very sharp, kitchen knife set complete with a natural wood chopping block. The blades are stainless steel with solid shafts that run through the unbreakable acrylic handles and are triple riveted for an extra firm hold.</P> <P>          The large chopping block measures 17-1/2\" x 13-1/2\" and is made of solid, natural wood. This is a great set for chopping, slicing and dicing meat, poultry, fish, vegetables and fruit and will hold up for years to come. Import.</P>"
+  },
+  {
     "class": "58",
     "category": "Ace Gear",
     "item_no": "526L",
@@ -34526,14 +34534,6 @@
     "item": "PERFORMANCE VISOR - VIPER TOOLS",
     "image": "assets/img/items/VISOR.png",
     "description": "<P>Adjustable on the outside, Flexfit&reg; Tech on the inside. Cool & Dry fabric for moisture wicking & quick drying. Elastic flexloop attached to hook & loop closure for unparalleled comfort. Matching undervisor.</P><p>Assorted colors: Pink, Yellow, Orange, and Teal.</p><a href=assets/img/logos/sticker110.jpg</a>"
-  },
-  {
-    "class": "58",
-    "category": "Ace Gear",
-    "item_no": "WB160",
-    "item": "CHEF'S KNIFE SET W/ CHOPPING BOARD - 16 PC.",
-    "image": "assets/img/items/WB160.JPG",
-    "description": "<P>This is a very handy, and very sharp, kitchen knife set complete with a natural wood chopping block. The blades are stainless steel with solid shafts that run through the unbreakable acrylic handles and are triple riveted for an extra firm hold.</P> <P>          The large chopping block measures 17-1/2\" x 13-1/2\" and is made of solid, natural wood. This is a great set for chopping, slicing and dicing meat, poultry, fish, vegetables and fruit and will hold up for years to come. Import.</P>"
   },
   {
     "class": "59",
