@@ -55,6 +55,22 @@
     "image": "assets/img/items/644TM.jpg",
     "description": "<P>          Titanium coated tungsten steel dissipates heat 7 times faster than regular Tungsten steel, which extends the life of the tool.  This 'Jumbo' tap and die set covers both Metric coarse and Metric fine up to 24mm. Includes taps and equivalent dies.</P> <P>       Set includes adjustable tap wrench, 'T' handle tap wrench, screwdriver, die stock, 20 taps for inside threads, 20 dies for outside threads and both in coarse and fine from 6mm to 24mm. The set comes in a rugged 2'L x 18\"W x 1\"D blow mold carrying case. Import.</P><br><b>National Coarse:</b>(Size x Thread)</br><li>6 x .75 - 8 x 1 - 10 x 1.5 - 12 x 1.5 14 x 1.5 - 16 x 1.5 - 18 x 1.5 20 x 1.5 - 22 x 1.5 - 24 x 1.5</li><br><b>National Fine:</b>(Size x Thread)</br><li>6 x 1 - 8 x 1.25 - 10 x 1.5 - 12 x 1.75 14 x 2 - 16 x 2 - 18 x 2.5 - 20 x 2.5 22 x 2.5 - 24 x 3.0</li>"
   },
+    {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "CUT100V",
+    "item": "VIPER - DC INVERTER PLASMA CUTTER W/ BUILT - OIL FREE AIR COMPRESSOR",
+    "image": "assets/img/items/CUT100V.jpg",
+    "description": "<P>Specifications<li>Voltage: 380 v ~ 3 phase, 60HZ</li><li>Rated Input power: 15kva</li><li>No Load voltage: 270v</li><li>No Load Voltage: 270V</li><li>Current Range: 20-100A</li><li>Max Cutting Thickness: 30mm (1-3/16\")</li><li>Duty Cycle: 100A at 60%</li><li>Come's with an 8 meter Torch</li></P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "CUT1AC",
+    "item": "VIPER - 100 AMP PLASMA CUTTER",
+    "image": "assets/img/items/CUT1AC.jpg",
+    "description": "<P>Specifications<li>Voltage: 380 v ~ 3 phase, 60HZ</li><li>Rated Input power: 15kva</li><li>No Load voltage: 270v</li><li>No Load Voltage: 270V</li><li>Current Range: 20-100A</li><li>Max Cutting Thickness: 30mm (1-3/16\")</li><li>Duty Cycle: 100A at 60%</li><li>Come's with an 4 meter Torch</li></P>"
+  },
   {
     "class": "1",
     "category": "Viper Products",
@@ -21154,6 +21170,22 @@
   {
     "class": "29",
     "category": "Welders, Plasma Cutter's and Accessories",
+    "item_no": "CUT100V",
+    "item": "VIPER - DC INVERTER PLASMA CUTTER W/ BUILT - OIL FREE AIR COMPRESSOR",
+    "image": "assets/img/items/CUT100V.jpg",
+    "description": "<P>Specifications<li>Voltage: 380 v ~ 3 phase, 60HZ</li><li>Rated Input power: 15kva</li><li>No Load voltage: 270v</li><li>No Load Voltage: 270V</li><li>Current Range: 20-100A</li><li>Max Cutting Thickness: 30mm (1-3/16\")</li><li>Duty Cycle: 100A at 60%</li><li>Come's with an 8 meter Torch</li></P>"
+  },
+  {
+    "class": "29",
+    "category": "Welders, Plasma Cutter's and Accessories",
+    "item_no": "CUT1AC",
+    "item": "VIPER - 100 AMP PLASMA CUTTER",
+    "image": "assets/img/items/CUT1AC.jpg",
+    "description": "<P>Specifications<li>Voltage: 380 v ~ 3 phase, 60HZ</li><li>Rated Input power: 15kva</li><li>No Load voltage: 270v</li><li>No Load Voltage: 270V</li><li>Current Range: 20-100A</li><li>Max Cutting Thickness: 30mm (1-3/16\")</li><li>Duty Cycle: 100A at 60%</li><li>Come's with an 4 meter Torch</li></P>"
+  },
+  {
+    "class": "29",
+    "category": "Welders, Plasma Cutter's and Accessories",
     "item_no": "14SPOT",
     "item": "SPOT WELD BIT - COLBALT 1/4\"",
     "image": "assets/img/items/SPOTWELD.JPG",
@@ -21166,22 +21198,6 @@
     "item": "SPOT WELD BIT - COLBALT 3/8\"",
     "image": "assets/img/items/SPOTWELD.JPG",
     "description": "<P>       Spot weld bits are a lot more effective than hole cutters, a chipping hammer, or plain drill bits when you're replacing body panels that are spot welded together. Spot weld bits are much flatter than a regular drill bit, making them easier to control.  Your average hole saws leave too big of a hole, and chipping hammers and screwdrivers take too much time and do too much damage to flanges and edges.  </P> <P>      The perfect answer is spot weld bits that are made to cut quickly and penetrate only through the spot weld.  This makes welding another panel in place a lot less time consuming.  Available in 3/8\" or 5/16\". </P> <P>      Our bits are cobalt, so hardened welds melt away time after time. You will get hundreds of drilling applications from one bit.  </P>"
-  },
-  {
-    "class": "29",
-    "category": "Welders, Plasma Cutter's and Accessories",
-    "item_no": "355",
-    "item": "WELDER & PLASMA CUTTER 3 IN1 - TIG/ARC/PLASMA",
-    "image": "assets/img/items/355.jpeg",
-    "description": "<P>This multipurpose welding machine features industrial technology in a 200Amp DC TIG (Tungsten Inert Gas) Welder and a 50Amp continuous arc plasma cutter, which means the arc can be ignited in the air and will not go out when you have to go through metal. It has the most powerful torch available without needing a water cooler unit. (Caution: torch gets extremely hot on long welds).</P><p>The high frequency DC plasma cuts thicker materials than standard DC plasma cutters and cuts faster with less distortion in your metal. It will make a severance on 1\" steel at 3\" per minute and a quality cut on 1/2\" steel at 17\" per minute. The internal, high speed cooling fan regulates temperature and it has built in thermal and overload protection. Made exclusively for Ace.</p><br><b>Specifications</b><li>Current range: 20 - 50 A</li><li>Input power: 220 V 50/60 Hz.</li><br><b>Plasma Cutting:</b><li>100% duty cycle @ 40 amp, 60% @ 50amp</li><li>Air requirement: 4cfm @ 65psi</li><li>Cutting Capacity: 1\" (Steel severance cut), 1/2\" (quality cut)</li><li>Duty Cycle: 60% @ 50amp</li><br><b>Welding (Tig & MMA):</b><li>200 amps DC Tig Welder</li><li>Duty Cycle: 60% @ 200 amp</li><li>ARC and 100% @ 95 amps ARC</li><li>Gas Flow: 2-5 L/Minute</li><li>Duty Cycle: 60% @ 160 amp/ 100% @ 110 amps</li><li>Can weld all stainless steel</li><li>Does not weld aluminum</li><li>Includes: Welding cable & Holder, Earth Clamp, Air Pressure Regulator, Electrode Tips & Gas Hose</li>"
-  },
-  {
-    "class": "29",
-    "category": "Welders, Plasma Cutter's and Accessories",
-    "item_no": "378",
-    "item": "PLASMA CUTTER - 40 AMP, 110/220 VOLT",
-    "image": "assets/img/items/378.JPG",
-    "description": "<P>         This powerful 40 amp plasma cutter features IGBT inverter technology and will easily cut through steel up to 12mm (approximately 1/2\"). This unit features a single phase power supply and overheating and current protection   Includes torch assembly and complete accessories.</P>"
   },
   {
     "class": "29",
@@ -21290,26 +21306,10 @@
   {
     "class": "29",
     "category": "Welders, Plasma Cutter's and Accessories",
-    "item_no": "10911",
-    "item": "WELDER - 160 AMP ARC",
-    "image": "assets/img/items/10911.jpeg",
-    "description": "<P>             This is a 160 Amp, industrial AC ARC Welder <B><FONT COLOR=\"BLUE\">'Blueline' </B></FONT COLOR=\"BLUE\">series. This is a very rugged, pro-model welder and available at a very affordable price. Lightweight yet durable, it has all the power you need for welding projects in your shop or at home. Comes complete with all the accessories needed to begin working right out of the box. \n\n\n\nOne year warranty. Import.</P>\n\n\n\n<BR>\n\n\n\n<table width=\"85%\" ><tr> \n\n\n\n            <td colspan=\"2\">\n\n\n\n            <td width=\"110\" height=\"\">            \n\n\n\n            <td>&nbsp;&nbsp;&nbsp;&nbsp;<B>Specifications:</B><BR><li>110V/220V-60HZ<li>No Load Voltage: 48V<li>Current Range: 65-160A<li>Rate Duty Cycle: 10%<li>Input capacity @ 60%: 2.5KVA<li>Class of Insulation: F<li>Weight 37 lbs.</ul></p></td>  \n\n\n\n          </tr> \n\n\n\n        </table> \n\n\n\n<table width=\"85%\" ><tr> \n\n\n\n            <td colspan=\"2\">\n\n\n\n            <td width=\"110\" height=\"\">            \n\n\n\n            <td>&nbsp;&nbsp;&nbsp;&nbsp;<B>Accessories Included:</B><BR><li>Electrode Holder w/ Cord<li>Earth Clamp<li>Power Supply Cord<li>Hammer & Brush</ul></p></td>  \n\n\n\n          </tr> \n\n\n\n        </table> \n\n\n\n<BR>\n\n\n\n<table width=\"85%\" ><tr> \n\n\n\n            <td colspan=\"2\">\n\n\n\n            <td width=\"110\" height=\"\">            \n\n\n\n          </tr> \n\n\n\n        </table> \n\n\n\n<BR>\n\n\n\n<BR>\n\n\n\n"
-  },
-  {
-    "class": "29",
-    "category": "Welders, Plasma Cutter's and Accessories",
     "item_no": "AE135",
     "item": "WELDER - PORTABLE SPOT WELDER",
     "image": "assets/img/items/AE135.bmp",
     "description": "<p>Spot welding is a type of resistance welding used to weld various sheet metals. The process uses two shaped copper alloy electrodes to concentrate a welding current and force between the materials to be welded. The result is a small 'spot' that's quickly heated to the melting point, this forms a nugget of welded metal after the current is removed.</p><p>Perhaps the most common application of spot welding is in automobile manufacturing, where it is used almost universally to weld the sheet metal to form a car. Used in body shops, farms, metal fabrication, etc.</p><p>This is a single phase and portable, electric spot welder that can be used with mild, galvanized or stainless steel. It features electric control of the spot welding time and an applied spot welding thickness of 1.0 + 1.0 mm. IMPORT</p><br><b>Specifications:</b><li>115 Volt ~ 60 Hz</li><li>No Load Voltage: 1.5 V</li><li>Input Capacity: 6.6 KW</li><li>Rated Duty Cycle: 30% @ 6.6 KW</li><li>Throat Depth: 180mm</li><li>Class Of Insulation: H</li><li>Useable Thickness: 1.0 + 1.0mm</li><li>Weight: 35 Lbs</li>"
-  },
-  {
-    "class": "29",
-    "category": "Welders, Plasma Cutter's and Accessories",
-    "item_no": "ARC250",
-    "item": "WELDER - 250 AMP ARC",
-    "image": "assets/img/items/ARC250.JPG",
-    "description": "<P>    This portable moving coil tpye AC Arc Welder features 250 amps output and is armed with automatic temperature control and a wind-cooling device for ensuring long-term efficient and safe work.</P> <P>    It is a reliable welder with good performance for thick and thin board welding. The single-phase power is especially suitable for mobile and field operations.</P><br><b>Specifications:</b><li>Rated output current 250AMP</li><li>Rated input voltage 110/220V</li><li>Rated frequency HZ 50/60</li><li>Rated input capacity KVA 14.00</li><li>No load electric voltage 48V</li><li>Current range 60-200 AMPS</li><li>Suitable welding rod diameter 5/64\" to 7/32\"</li><li>Insulation grade H</li><li>Includes: Welding Face Shield, Wire Brush/Hammer combination , Rod Sticks</li>"
   },
   {
     "class": "29",
