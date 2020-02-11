@@ -1,14 +1,14 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn tart
+  /usr/local/bin/node /usr/local/bin/yarn startr
 
 PATH: 
-  /Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin:/Library/Frameworks/Python.framework/Versions/3.7/bin
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin
 
 Yarn version: 
   1.5.1
 
 Node version: 
-  8.11.4
+  12.14.1
 
 Platform: 
   darwin x64
@@ -7008,14 +7008,14 @@ Lockfile:
       strip-ansi "5.2.0"
       text-table "0.2.0"
   
-  react-dom@16.9.0:
-    version "16.9.0"
-    resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.9.0.tgz#5e65527a5e26f22ae3701131bcccaee9fb0d3962"
+  react-dom@^16.9.0:
+    version "16.12.0"
+    resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.12.0.tgz#0da4b714b8d13c2038c9396b54a92baea633fe11"
     dependencies:
       loose-envify "^1.1.0"
       object-assign "^4.1.1"
       prop-types "^15.6.2"
-      scheduler "^0.15.0"
+      scheduler "^0.18.0"
   
   react-error-overlay@^6.0.2:
     version "6.0.2"
@@ -7085,9 +7085,9 @@ Lockfile:
     optionalDependencies:
       fsevents "2.0.7"
   
-  react@16.9.0:
-    version "16.9.0"
-    resolved "https://registry.yarnpkg.com/react/-/react-16.9.0.tgz#40ba2f9af13bc1a38d75dbf2f4359a5185c4f7aa"
+  react@^16.9.0:
+    version "16.12.0"
+    resolved "https://registry.yarnpkg.com/react/-/react-16.12.0.tgz#0c0a9c6a142429e3614834d5a778e18aa78a0b83"
     dependencies:
       loose-envify "^1.1.0"
       object-assign "^4.1.1"
@@ -7476,9 +7476,9 @@ Lockfile:
     dependencies:
       xmlchars "^2.1.1"
   
-  scheduler@^0.15.0:
-    version "0.15.0"
-    resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.15.0.tgz#6bfcf80ff850b280fed4aeecc6513bc0b4f17f8e"
+  scheduler@^0.18.0:
+    version "0.18.0"
+    resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.18.0.tgz#5901ad6659bc1d8f3fdaf36eb7a67b0d6746b1c4"
     dependencies:
       loose-envify "^1.1.0"
       object-assign "^4.1.1"
@@ -8892,7 +8892,7 @@ Lockfile:
       yargs-parser "^13.1.1"
 
 Trace: 
-  Error: Command "tart" not found. Did you mean "start"?
+  Error: Command "startr" not found. Did you mean "start"?
       at new MessageError (/usr/local/lib/node_modules/yarn/lib/cli.js:186:110)
       at /usr/local/lib/node_modules/yarn/lib/cli.js:87307:17
       at Generator.next (<anonymous>)

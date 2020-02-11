@@ -55,7 +55,7 @@
     "image": "assets/img/items/644TM.jpg",
     "description": "<P>          Titanium coated tungsten steel dissipates heat 7 times faster than regular Tungsten steel, which extends the life of the tool.  This 'Jumbo' tap and die set covers both Metric coarse and Metric fine up to 24mm. Includes taps and equivalent dies.</P> <P>       Set includes adjustable tap wrench, 'T' handle tap wrench, screwdriver, die stock, 20 taps for inside threads, 20 dies for outside threads and both in coarse and fine from 6mm to 24mm. The set comes in a rugged 2'L x 18\"W x 1\"D blow mold carrying case. Import.</P><br><b>National Coarse:</b>(Size x Thread)</br><li>6 x .75 - 8 x 1 - 10 x 1.5 - 12 x 1.5 14 x 1.5 - 16 x 1.5 - 18 x 1.5 20 x 1.5 - 22 x 1.5 - 24 x 1.5</li><br><b>National Fine:</b>(Size x Thread)</br><li>6 x 1 - 8 x 1.25 - 10 x 1.5 - 12 x 1.75 14 x 2 - 16 x 2 - 18 x 2.5 - 20 x 2.5 22 x 2.5 - 24 x 3.0</li>"
   },
-    {
+  {
     "class": "1",
     "category": "Viper Products",
     "item_no": "CUT100V",
@@ -130,6 +130,22 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "IS12DS",
+    "item": "1/2\" DR. 19PC SAE - DEEP",
+    "image": "assets/img/items/IS12DS.jpg",
+    "description": "<P>This Viper is a 19 piece DEEP Impact Socket set from</P><br><b>Specifcations:</b></br><li>3/8\", 7/16\", 1/2\", 9/16\", 5/8\", 11/16\", 3/4\", 13/16\", 7/8\", 15/16\", 1\", 1-1/16\", 1-1/8\", 1-3/16\", 1-1/4\", 1-5/16\", 1-3/8\", 1-7/16\", 1-1/2\"</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "IS12DM",
+    "item": "1/2\" DR. 27PC METRIC - DEEP",
+    "image": "assets/img/items/IS12DM.jpg",
+    "description": "<P>This Viper is a 19 piece DEEP Impact Socket set from </P><br><b>Specifications</b><li>10mm - 36mm</li><li>Doesnt Skip a size</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "AVT1258",
     "item": "IMPACT WRENCH - 1/2\" DR. 950 FT/LBS. - VIPER",
     "image": "assets/img/items/AVT1258.jpg",
@@ -142,6 +158,22 @@
     "item": "VIPER TORQUE - 1,328 FT LBS- 3/4\" DR. AIR IMPACT WRENCH",
     "image": "assets/img/items/AVT1274PH.jpg",
     "description": "<P>The first generation of Viper air tools, the torque series are here! If precision, durability, control, and power are traits you desire for an impact wrench this Viper 3/4\" drive impact wrench is the gun for the job. This wrench will deliver incredible performance and industrial-grade durability in an impact wrench while only weighing 11 lbs. Its efficient air motor reduces air consumption to save you money. Perfect for the most demanding applications, such as truck and bus service, construction and agricultural equipment maintenance. The grease fittings are easily accessible for quicker maintenance and less down time. Titanium hammer case is designed to be strong and durable, to protect the interior components of the air impact wrench. Punish the toughest bolts with 1,328 ft./lbs. of nut busting torque, powered by Viper’s finely tuned twin-hammer impact mechanism</p><li>Enhanced socket retention</li><li>7-vane Motor delivers added power with less weight</li><li>Finely tuned twin hammer impact mechanism and motor deliver more torque, durability, and efficiency</li><li>Feather-touch trigger provides maximum control of this air impact wrench</li><li>Anodized end plate for enhanced durability</li><li>Optimized for the vehicle repair industry, body shops, general industrial use, MRO, rail, heavy machinery, oil and gas, shipbuilding, and construction</li><li>Patented one-hand forward/reverse control for easy operation</li><li>Optimized air flow for maximized performance when using this pneumatic</li><li>Maximum Torque 1328 ft/lbs</li><li>Hammer: Twin Hammer</li><li>No-Load Speed: 4,200 r.p.m.</li><li>Weight 11 lbs</li><li>Air Inlet: 3/8\"</li><li>Air Hose Size: 13mm(1/2\")</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "IS34DS",
+    "item": "1/2\" DR. 24 PC. SAE - DEEP",
+    "image": "assets/img/items/IS34DS.jpg",
+    "description": "<P>This Viper is a 24 piece DEEP Impact Socket set from</P><br><b>Specifcations:</b></br><li>3/4\", 13/16\", 7/8\", 15/16\", 1\", 1-1/16\", 1-1/8\", 1-3/16\", 1-1/4\", 1-5/16\", 1-3/8\", 1-7/16\", 1-1/2\", 1-9/16\", 1-5/8\", 1-11/16\", 1-3/4\", 1-13/16\", 1-7/8\", 1-15/16\", 2\", 2-1/16\", 2-1/8\", 2-3/16\"</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "IS34DM",
+    "item": "1/2\" DR. 26 PC. METRIC - DEEP",
+    "image": "assets/img/items/IS34DM.jpg",
+    "description": "<P>This Viper is a 26 piece DEEP Impact Socket set from </P><br><b>Specifications</b><li>19mm</li><li>21mm - 36 mm</li><li>38mm - 44mm</li><li>46mm & 50mm</li>"
   },
   {
     "class": "1",
@@ -174,6 +206,22 @@
     "item": "VIPER TORQUE - CUTOFF TOOL - 3\"",
     "image": "assets/img/items/AVT3510PH.jpg",
     "description": "<P>With the new Viper AVT3510 3\" cutoff tool you can cut through sheet metal, bumpers, exhaust systems, and cut off mufflers and tail pipes quickly, efficiently, and quietly. The AVT3510 is built with a silencing mechanism which reduces noise by 25%. Don’t let the lack of noise fool you, this cutoff tool offers a wheel capacity of 3\" and delivers a 20000 R.P.M. so it has plenty of power for the toughest of jobs. Viper designed this lightweight composite body that reduces vibration for comfortable use and an easy grip. The compact design is ideal for use in hard-to-reach spaces, great for automotive and truck repair. Viper built this tool with a ball bearing motor for smooth operation and long life which will give you even rotation even when under pressure while cutting through metals.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "IS38DS",
+    "item": "1/2\" DR. 19 PC. SAE - DEEP",
+    "image": "assets/img/items/IS38DS.jpg",
+    "description": "<P>This Viper is a 12 piece DEEP Impact Socket set from</P><br><b>Specifcations:</b></br><li>5/16\", 3/8\", 7/16\", 1/2\", 9/16\", 5/8\", 1-1/16\", 3/4\", 13/16\", 7/8\", 15/16\", 1\"</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "IS38DM",
+    "item": "1/2\" DR. 14 PC. METRIC - DEEP",
+    "image": "assets/img/items/IS38DMpsd.jpg",
+    "description": "<P>This Viper is a 14 piece DEEP Impact Socket set from </P><br><b>Specifications</b><li>8mm - 19mm</li><li>21mm & 22mm</li>"
   },
   {
     "class": "1",
