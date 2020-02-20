@@ -1370,14 +1370,6 @@
   {
     "class": "10",
     "category": "Electrical Power Cords",
-    "item_no": "110C",
-    "item": "POWER CORD - ROUND -12/3 x 25'",
-    "image": "assets/img/items/110_C_O.JPG",
-    "description": "<P>      These are heavy duty, 12 gauge x 3 wire round orange power cords with a heavy duty double vinyl jacket and molded male and female ends.    </P> <P>       They're all copper wire from end to end with no aluminum fillers and have solid brass connectors. The triple tap cords have a molded, 3 plug receptacle on one end. Import.</P>"
-  },
-  {
-    "class": "10",
-    "category": "Electrical Power Cords",
     "item_no": "110CTT",
     "item": "POWER CORD - ROUND YELLOW - 25' TRI-TAP",
     "image": "assets/img/items/108TT.jpeg",
@@ -15776,14 +15768,7 @@
     "image": "assets/img/items/AE148S3.JPG",
     "description": "<P>This carbide grit set is for use on the AE148 multi-function oscillating tool. Includes (1) 2-1/2\" semi-circle blade for removing & cutting grout, plaster and masonryl and (1) Triangular rasp for coarse grinding and aggressive material removal. </P>"
   },
-  {
-    "class": "19",
-    "category": "Electric Tools",
-    "item_no": "AE151",
-    "item": "SHOP VAC - WET & DRY 5 GAL",
-    "image": "assets/img/items/AE151.jpeg",
-    "description": "<P>          Clean up your shop or garage with this industrial strength wet and dry vacuum cleaner. This 6 gallon capacity shop vacuum can easily pick up wet or dry messes in no time at all and is great for any task.</P> <P>          It features a powerful 2.25 hp motor to siphon messes directly into its large tank. The Koblenz&reg; vac also includes an air blower that works great for moving massive amounts of debris and the 6' hose features a positive lock system designed to maintain suction power.</P> <P>         Includes a floor squeegee for sucking up large amounts of water and the pickup tool is perfect for bigger messes. This vacuum has a spill proof security system that protects the motor in the event of a liquid spill.</P>"
-  },
+
   {
     "class": "19",
     "category": "Electric Tools",
@@ -16840,14 +16825,7 @@
     "image": "assets/img/items/AVT5730.jpg",
     "description": "<P>Viper’s AVT5730 heavy duty air hammer and chisel are perfect for cutting, chipping, piercing, and scraping. The steel sleeve inside cylinder absorbs direct shock increasing wear resistance of tool. The double threaded hammer cylinder allows a more solid impact. Quick-change chisel retainer makes changing chisels quick and easy. Constructed of lightweight die cast aluminum to reduce user fatigue during long jobs. Features include a positive action trigger and built-in air regulator.</P><br><b>Specifications:</b><li>Includes 2 steel chisels</li><li>Soft-touch grip for firm hold and reduced vibration</li><li>Handle exhaust keeps heat away from work surface</li><li>Stroke length: 67mm</li><li>90 PSI shock: 3500 times/m</li>"
   },
-  {
-    "class": "20",
-    "category": "Air Tools",
-    "item_no": "BOSS1",
-    "item": "AIR COMPRESSOR& NAILER KIT - BOSTITCH",
-    "image": "assets/img/items/BOSS1.JPG",
-    "description": "<P>           This factory reconditioned air nailer kit from Bostitch&reg; features an oil free, 2 peak HP, 6 gallon compressor, a 2-1/2\" 16 gauge finish nailer and a 2\" 18-gauge brad nailer. It is a lightweight and portable 'pancake style' compressor with an oil free pump that requires less maintenance and a large, 6 gallon reserve tank with ball type drain valve for easy drainage.</P> <P>          The 2\" x 18 gauge brad nailer has adjustable depth control which allows for quick countersinking adjustments and the tool-free adjustable exhaust directs the exhaust away from user.  The 2-1/2\" x 16 gauge finish nailer has adjustable depth gauge for setting nails to desired depths quickly and conveniently.</P> <P>         This compressor is designed to be used with the included nailers and will not power larger air tools such as impact wrenches. Includes 1/4\" x 25' PVC hose, tool lubricant, 1,000 2\" finish nails, 1,000 2\" brad nails and contractor tool bag. </P>"
-  },
+
   {
     "class": "20",
     "category": "Air Tools",
