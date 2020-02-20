@@ -1535,14 +1535,7 @@
     "image": "assets/img/items/119J.JPG",
     "description": "<P>\tThese are 12 volt emergency trouble lights that hook up right to the battery on any car, truck or tractor. </P> <P>      The cord is 20' long and hooks to any battery with color coded alligator clips. The light comes with a 12 volt, 50 watt bulb. It also has an extra strong plastic cage that protects the bulb and there's a hanger hook for convenient mounting. Import</P>"
   },
-  {
-    "class": "12",
-    "category": "Reel Lights & Trouble Lights",
-    "item_no": "922",
-    "item": "LANTERN W/ 6 POSITION STAND",
-    "image": "assets/img/items/922.jpeg",
-    "description": "<P>   Lumilite&reg; lanterns are tough, durable, and uniquely designed for extra long life. The 'Z-Lite' 6 Volt lantern has a strong, rubberized Tylev&reg; body which is impervious to moisture and resistant to most oils as well as corrosion and shock. This lantern also floats if dropped in deep water.</P> <P>   It features a patented design which includes a 6 position 'hands-free' stand that folds against the back of the handle for easy handling and balance. The unitized reflector and brilliant Krypton bulb shoots a bright beam 1/2 mile in the dark. Takes 4 'D' batteries, (not included).</P>"
-  },
+
   {
     "class": "12",
     "category": "Reel Lights & Trouble Lights",
@@ -34258,14 +34251,6 @@
   {
     "class": "56",
     "category": "Christmas Items",
-    "item_no": "RCT2",
-    "item": "INVINCIBLE TORNADO STUNT CAR - REMOTE CONTROLLED",
-    "image": "assets/img/items/RCT2.JPG",
-    "description": "<P>    The 'Invincible Tornado' stunt car is a remote controlled, multifunctional, magic aerobatic car! It performs super wheelies, amazing flip overs, 360&deg; coils and spiral spins. It's almost unstoppable!</P> <P>    The front axle turns 360&deg; when making left or right turns and the two miniature wheels on the top prevent this car from ending up stuck on its back like a turtle. It has bright, flashing lights and different sound effects and music that are controlled with the switches on the remote. Requires (1) 9V battery for remote and the stunt car includes rechargeable battery. </P>"
-  },
-  {
-    "class": "56",
-    "category": "Christmas Items",
     "item_no": "SCRATCH",
     "item": "CACTUS BACK SCRATCHER",
     "image": "assets/img/items/SCRATCH.JPG",
@@ -34574,14 +34559,6 @@
     "item": "CALENDAR ",
     "image": "assets/img/items/PBCAL.jpeg",
     "description": "<P>From the pages of America's greatest men's magazine, Playboy. Hot, yet tasteful photographs of the World's most beautiful women.</P>"
-  },
-  {
-    "class": "58",
-    "category": "Ace Gear",
-    "item_no": "PEN",
-    "item": "ACE INDUSTRIAL SUPPLY PEN",
-    "image": "assets/img/items/CM354239.JPG",
-    "description": "<P>It's a pen. You write with it. It has our name and phone number on it. Booya!</P>"
   },
   {
     "class": "58",
