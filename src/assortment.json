@@ -1527,7 +1527,6 @@
     "image": "assets/img/items/119J.JPG",
     "description": "<P>\tThese are 12 volt emergency trouble lights that hook up right to the battery on any car, truck or tractor. </P> <P>      The cord is 20' long and hooks to any battery with color coded alligator clips. The light comes with a 12 volt, 50 watt bulb. It also has an extra strong plastic cage that protects the bulb and there's a hanger hook for convenient mounting. Import</P>"
   },
-
   {
     "class": "12",
     "category": "Reel Lights & Trouble Lights",
@@ -15768,7 +15767,6 @@
     "image": "assets/img/items/AE148S3.JPG",
     "description": "<P>This carbide grit set is for use on the AE148 multi-function oscillating tool. Includes (1) 2-1/2\" semi-circle blade for removing & cutting grout, plaster and masonryl and (1) Triangular rasp for coarse grinding and aggressive material removal. </P>"
   },
-
   {
     "class": "19",
     "category": "Electric Tools",
@@ -16825,7 +16823,6 @@
     "image": "assets/img/items/AVT5730.jpg",
     "description": "<P>Viper’s AVT5730 heavy duty air hammer and chisel are perfect for cutting, chipping, piercing, and scraping. The steel sleeve inside cylinder absorbs direct shock increasing wear resistance of tool. The double threaded hammer cylinder allows a more solid impact. Quick-change chisel retainer makes changing chisels quick and easy. Constructed of lightweight die cast aluminum to reduce user fatigue during long jobs. Features include a positive action trigger and built-in air regulator.</P><br><b>Specifications:</b><li>Includes 2 steel chisels</li><li>Soft-touch grip for firm hold and reduced vibration</li><li>Handle exhaust keeps heat away from work surface</li><li>Stroke length: 67mm</li><li>90 PSI shock: 3500 times/m</li>"
   },
-
   {
     "class": "20",
     "category": "Air Tools",
@@ -37153,6 +37150,22 @@
     "item": "MILWAUKEE IMPACT WRENCH - ELECTRIC 1/2\" DR.",
     "image": "assets/img/items/PM9070.JPG",
     "description": "<P>    The Milwaukee&reg; 1/2\" drive electric impact wrench delivers 300 ft. lbs. of torque and weighs just 6 pounds for a great power-to-weight ratio. The 7.0 amp motor drives a unique impact mechanism at 1800 RPM (no load), and it features a pin-detent system to securely retain sockets or adapters.</P> <P>    It also has a rocker switch for quick selection of forward or reverse and an ergonomically shaped handle with a soft cushioned grip for a well balanced and controllable feel. The special mechanism achieves desired installation torque faster and loosens rusted or fretted bolts in less time.</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+  },
+  {
+    "class": "75",
+    "category": "Tool Storage",
+    "item_no": "75-26TB",
+    "item": "TOOL CHEST COMBO- 44\" - BLACK WIDOW",
+    "image": "assets/img/items/75-26TB.jpg",
+    "description": "<p></p>"
+  },
+  {
+    "class": "75",
+    "category": "Tool Storage",
+    "item_no": "75-3DTB",
+    "item": "TOOL CHEST COMBO- 44\" - BLACK WIDOW",
+    "image": "assets/img/items/75-3DTB.jpg",
+    "description": "<p></p>"
   },
   {
     "class": "75",
