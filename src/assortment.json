@@ -119,6 +119,22 @@
     "image": "assets/img/items/jobsitebox.jpg",
     "description": "<p>These heavy duty jobsite boxes are made exclusively for Ace Industrial Supply under our Viper label. They are constructed of heavy reinforced steel with a rust resistant black powder coating. Recessed padlock inlets help you secure the box contents.</p><p1>These boxes are great for secure storage of tools, equipment and other items that need to be left at the job site.</p1><li>Size: 48\" L x 28\" H x 24\" W</li><li>Weight: 148lbs.</li><p>"
   },
+   {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "75-26TB",
+    "item": "TOOL CHEST COMBO- 44\" - BLACK WIDOW",
+    "image": "assets/img/items/75-26TB.jpg",
+    "description": "<p></p>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "75-3DTB",
+    "item": "TOOL CHEST COMBO- 44\" - BLACK WIDOW",
+    "image": "assets/img/items/75-3DTB.jpg",
+    "description": "<p></p>"
+  },
   {
     "class": "1",
     "category": "Viper Products",
