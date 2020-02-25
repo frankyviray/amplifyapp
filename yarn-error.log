@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn startr
+  /usr/local/bin/node /usr/local/bin/yarn starty
 
 PATH: 
   /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin
@@ -8892,7 +8892,7 @@ Lockfile:
       yargs-parser "^13.1.1"
 
 Trace: 
-  Error: Command "startr" not found. Did you mean "start"?
+  Error: Command "starty" not found. Did you mean "start"?
       at new MessageError (/usr/local/lib/node_modules/yarn/lib/cli.js:186:110)
       at /usr/local/lib/node_modules/yarn/lib/cli.js:87307:17
       at Generator.next (<anonymous>)
