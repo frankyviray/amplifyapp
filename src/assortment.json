@@ -119,7 +119,7 @@
     "image": "assets/img/items/jobsitebox.jpg",
     "description": "<p>These heavy duty jobsite boxes are made exclusively for Ace Industrial Supply under our Viper label. They are constructed of heavy reinforced steel with a rust resistant black powder coating. Recessed padlock inlets help you secure the box contents.</p><p1>These boxes are great for secure storage of tools, equipment and other items that need to be left at the job site.</p1><li>Size: 48\" L x 28\" H x 24\" W</li><li>Weight: 148lbs.</li><p>"
   },
-   {
+  {
     "class": "1",
     "category": "Viper Products",
     "item_no": "75-26TB",
@@ -1148,7 +1148,7 @@
     "category": "Viper Products",
     "item_no": "903V",
     "item": "PORTABLE 12V JUMP STARTER PAD",
-    "image": "assets/img/items/903VGIF.gif",
+    "image": "assets/img/items/903V.jpg",
     "description": "<P>This waterproof device can do just about everything! Jump start your car or light duty truck, charge your cell phone, laptop or iPod! This mini jump starter weighs just 1.90 lbs and is compact enough to fit anywhere in your vehicle, yet it includes all the power and accessories needed for almost any device. Uses 13000mAh high capacity, high power, battery Features include 12V emergency start, LED flashlight, USB port for device use and charging!</P><br><b>Specifications</b><li>Uses 13000mAh high capacity, high power, battery</li><li>Features include 12V emergency start, LED flashlight and USB port for device use and charging, 300 Cold Cranking Amps. 400 peak amps.</li><li>Dimensions: 6” L x 3” H x 1.25” W, Weight: 1.90 lbs</li><li>Jump Start up to 7.0L Gas Motor</li><li>4.5L Diesel Engine</li><li>Waterproof</li></P>"
   },
   {
@@ -5628,7 +5628,7 @@
     "category": "Abrasives",
     "item_no": "41216",
     "item": "CUT-OFF WHEEL - EAGLE CUT - 4-1/2\" x 1/16\" x 7/8\"",
-    "image": "assets/img/items/41232N.jpg",
+    "image": "assets/img/items/41216.jpg",
     "description": "<P>Designed and manufactured to the exacting standards of ACE Industrial Supply and the ACE Abrasives team, our new series of 'Eagle Cut' cut-off wheels are made to meet the rigorous demands of contractors in almost every trade.</P> <P>       Manufactured to our tough standards and then tested by an independent American company, our Eagle Cut 4-1/2\" cutoff wheels out performed and outlasted Mercer&reg; brand wheels by a ratio of 3 to 1!!</P>"
   },
   {
@@ -33956,7 +33956,7 @@
     "category": "Christmas Items",
     "item_no": "941",
     "item": "MULTI-PLIER & POCKET KNIFE SET",
-    "image": "assets/img/items/941.jpeg",
+    "image": "assets/img/items/941.jpg",
     "description": "<P>         This is a must have tool for just about anyone. Contractors, fishermen, hunters, and others will find this handy 7 function multiplier useful for many applications.</P> <P>         The closed length is 3-5/8\" long and opened measures 6\". The handles are very beautiful Pakkawood, and the plier contains 1 blade, 1 screwdriver, 1 awl, 1 bottle opener with a flathead screwdriver, 1 serrated blade, 1 LED light, and a needle nose plier with a wire cutter. </P> <P>         The set also includes a matching pocket knife, also with a Pakkawood handle. Open length is 7\" and closed length is 4\". Made of stainless steel and carrying case is included.</P>"
   },
   {
@@ -33964,7 +33964,7 @@
     "category": "Christmas Items",
     "item_no": "944",
     "item": "HIGH PERFORMANCE POCKET KNIFE - 4.5 ASSIST-OPEN",
-    "image": "assets/img/items/944.jpeg",
+    "image": "assets/img/items/944.jpg",
     "description": "<P>      This pocket knife features a stainless steel blade and aluminum handle with a rubber inlay. It is 4.5\" when closed and opens to 7.5\". The blade is serrated and the handle has a convenient belt clip. </P>"
   },
   {
@@ -37171,7 +37171,7 @@
     "class": "75",
     "category": "Tool Storage",
     "item_no": "75-26TB",
-    "item": "TOOL CHEST COMBO- 44\" - BLACK WIDOW",
+    "item": "PORTABLE VIPER TOOL BOX 26\"",
     "image": "assets/img/items/75-26TB.jpg",
     "description": "<p></p>"
   },
@@ -37179,7 +37179,7 @@
     "class": "75",
     "category": "Tool Storage",
     "item_no": "75-3DTB",
-    "item": "TOOL CHEST COMBO- 44\" - BLACK WIDOW",
+    "item": "21\" PORTABLE 3 DRAWER VIPER TOOL BOX",
     "image": "assets/img/items/75-3DTB.jpg",
     "description": "<p></p>"
   },
