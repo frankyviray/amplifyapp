@@ -642,6 +642,14 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "V41278",
+    "item": "GRINDING WHEEL - 3-IN-1 - 4-1/2\" x 7/8\" VIPER",
+    "image": "assets/img/items/3in1.JPG",
+    "description": "<P>These 3-in-1 high performance wheels are made to cut quickly, grind easily and finish work surfaces with just one wheel. Fiberglass net reinforcement provides added strength and flexibility. This contaminate free wheel has < 0.1% iron, sulfur, or chlorine for rust-free and corrosion-free results. This cost effective wheel eliminates frequent wheel changes and increases production times for working on flat grinding surfaces. It is most efficient when used between 0°-15° angle and is the best choice for smooth finishing.</P><br><b>Specifications</b><li>Diameter: 4-1/2\"</li><li>Thickness: 3/32\"</li><li>Arbor: 7/8\"</li><li>Max Speed: 13,000 RPM</li><li>Grit: 36(MediuM)</li><li>Grade: S (Hard)</li><li>Material: Aluminum Oxide</li><li>Type: 27 Depressed Center</li><li>Cut:90&deg;</li><li>Grind: 30&deg;</li><li>Finish: 15&deg;</li><li>Use: Steel & Stainless Steel</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "146",
     "item": "GRINDING WHEEL - METAL 4-1/2\" x 1/4\" x 7/8\"",
     "image": "assets/img/items/146N.JPG",
