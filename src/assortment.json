@@ -146,6 +146,14 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "AVT1194",
+    "item": "VIPER IMPACT WRENCH - 1/2\" - 840 FT/LBS.",
+    "image": "assets/img/items/AVT1194.jpg",
+    "description": "<P>Viper Air Tools have arrived! The Torque Series by Viper 1/2\" impact wrench is a tool that’s light in your hand but strong enough to punish the toughest jobs. With 840 ft./lbs. of Nut Busting Torque and a weight of only 5.5 lbs., the AVT1194 has the best power-to-weight ratio of any impact wrench on the market. Making it powerful, durable and reliable enough for any job that comes your way. Perfect for the most demanding applications, such as truck and bus service, construction and agricultural equipment maintenance. Viper built this wrench to last and designed it to withstand tough use in rugged environments and even included a Titanium hammer to protect the interior components of the impact wrench.<li>Enhanced socket retention</li><li>7-vane Motor delivers added power with less weight</li><li>Finely tuned twin hammer impact mechanism and motor deliver more torque, durability, and efficiency</li><li>Feather-touch trigger provides maximum control of this air impact wrench</li><li>Anodized end plate for enhanced durability</li><li>Optimized for the vehicle repair industry, body shops, general industrial use, MRO, rail, heavy machinery, oil and gas, shipbuilding, and construction</li><li>Patented one-hand forward/reverse control for easy operation</li><li>Optimized air flow for maximized performance when using this pneumatic</li><li>Maximum Torque 840/lbs</li><li>Hammer: Twin Hammer</li><li>No-Load Speed: 8,500 r.p.m.</li><li>Weight 5.9lbs</li></P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "IS12DS",
     "item": "1/2\" DR. 19PC SAE - DEEP",
     "image": "assets/img/items/IS12DS.jpg",
@@ -469,6 +477,22 @@
     "item_no": "N16PCM",
     "item": "WRENCH SET - BLACK OXIDE 16 PC. METRIC",
     "image": "assets/img/items/N16PCMV.jpg",
+    "description": "<P>These are 'raised panel' wrenches that are case hardened from pure alloyed steel, and drop forged in a unique two step process. They have a black oxide finish for longer durability and corrosion resistance. Vinyl Pouch Included.</P><br><b>Specifications:</b>6mm, 8mm, 9mm, 10mm, 11mm, 12mm, 13mm, 14mm, 15mm, 17mm, 19mm, 21mm, 24mm, 27mm, 30mm, 32mm</p>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VRW11S",
+    "item": "VIPER RATCHETING WRENCH - BLACK OXIDE 11 PC. SAE",
+    "image": "assets/img/items/VRW11S.jpg",
+    "description": "<P>These are 'raised panel' wrenches that are case hardened from pure alloyed steel, and drop forged in a unique two step process. They have a black oxide finish for longer durability and corrosion resistance. Vinyl Pouch Included.</P><br><b>Specifications:</b>1/4\", 5/16\", 3/8\", 7/16\", 1/2\", 9/16\", 5/8\", 11/16\", 3/4\", 13/16\", 7/8\"</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VRW11M",
+    "item": "VIPER RATCHETING WRENCH - BLACK OXIDE 11 PC. METRIC",
+    "image": "assets/img/items/VRW11M.jpg",
     "description": "<P>These are 'raised panel' wrenches that are case hardened from pure alloyed steel, and drop forged in a unique two step process. They have a black oxide finish for longer durability and corrosion resistance. Vinyl Pouch Included.</P><br><b>Specifications:</b>6mm, 8mm, 9mm, 10mm, 11mm, 12mm, 13mm, 14mm, 15mm, 17mm, 19mm, 21mm, 24mm, 27mm, 30mm, 32mm</p>"
   },
   {
