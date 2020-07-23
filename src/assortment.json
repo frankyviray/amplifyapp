@@ -1,5 +1,341 @@
 [
   {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "FS481",
+    "item": "FACE SHIELD - DIRECT SPLASH PROTECTION",
+    "image": "assets/img/items/FS481.jpg",
+    "description": "<P>Oscha Approved Face Sheield, Has an adjustable elastic fastener, Direct splash face protection, Effectively protects you from chemical spills, spits, dust, bacteria and germs</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "KN95",
+    "item": "DUST MASKS - KN95 - 5 PACK - PROLINE",
+    "image": "assets/img/items/KN95-5.png",
+    "description": "<P>DUST MASKS - KN95 - 5 PACK - PROLINE 4-PLY NON-WOVEN: 4-Layers of protection include a Non-Woven Inner Layer, Meltblown Filter, Hot Air Cotton Filter, and Non-Woven Outer Shell.<br><b>Specifications</b><li>FORM FITTING: The flexible nose guard is designed to provide a custom fit to ensure a soft and comfortable fit to reduce skin irritation while the stretchable braided ear bands ensure comfort over long periods of wear time.</li><li>LIGHTWEIGHT: The vertical folding design and overall lightweight structure make this mask easy to store and carry.</li><li>PROVIDES MORE PROTECTION: The KN95 is a disposable and breathable mask designed to offer more protection than standard disposable 3-Ply masks.</li></li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "S630",
+    "item": "DISPOSABLE PROTECTIVE MASK - 3 LAYER (50 PACK)",
+    "image": "assets/img/items/S630.jpg",
+    "description": "<P>Multi-layer 3-ply disposable procedural face mask. Fluid-resistant, Pleated</P><P>Procedural filter masks are helpful to contain viruses and slow or stop their spread. These are especially useful on people already infected to stop contamination of others, but according to the WHO (World Health Organization):<br><b>Specifications</b><li>If you are healthy, you only need to wear a mask if you are taking care of a person with suspected 2019-nCoV infection.</li><li>Wear a mask if you are coughing or sneezing.</li><li>Masks are effective only when used in combination with frequent hand-cleaning with alcohol-based hand rub or soap and water.</li><li>If you wear a mask, then you must know how to use it and dispose of it properly.</li><li>Before putting on a mask, clean hands with alcohol-based hand rub or soap and water.</li><li>Cover mouth and nose with mask and make sure there are no gaps between your face and the mask.</li><li>Avoid touching the mask while using it; if you do, clean your hands with alcohol-based hand rub or soap and water.</li><li>Replace the mask with a new one as soon as it is damp and do not re-use single-use masks.</li><li>To remove the mask: remove it from behind (do not touch the front of mask); discard immediately in a closed bin; clean hands with alcohol-based hand sanitizer or soap and water.</li></P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "CT88",
+    "item": "CONTACTLESS INFRARED THERMOMETER",
+    "image": "assets/img/items/CT888.jpg",
+    "description": "<P>Convenient Memory Feature: You can store temperature readings and recall them at any time. This comes in handy for keeping a record, also has an auto shutdown feature for power saving. FDA/CE approved.</P><p>Fast & Accurate Reading:The digital thermometer is equipped with the latest medical infrared technology and has been clinically tested for accuracy and reliability. Simple and easy to use. Just press a button and the forehead digital thermometer will deliver accurate temperature instantly within 1 second.</p><p>Non Contact Body Infrared Thermometer: No skin contact required when using this thermometer. Effectively prevent cross infection and bring the best care for your family.  Multi-Function Thermometer: All in one design for all ages, adults, infants and elders, this thermometer not only supports forehead or ear reading, but also can take room/object temperature, such as water, milk , food temperature and so on.</p><p>Intelligent Fever Indicator& °C/°F Switchable: Equipped with fever warning system, the thermometer for fever will indicate and beeps 3 times. Farenheit/Celsius are easily switchable. Reading Memory: Stores previous readings to track the change of body temperature. backlit LCD screen and mute function won't wake up your baby.</p>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "AWIPE50",
+    "item": "ALCOHOL HAND SANITIZER WIPE - 50PC",
+    "image": "assets/img/items/AWIPE50.jpg",
+    "description": "<P>75% Alcohol Disinfectant Travel Wipes</P><p>Cleaning & disinfectant wipes for hard surfaces, Eliminates 99.99% of germs that cause illness.  Convenient travel size packaging, Secure, sealable lid prevents evaporation. Pre-moistened wipes</p>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "BLEACH",
+    "item": "GERMICIDAL BLEACH - 1 GALLON",
+    "image": "assets/img/items/BLEACH.jpg",
+    "description": "<P>Ensure that your surfaces are ultra-clean with germicidal ultra bleach. Also approved as a non-food contact sanitizer and laundry sanitizer. Currently approved to kill more than 50 specific germs including C Diff Spore, MRSA, Norovirus, and HBV and HCV. Application: Bleach; Applicable Material: Ceramics; Cement/Concrete; Enamel; Fabric; Glass; Laminate; Metal; Plastic; Chemical Compound: NaOCl; Physical Form: Liquid.</p>"
+  },
+    {
+      "class": "0",
+      "category": "Personal Protective Equipment",
+      "item_no": "SAN8",
+      "item": "HAND SANITIZER - 8 OZ. GEL (PUMP BOTTLE)",
+      "image": "assets/img/items/san8.jpg",
+      "description": "<P>Hand Sanitizer 8 oz. Gel comes in a pump bottle, kills up to 99.9% Germs</p>"
+    },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "DSPRAY",
+    "item": "32oz DISINFECTANT SPRAY BOTTLE",
+    "image": "assets/img/items/DSPRAY.jpeg",
+    "description": "<P>Perfect for cleaning surfaces and general sanitizing. Conforms to WHO, FDA, and EN12791 guidance for COVID-19. Alcohol antiseptic 80%. 32oz.</p><p>Active ingredients: Isopropyl Alcohol 70%....Antisceptic.</p>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VDG100L",
+    "item": "VIPER GRIP BLACK DIAMOND NITRILE GLOVES- LARGE",
+    "image": "assets/img/items/VDG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Raised Textured Surface for Snake-Like Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VDG100M",
+    "item": "VIPER GRIP BLACK DIAMOND NITRILE GLOVES- MEDIUM",
+    "image": "assets/img/items/VDG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Raised Textured Surface for Snake-Like Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VDG100XL",
+    "item": "VIPER GRIP BLACK DIAMOND NITRILE GLOVES- X LARGE",
+    "image": "assets/img/items/VDG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Raised Textured Surface for Snake-Like Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VPG100L",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES 6 MIL LARGE",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VPG100M",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES - MEDIUM",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VPG100XL",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES - X LARGE",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VPG100XXL",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES - XX - LARGE",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030L",
+    "item": "DISPOSABLE COVERALLS - LARGE",
+    "image": "assets/img/items/5030.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030LWH",
+    "item": "DISPOSABLE COVERALLS WITH HOOD - LARGE",
+    "image": "assets/img/items/5030C.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030LWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - LARGE",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>       They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030M",
+    "item": "DISPOSABLE COVERALLS - MEDIUM",
+    "image": "assets/img/items/5030.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030MWH",
+    "item": "DISPOSABLE COVERALLS WITH HOOD - MEDIUM",
+    "image": "assets/img/items/5030C.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030MWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - MEDIUM",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>      They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XL",
+    "item": "DISPOSABLE COVERALLS - X-LARGE",
+    "image": "assets/img/items/5030.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XLWH",
+    "item": "DISPOSABLE COVERALLS WITH HOOD - X-LARGE",
+    "image": "assets/img/items/5030C.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XLWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - X-LARGE",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>       They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXL",
+    "item": "DISPOSABLE COVERALLS - XX-LARGE",
+    "image": "assets/img/items/5030.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXLWH",
+    "item": "DISPOSABLE COVERALLS WITH HOOD - XX-LARGE",
+    "image": "assets/img/items/5030C.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXLWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - XX-LARGE",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>       They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXXL",
+    "item": "DISPOSABLE COVERALLS - XXX-LARGE",
+    "image": "assets/img/items/5030.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXXLWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - XXX-LARGE",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>       They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXXXL",
+    "item": "DISPOSABLE COVERALLS  XXXX-LARGE",
+    "image": "assets/img/items/5030C.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXXXLWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - XXXX-LARGE",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>       They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050L",
+    "item": "COVERALLS - LIQUID PROOF - LARGE",
+    "image": "assets/img/items/5050BLUE.jpeg",
+    "description": "<P>            These are liquid proof, protective coveralls for almost any application and are worn for protection during painting, spraying, fogging, etc. </P> <P>         They have a special Polyethylene coating to repel liquids, oils, grease, and resins. They're cool, breathable and comfortable, and designed for a full range of movement.  </P> <P>        They have elastic cuffs, full length zipper, open ankles, an attached hood and are easy to get in and out of.  </P> <P>         Although rated for non-hazardous use, moisture and contaminants are restricted from passing through these coveralls. Light blue in color. Booties not included.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050LWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT- LARGE",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>             These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050M",
+    "item": "COVERALLS - LIQUID PROOF - MEDIUM",
+    "image": "assets/img/items/5050BLUE.jpeg",
+    "description": "<P>          These are liquid proof, protective coveralls for almost any application and are worn for protection during painting, spraying, fogging, etc. </P> <P>         They have a special Polyethylene coating to repel liquids, oils, grease, and resins. They're cool, breathable and comfortable, and designed for a full range of movement.  </P> <P>       They have elastic cuffs, full length zipper, open ankles, an attached hood and are easy to get in and out of.  </P> <P>         Although rated for non-hazardous use, moisture and contaminants are restricted from passing through these coveralls. Light blue in color. Booties not included.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050MWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT - MEDIUM",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>             These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XL",
+    "item": "COVERALLS - LIQUID PROOF - X-LARGE",
+    "image": "assets/img/items/5050BLUE.jpeg",
+    "description": "<P>          These are liquid proof, protective coveralls for almost any application and are worn for protection during painting, spraying, fogging, etc. </P> <P>         They have a special Polyethylene coating to repel liquids, oils, grease, and resins. They're cool, breathable and comfortable, and designed for a full range of movement.  </P> <P>        They have elastic cuffs, full length zipper, open ankles, an attached hood and are easy to get in and out of.  </P> <P>         Although rated for non-hazardous use, moisture and contaminants are restricted from passing through these coveralls. Light blue in color. Booties not included.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XLWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT - XL",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>             These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XXL",
+    "item": "COVERALLS - LIQUID PROOF - XX-LARGE",
+    "image": "assets/img/items/5050BLUE.jpeg",
+    "description": "<P>            These are liquid proof, protective coveralls for almost any application  and are worn for protection during painting, spraying, fogging, etc. </P> <P>         They have a special Polyethylene coating to repel liquids, oils, grease, and resins. They're cool, breathable and comfortable, and designed for a full range of movement.  </P> <P>        They have elastic cuffs, full length zipper, open ankles, an attached hood and are easy to get in and out of.   </P> <P>         Although rated for non-hazardous use, moisture and contaminants are restricted from passing through these coveralls. Light blue in color. Booties not included.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XXLWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT - XXL",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>            These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XXXL",
+    "item": "COVERALLS - LIQUID PROOF  - XXX-LARGE",
+    "image": "assets/img/items/5050BLUE.jpeg",
+    "description": "<P>            These are liquid proof, protective coveralls for almost any application and are worn for protection during painting, spraying, fogging, etc. </P> <P>         They have a special Polyethylene coating to repel liquids, oils, grease, and resins. They're cool, breathable and comfortable, and designed for a full range of movement.  </P> <P>        They have elastic cuffs, full length zipper, open ankles, an attached hood and are easy to get in and out of.  </P> <P>         Although rated for non-hazardous use, moisture and contaminants are restricted from passing through these coveralls. Light blue in color. Booties not included.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XXXLWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT - XXXL",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>             These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XXXXLWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT - XXXXL",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>             These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
     "class": "1",
     "category": "Viper Products",
     "item_no": "19-SCY20-SA",
