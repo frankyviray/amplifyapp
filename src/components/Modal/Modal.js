@@ -30,7 +30,7 @@ class Modal extends Component {
       padding: 30,
       display: "flex",
       height: "auto",
-      width: "auto",
+      width: "1080",
       flexWrap: "wrap",
       textAlign: "center",
       overflow: "auto",
