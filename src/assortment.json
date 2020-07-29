@@ -47,14 +47,14 @@
     "image": "assets/img/items/BLEACH.jpg",
     "description": "<P>Ensure that your surfaces are ultra-clean with germicidal ultra bleach. Also approved as a non-food contact sanitizer and laundry sanitizer. Currently approved to kill more than 50 specific germs including C Diff Spore, MRSA, Norovirus, and HBV and HCV. Application: Bleach; Applicable Material: Ceramics; Cement/Concrete; Enamel; Fabric; Glass; Laminate; Metal; Plastic; Chemical Compound: NaOCl; Physical Form: Liquid.</p>"
   },
-    {
-      "class": "0",
-      "category": "Personal Protective Equipment",
-      "item_no": "SAN8",
-      "item": "HAND SANITIZER - 8 OZ. GEL (PUMP BOTTLE)",
-      "image": "assets/img/items/san8.jpg",
-      "description": "<P>Hand Sanitizer 8 oz. Gel comes in a pump bottle, kills up to 99.9% Germs</p>"
-    },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "SAN8",
+    "item": "HAND SANITIZER - 8 OZ. GEL (PUMP BOTTLE)",
+    "image": "assets/img/items/san8.jpg",
+    "description": "<P>Hand Sanitizer 8 oz. Gel comes in a pump bottle, kills up to 99.9% Germs</p>"
+  },
   {
     "class": "0",
     "category": "Personal Protective Equipment",
@@ -370,6 +370,30 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "SH1218",
+    "item": "SOCKET HOLDER - 1/2\" DR. - VIPER",
+    "image": "assets/img/items/SH12.jpeg",
+    "description": "<P>Magnetic socket holder. Twist/click off sockets.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "SH1412",
+    "item": "SOCKET HOLDER - 1/4\" DR. - VIPER",
+    "image": "assets/img/items/SH14.jpeg",
+    "description": "<P>Magnetic socket holder. Twist/click off sockets.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "SH3816",
+    "item": "SOCKET HOLDER - 3/8\" DR. - VIPER",
+    "image": "assets/img/items/SH38.jpeg",
+    "description": "<P>Magnetic socket holder. Twist/click off sockets.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "DS100",
     "item": "DEEP SOCKET SET - VIPER - 100 PC. PACKAGE",
     "image": "assets/img/items/DS100.jpg",
@@ -470,6 +494,14 @@
     "item": "21\" PORTABLE 3 DRAWER VIPER TOOL BOX",
     "image": "assets/img/items/75-3DTB.jpg",
     "description": "<p></p>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "75-30TC",
+    "item": "TOOL CHEST COMBO - 10 DRAWER VIPER - 30\"",
+    "image": "assets/img/items/75-30.jpeg",
+    "description": "<p><br><b>Specifications:</b><li>10 Drawer Tool Chest</li><li>Dimensions: 26-7/8 in. W x 17-3/4 in. D x 22-3/8 in.</li><li>Top lid opens for additional storage</li><li>Heavy-duty steel construction</li><li>High-gloss powder coat finish</li><li>Drawers with ball bearing glides</li><li>Drawers load rated 75 lbs. per drawer</li><li>Theft-proof lock system</li><li>built in power strip with 4 outlets and 2 USB ports with a regular 15amp breaker</li><li>(4) 5 in. casters; 2 locking and swivel</li></p>"
   },
   {
     "class": "1",
@@ -766,6 +798,14 @@
     "item": "WRENCH SET - BOX & OPEN END 6 PC. JUMBO METRIC",
     "image": "assets/img/items/819.jpg",
     "description": "<P>These larger combination wrench sets are made of chrome vanadium steel with a black oxide finish and raised panel for extra strength. They feature 12 point, chamfered boxed ends and a 15&deg; offset on the open end. </P> <P>Each set comes in a roll up, vinyl pouch with a Velcro fastener and a carry handle for convenience.</P><br><b>Sizes:</b> 35mm, 38mm, 41mm, 44mm, 48mm, 50mm</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "14MFS",
+    "item": "MINI FOLDING SAW KIT - VIPER",
+    "image": "assets/img/items/14MFS.jpeg",
+    "description": "<P>Ideal saw for cutting through large tree branches, Triple-cut razor teeth hardened to stay sharp for smooth, fast sawing. Ergonomic and Comfortable Handle: An easy to carry and use hand saw. Fully hardened stainless-steel 6inch saw blade. FLORA GUARD: Dedicating to make a better tools for gardeners. COMES WITH 3 BLADES FOR DIFFERENT APPLICATIONS (PVC TUBE, BOARD, FARMING, TREES) (PLASTIC, BAMBOO, WOOD BRANCHES, DRYWALL)</P>"
   },
   {
     "class": "1",
