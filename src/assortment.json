@@ -418,22 +418,6 @@
   {
     "class": "1",
     "category": "Viper Products",
-    "item_no": "VRW11S",
-    "item": "VIPER RATCHETING WRENCH - 11 PC SAE",
-    "image": "assets/img/items/VRW11SS.png",
-    "description": "<P>Sizes: 1/4\", 5/16\", 3/8\", 7/16\", 1/2\", 9/16\", 5/8\", 11/16\", 3/4\", 13/16\", 7/8\"</P>"
-  },
-  {
-    "class": "1",
-    "category": "Viper Products",
-    "item_no": "VRW11M",
-    "item": "VIPER RATCHETING WRENCH - 11 PC METRICS",
-    "image": "assets/img/items/VRW11M.png",
-    "description": "<P>Sizes: 6MM, 8, 10, 11, 13, 14, 17, 18, 19, 21, 22MM.</P>"
-  },
-  {
-    "class": "1",
-    "category": "Viper Products",
     "item_no": "VTK170",
     "item": "VIPER TOOL KIT - 170 PIECES",
     "image": "assets/img/items/VTK170.jpeg",
