@@ -455,14 +455,14 @@
     "image": "assets/img/items/VIPERBAG.jpg",
     "description": "<P>VIPER branded rubber bottom tool bag is the perfect item to stow away power tools, medium hand tools and other smaller construction items.</P><br><b>Specifications</b><li>HEAVY DUTY: Made from durable 600d fabric, the soft sided tool bag can endure hard wear and tear. Equipped with a waterproof, ultra-sturdy rigid base</li><li>WIDE MOUTH: The tool bag is equipped with a wide mouth top allowing easy access for larger tools. Tool bag closes securely with zipper top</li><li>MULTI-POCKET & OPEN MAIN COMPARTMENT: Equipped with 18 pockets and an open interior, the tool bag is perfect for power tools, medium hand tools and other smaller construction items</li><li>CARRYING STRAPS: Constructed with soft fabric handles and padded shoulder strap for carrying longer distances</li><li>DIMENSIONS: 16\" Width x 8.5\" Depth x 13\" Height (11\" Height when zipped)</li>"
   },
-    {
-      "class": "1",
-      "category": "Viper Products",
-      "item_no": "RC3PC",
-      "item": "ROLLER COMBO TOOL BAG - 3 PC - VIPER",
-      "image": "assets/img/items/3VIPERBAGS.jpg",
-      "description": "<P>Get 3 heavy-duty premium quality VIPER branded tool bags with one purchase! This 3 piece tool bag set makes a great gift for homeowners, handyman or professional carpenter, contractor, plumber, mechanic...even you! The set includes a 18-inch roller tool bag with a retractable pull handle, a 16-inch widemouth toolbag and a 14-inch widemouth tool bag. All 3 bags offer durable design and loads of storage space for power tools, hand tools, cords, meters and more. They're constructed of premium polyester and feature heavy-duty zippers and handles, with reinforced bottom panels to prevent sagging and tool punch-through.</P><p>3 BAGS ARE BETTER THAN 1: You'll love the storage and carry capacity of this set of tool bags, including the 18-inch roller bag, 16-inch and 14-inch wide-mouth tool bags.  DURABLE DESIGN: Heavy-duty polyester shells, strong frames and handles and molded EVA bottoms makes these bags ready for super duty on the job, in the garage and on the road. TONS OF STORAGE: All these bags feature tool pockets and tool loops for organizing and storing your gear your way</p>"
-    },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "RC3PC",
+    "item": "ROLLER COMBO TOOL BAG - 3 PC - VIPER",
+    "image": "assets/img/items/3VIPERBAGS.jpg",
+    "description": "<P>Get 3 heavy-duty premium quality VIPER branded tool bags with one purchase! This 3 piece tool bag set makes a great gift for homeowners, handyman or professional carpenter, contractor, plumber, mechanic...even you! The set includes a 18-inch roller tool bag with a retractable pull handle, a 16-inch widemouth toolbag and a 14-inch widemouth tool bag. All 3 bags offer durable design and loads of storage space for power tools, hand tools, cords, meters and more. They're constructed of premium polyester and feature heavy-duty zippers and handles, with reinforced bottom panels to prevent sagging and tool punch-through.</P><p>3 BAGS ARE BETTER THAN 1: You'll love the storage and carry capacity of this set of tool bags, including the 18-inch roller bag, 16-inch and 14-inch wide-mouth tool bags.  DURABLE DESIGN: Heavy-duty polyester shells, strong frames and handles and molded EVA bottoms makes these bags ready for super duty on the job, in the garage and on the road. TONS OF STORAGE: All these bags feature tool pockets and tool loops for organizing and storing your gear your way</p>"
+  },
   {
     "class": "1",
     "category": "Viper Products",
@@ -37710,6 +37710,22 @@
     "item": "MILWAUKEE IMPACT WRENCH - ELECTRIC 1/2\" DR.",
     "image": "assets/img/items/PM9070.JPG",
     "description": "<P>    The Milwaukee&reg; 1/2\" drive electric impact wrench delivers 300 ft. lbs. of torque and weighs just 6 pounds for a great power-to-weight ratio. The 7.0 amp motor drives a unique impact mechanism at 1800 RPM (no load), and it features a pin-detent system to securely retain sockets or adapters.</P> <P>    It also has a rocker switch for quick selection of forward or reverse and an ergonomically shaped handle with a soft cushioned grip for a well balanced and controllable feel. The special mechanism achieves desired installation torque faster and loosens rusted or fretted bolts in less time.</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+  },
+  {
+    "class": "60",
+    "category": "Milwaukee Tools®",
+    "item_no": "PMXF314-1XC",
+    "item": "MILWAUKEE MX FUEL - 14\" CUT OFF SAW",
+    "image": "assets/img/items/MXFSAW.png",
+    "description": "<P>The MX FUEL 14 Cut-Off Saw delivers the best 14 cut-off saw experience by providing true 14 cut capacity, faster cuts from start to finish and none of the gas headaches. Full 14 capacity gives you the ability to cut up to 5 depths in the most challenging materials and allows you the freedom to choose compatible between 14 and 12 blades. The POWERSTATE Brushless Motor delivers the power to cut through a wide range of tough materials from rebar to ductile iron and concrete. The ability to cut materials faster from start to finish provides a time savings by eliminating repetitive motions of a pull start and providing cut speeds that rival leading 2 cycle gas saws. REDLINK PLUS Intelligence ensures optimal tool performance and provides overload protection to protect the machine and battery during the toughest applications. The MX FUEL REDLITHIUM battery pack delivers instant power with none of the gas headaches. This means fewer wearable parts, less noise and vibration and ZERO emissions for a safer workspace indoors or outdoors. The MX FUEL 14 Cut-Off Saw is compatible with ONE KEY. Integrated Tool Security provides the ultimate theft protection with features like tool lock-out, allow you to protect your investments. If your machine is lost or stolen, you can render it inoperable by sending a remote command to the machine to shut itself off the next time it comes within range of any ONE KEY app.</P>"
+  },
+  {
+    "class": "60",
+    "category": "Milwaukee Tools®",
+    "item_no": "PMXF301-2CXS",
+    "item": "MILWAUKEE MX FUEL HANDHELD CORE DRILL KIT W/ STAND",
+    "image": "assets/img/items/MAZDAMX5.png",
+    "description": "<P>The MX FUEL Handheld Core Drill allows you to core with more confidence than ever before. A patented clutch design and integrated AUTOSTOP technology work together to eliminate loss of control situations to deliver safer handheld coring. The POWERSTATE Brushless Motor delivers the power to core up to 6 holes in reinforced concrete. REDLINK PLUS Intelligence provides AUTOSTOP capabilities, as well as an onboard LED level system and a performance gauge that helps to coach you to the most efficient pressure in application. These features, along with the option to wet or dry core add up to easier coring- anywhere. The MX FUEL REDLITHIUM battery pack powers through concrete and block, delivering a core drill that can be used almost anywhere without the hassle of extension cords or tripping breakers. The MX FUEL Handheld Core Drill is compatible with ONE KEY. Integrated Tool Security provides the ultimate theft protection with features like tool lock-out, allow you to protect your investments. If your machine is lost or stolen, you can render it inoperable by sending a remote command to the machine to shut itself off the next time it comes within range of any ONE KEY app.</P>"
   },
   {
     "class": "75",
