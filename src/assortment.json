@@ -418,6 +418,38 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "VRW11S",
+    "item": "VIPER RATCHETING WRENCH - 11 PC SAE",
+    "image": "assets/img/items/VRW11SS.png",
+    "description": "<P>Sizes: 1/4\", 5/16\", 3/8\", 7/16\", 1/2\", 9/16\", 5/8\", 11/16\", 3/4\", 13/16\", 7/8\"</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VRW11M",
+    "item": "VIPER RATCHETING WRENCH - 11 PC METRICS",
+    "image": "assets/img/items/VRW11M.png",
+    "description": "<P>Sizes: 6MM, 8, 10, 11, 13, 14, 17, 18, 19, 21, 22MM.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VTK170",
+    "item": "VIPER TOOL KIT - 170 PIECES",
+    "image": "assets/img/items/VTK170.jpeg",
+    "description": "<P>From the flawless chrome finish of its wrenches, ratchets, and sockets to the perfectly balanced and shaped dual-material handles of its screwdrivers, this VIPER 170-piece mechanics tool set offers an extraordinarily high level of quality. These Viper mechanics tools are made from chrome vanadium steel alloy, specially formulated and heat-treated for high strength and superior resistance to abrasion and corrosion. Every part of every tool -- from the vapor-blasted screwdriver tips to the hardened ratchet gears and pawls -- is designed for extremely long life.</P><p>The set includes 1/4 inch, 3/8 inch, and 1/2 inch quick release ratcheting drives with a wide selection of standard and deep sockets in the most common SAE and metric sizes. Included in the set are the following 3/8 inch drive tools: a 72 tooth quick release ratchet drive, 2 extensions, a 3/8 inch to 1/4 inch adapter, 2 spark plug sockets, 25 twelve point sockets and 10 six point deep sockets (SAE and metric). It also includes the following 1/4 inch drive tools: a 72 tooth quick release ratchet drive, a 3 inch extension, 22 six point sockets (SAE and metric). Additionally, there are 12 SAE and metric combination wrenches, 2 pliers, 8 inch adjustable wrench, 4 screwdrivers, a magnetic bit driver with 44 driver bits, and 26 SAE and metric hex keys. </p>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VTK148",
+    "item": "VIPER TOOL KIT - 140 PIECES",
+    "image": "assets/img/items/VTK148.jpeg",
+    "description": "<P>148Pcs tools set comes with all the most useful and basic tools for daily use and home maintenance. It is perfect hand tool kit to have at home, garage, office, car trunk. This tool set is also a good gift choice for family member, friends, partners, etc. </P><p>This Tool kit comes with a sturdy blow-molded toolbox for organized storage and portability. Its sturdy interiors and organizers keep all tools in place.</p><p>Assortment of essential tools are in one box: claw hammer, precision screwdrivers, long nose pliers, combination wrenches, 72-tooth ratchet, sockets, hex keys, tape measure, bit driver and bits etc.</p><br><b>Specifications:</b><li>Kit Contents: 1/2 in Drive:72-Tooth Quick Release Ratchet Drive 5 in Extension 6-Point Sockets: 1/2 in 9/16 in 5/8 in 3/4 in 7/8 in 15 mm 17 mm 18 mm 19 mm and 21 mm 3/8 in Drive:72- Tooth Quick-Release Ratchet Drive 3 in Extension 6 in Extension 3/8 in Female To 1/4</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "CUT100V",
     "item": "VIPER - DC INVERTER PLASMA CUTTER W/ BUILT - OIL FREE AIR COMPRESSOR",
     "image": "assets/img/items/CUT100V.jpg",
