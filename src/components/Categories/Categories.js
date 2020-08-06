@@ -27,13 +27,7 @@ const Categories = props => {
                     //console.log(result);
                     let classNum = result.class;
                     return (
-                        <button className="bg-danger" 
-                        onClick={() => {
-                            props.click({classNum})
-                            props.setRef()
-                            }
-                        }
-                         key={classNum}>
+                        <button className="bg-danger" onClick={() => props.click({classNum})} key={classNum}>
                             {result.class} - {result.category}
                         </button>
                     )

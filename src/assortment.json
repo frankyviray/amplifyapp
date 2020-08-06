@@ -1,5 +1,341 @@
 [
   {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "FS481",
+    "item": "FACE SHIELD - DIRECT SPLASH PROTECTION",
+    "image": "assets/img/items/FS481.jpg",
+    "description": "<P>Oscha Approved Face Sheield, Has an adjustable elastic fastener, Direct splash face protection, Effectively protects you from chemical spills, spits, dust, bacteria and germs</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "KN95",
+    "item": "DUST MASKS - KN95 - 5 PACK - PROLINE",
+    "image": "assets/img/items/KN95-5.png",
+    "description": "<P>DUST MASKS - KN95 - 5 PACK - PROLINE 4-PLY NON-WOVEN: 4-Layers of protection include a Non-Woven Inner Layer, Meltblown Filter, Hot Air Cotton Filter, and Non-Woven Outer Shell.<br><b>Specifications</b><li>FORM FITTING: The flexible nose guard is designed to provide a custom fit to ensure a soft and comfortable fit to reduce skin irritation while the stretchable braided ear bands ensure comfort over long periods of wear time.</li><li>LIGHTWEIGHT: The vertical folding design and overall lightweight structure make this mask easy to store and carry.</li><li>PROVIDES MORE PROTECTION: The KN95 is a disposable and breathable mask designed to offer more protection than standard disposable 3-Ply masks.</li></li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "S630",
+    "item": "DISPOSABLE PROTECTIVE MASK - 3 LAYER (50 PACK)",
+    "image": "assets/img/items/S630.jpg",
+    "description": "<P>Multi-layer 3-ply disposable procedural face mask. Fluid-resistant, Pleated</P><P>Procedural filter masks are helpful to contain viruses and slow or stop their spread. These are especially useful on people already infected to stop contamination of others, but according to the WHO (World Health Organization):<br><b>Specifications</b><li>If you are healthy, you only need to wear a mask if you are taking care of a person with suspected 2019-nCoV infection.</li><li>Wear a mask if you are coughing or sneezing.</li><li>Masks are effective only when used in combination with frequent hand-cleaning with alcohol-based hand rub or soap and water.</li><li>If you wear a mask, then you must know how to use it and dispose of it properly.</li><li>Before putting on a mask, clean hands with alcohol-based hand rub or soap and water.</li><li>Cover mouth and nose with mask and make sure there are no gaps between your face and the mask.</li><li>Avoid touching the mask while using it; if you do, clean your hands with alcohol-based hand rub or soap and water.</li><li>Replace the mask with a new one as soon as it is damp and do not re-use single-use masks.</li><li>To remove the mask: remove it from behind (do not touch the front of mask); discard immediately in a closed bin; clean hands with alcohol-based hand sanitizer or soap and water.</li></P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "CT88",
+    "item": "CONTACTLESS INFRARED THERMOMETER",
+    "image": "assets/img/items/CT888.jpg",
+    "description": "<P>Convenient Memory Feature: You can store temperature readings and recall them at any time. This comes in handy for keeping a record, also has an auto shutdown feature for power saving. FDA/CE approved.</P><p>Fast & Accurate Reading:The digital thermometer is equipped with the latest medical infrared technology and has been clinically tested for accuracy and reliability. Simple and easy to use. Just press a button and the forehead digital thermometer will deliver accurate temperature instantly within 1 second.</p><p>Non Contact Body Infrared Thermometer: No skin contact required when using this thermometer. Effectively prevent cross infection and bring the best care for your family.  Multi-Function Thermometer: All in one design for all ages, adults, infants and elders, this thermometer not only supports forehead or ear reading, but also can take room/object temperature, such as water, milk , food temperature and so on.</p><p>Intelligent Fever Indicator& °C/°F Switchable: Equipped with fever warning system, the thermometer for fever will indicate and beeps 3 times. Farenheit/Celsius are easily switchable. Reading Memory: Stores previous readings to track the change of body temperature. backlit LCD screen and mute function won't wake up your baby.</p>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "AWIPE50",
+    "item": "ALCOHOL HAND SANITIZER WIPE - 50PC",
+    "image": "assets/img/items/AWIPE50.jpg",
+    "description": "<P>75% Alcohol Disinfectant Travel Wipes</P><p>Cleaning & disinfectant wipes for hard surfaces, Eliminates 99.99% of germs that cause illness.  Convenient travel size packaging, Secure, sealable lid prevents evaporation. Pre-moistened wipes</p>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "BLEACH",
+    "item": "GERMICIDAL BLEACH - 1 GALLON",
+    "image": "assets/img/items/BLEACH.jpg",
+    "description": "<P>Ensure that your surfaces are ultra-clean with germicidal ultra bleach. Also approved as a non-food contact sanitizer and laundry sanitizer. Currently approved to kill more than 50 specific germs including C Diff Spore, MRSA, Norovirus, and HBV and HCV. Application: Bleach; Applicable Material: Ceramics; Cement/Concrete; Enamel; Fabric; Glass; Laminate; Metal; Plastic; Chemical Compound: NaOCl; Physical Form: Liquid.</p>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "SAN8",
+    "item": "HAND SANITIZER - 8 OZ. GEL (PUMP BOTTLE)",
+    "image": "assets/img/items/san8.jpg",
+    "description": "<P>Hand Sanitizer 8 oz. Gel comes in a pump bottle, kills up to 99.9% Germs</p>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "DSPRAY",
+    "item": "32oz DISINFECTANT SPRAY BOTTLE",
+    "image": "assets/img/items/DSPRAY.jpeg",
+    "description": "<P>Perfect for cleaning surfaces and general sanitizing. Conforms to WHO, FDA, and EN12791 guidance for COVID-19. Alcohol antiseptic 80%. 32oz.</p><p>Active ingredients: Isopropyl Alcohol 70%....Antisceptic.</p>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VDG100L",
+    "item": "VIPER GRIP BLACK DIAMOND NITRILE GLOVES- LARGE",
+    "image": "assets/img/items/VDG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Raised Textured Surface for Snake-Like Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VDG100M",
+    "item": "VIPER GRIP BLACK DIAMOND NITRILE GLOVES- MEDIUM",
+    "image": "assets/img/items/VDG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Raised Textured Surface for Snake-Like Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VDG100XL",
+    "item": "VIPER GRIP BLACK DIAMOND NITRILE GLOVES- X LARGE",
+    "image": "assets/img/items/VDG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Raised Textured Surface for Snake-Like Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VPG100L",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES 6 MIL LARGE",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VPG100M",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES - MEDIUM",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VPG100XL",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES - X LARGE",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "VPG100XXL",
+    "item": "VIPER GRIP BLACK PEARL NITRILE GLOVES - XX - LARGE",
+    "image": "assets/img/items/VPG.jpeg",
+    "description": "<P>Made exclusively for Ace Industrial Supply, our new 'Viper Grip' Black Nitrile Gloves are incredibly tough and extremely flexible. They are commercial grade, 6 mil and powder free.</P><P>Viper Grip Gloves come in two versions; 'Black Pearl Grip' is a smooth surface nitrile glove while 'Black Diamond Grip' has a raised textured surface for increased grip on wet and oily materials.</P><P>Viper Grip Gloves are perfect for service technicians, auto mechanics, HVAC, tattoo artists, beauty salons, sanitation, chemical handling, plumbing, marine and more. They are tear and chemical resistant and allow for greater dexterity. Packed 100 gloves per box and available in medium, large, x-large and xx-large.</P><BR><b>Specifications:</b><li>Smooth Skin Sure Grip</li>Powder Free</li><li>6 Mil. Thick</li><li>Tear & Chemical Resistant</li><li>100 Per Box</li>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030L",
+    "item": "DISPOSABLE COVERALLS - LARGE",
+    "image": "assets/img/items/5030.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030LWH",
+    "item": "DISPOSABLE COVERALLS WITH HOOD - LARGE",
+    "image": "assets/img/items/5030C.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030LWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - LARGE",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>       They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030M",
+    "item": "DISPOSABLE COVERALLS - MEDIUM",
+    "image": "assets/img/items/5030.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030MWH",
+    "item": "DISPOSABLE COVERALLS WITH HOOD - MEDIUM",
+    "image": "assets/img/items/5030C.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030MWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - MEDIUM",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>      They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XL",
+    "item": "DISPOSABLE COVERALLS - X-LARGE",
+    "image": "assets/img/items/5030.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XLWH",
+    "item": "DISPOSABLE COVERALLS WITH HOOD - X-LARGE",
+    "image": "assets/img/items/5030C.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XLWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - X-LARGE",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>       They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXL",
+    "item": "DISPOSABLE COVERALLS - XX-LARGE",
+    "image": "assets/img/items/5030.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXLWH",
+    "item": "DISPOSABLE COVERALLS WITH HOOD - XX-LARGE",
+    "image": "assets/img/items/5030C.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXLWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - XX-LARGE",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>       They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXXL",
+    "item": "DISPOSABLE COVERALLS - XXX-LARGE",
+    "image": "assets/img/items/5030.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXXLWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - XXX-LARGE",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>       They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXXXL",
+    "item": "DISPOSABLE COVERALLS  XXXX-LARGE",
+    "image": "assets/img/items/5030C.jpeg",
+    "description": "<P>      These coveralls are a polypropylene fabric that is a soft, durable material made from spun bonded, extruded polypropylene fibers. They're lightweight garments that offer excellent, inexpensive protection against dirt and grime. </P> <P>     Use when performing non hazardous duties including maintenance work, or any dirty and dusty jobs. The coveralls have set in sleeves and a full front zipper. They're white in color and provide a longer than average service life. Not to be confused with Tyvek&reg; or paper coveralls. (Booties not included.)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5030XXXXLWHB",
+    "item": "DISPOSABLE COVERALLS W/HOOD & BOOT - XXXX-LARGE",
+    "image": "assets/img/items/5030D.jpeg",
+    "description": "<P>        These are super tough, spun cloth and paper coveralls that you can wear under houses, in crawl spaces, underground or just about anywhere else you need to protect your clothing from dirt, dust, and grime. </P> <P>        They are full coverage suits with a full, one piece, protection from your feet to the top of your head and have a heavy duty zipper that snugs up to the neck and will not break down under heavy use.  </P> <P>       They're cut for comfort and won't hinder movement of your arms while working. They also breathe through the material while still keeping out dirt, dust and grime.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050L",
+    "item": "COVERALLS - LIQUID PROOF - LARGE",
+    "image": "assets/img/items/5050BLUE.jpeg",
+    "description": "<P>            These are liquid proof, protective coveralls for almost any application and are worn for protection during painting, spraying, fogging, etc. </P> <P>         They have a special Polyethylene coating to repel liquids, oils, grease, and resins. They're cool, breathable and comfortable, and designed for a full range of movement.  </P> <P>        They have elastic cuffs, full length zipper, open ankles, an attached hood and are easy to get in and out of.  </P> <P>         Although rated for non-hazardous use, moisture and contaminants are restricted from passing through these coveralls. Light blue in color. Booties not included.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050LWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT- LARGE",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>             These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050M",
+    "item": "COVERALLS - LIQUID PROOF - MEDIUM",
+    "image": "assets/img/items/5050BLUE.jpeg",
+    "description": "<P>          These are liquid proof, protective coveralls for almost any application and are worn for protection during painting, spraying, fogging, etc. </P> <P>         They have a special Polyethylene coating to repel liquids, oils, grease, and resins. They're cool, breathable and comfortable, and designed for a full range of movement.  </P> <P>       They have elastic cuffs, full length zipper, open ankles, an attached hood and are easy to get in and out of.  </P> <P>         Although rated for non-hazardous use, moisture and contaminants are restricted from passing through these coveralls. Light blue in color. Booties not included.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050MWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT - MEDIUM",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>             These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XL",
+    "item": "COVERALLS - LIQUID PROOF - X-LARGE",
+    "image": "assets/img/items/5050BLUE.jpeg",
+    "description": "<P>          These are liquid proof, protective coveralls for almost any application and are worn for protection during painting, spraying, fogging, etc. </P> <P>         They have a special Polyethylene coating to repel liquids, oils, grease, and resins. They're cool, breathable and comfortable, and designed for a full range of movement.  </P> <P>        They have elastic cuffs, full length zipper, open ankles, an attached hood and are easy to get in and out of.  </P> <P>         Although rated for non-hazardous use, moisture and contaminants are restricted from passing through these coveralls. Light blue in color. Booties not included.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XLWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT - XL",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>             These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XXL",
+    "item": "COVERALLS - LIQUID PROOF - XX-LARGE",
+    "image": "assets/img/items/5050BLUE.jpeg",
+    "description": "<P>            These are liquid proof, protective coveralls for almost any application  and are worn for protection during painting, spraying, fogging, etc. </P> <P>         They have a special Polyethylene coating to repel liquids, oils, grease, and resins. They're cool, breathable and comfortable, and designed for a full range of movement.  </P> <P>        They have elastic cuffs, full length zipper, open ankles, an attached hood and are easy to get in and out of.   </P> <P>         Although rated for non-hazardous use, moisture and contaminants are restricted from passing through these coveralls. Light blue in color. Booties not included.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XXLWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT - XXL",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>            These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XXXL",
+    "item": "COVERALLS - LIQUID PROOF  - XXX-LARGE",
+    "image": "assets/img/items/5050BLUE.jpeg",
+    "description": "<P>            These are liquid proof, protective coveralls for almost any application and are worn for protection during painting, spraying, fogging, etc. </P> <P>         They have a special Polyethylene coating to repel liquids, oils, grease, and resins. They're cool, breathable and comfortable, and designed for a full range of movement.  </P> <P>        They have elastic cuffs, full length zipper, open ankles, an attached hood and are easy to get in and out of.  </P> <P>         Although rated for non-hazardous use, moisture and contaminants are restricted from passing through these coveralls. Light blue in color. Booties not included.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XXXLWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT - XXXL",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>             These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "5050XXXXLWHB",
+    "item": "COVERALLS - LIQUID PROOF W/HOOD & BOOT - XXXXL",
+    "image": "assets/img/items/WES.jpeg",
+    "description": "<P>             These super tough, poly coated coveralls can be used under houses, in crawl spaces, underground, just about anywhere to protect your clothes from paints, dirt, grease, etc.</P> <P>        They're full coverage suits with one piece protection from your shoes to the top of your head and they have heavy duty zippers that snug up to the neck and will not break down under heavy use.  </P> <P>          They're cut for comfort and won't hinder the movement of your arms while working. They also breathe through the material while keeping all the moisture and dirt out.  </P>"
+  },
+  {
     "class": "1",
     "category": "Viper Products",
     "item_no": "19-SCY20-SA",
@@ -34,10 +370,42 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "SH1218",
+    "item": "SOCKET HOLDER - 1/2\" DR. - VIPER",
+    "image": "assets/img/items/SH12.jpeg",
+    "description": "<P>Magnetic socket holder. Twist/click off sockets.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "SH1412",
+    "item": "SOCKET HOLDER - 1/4\" DR. - VIPER",
+    "image": "assets/img/items/SH14.jpeg",
+    "description": "<P>Magnetic socket holder. Twist/click off sockets.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "SH3816",
+    "item": "SOCKET HOLDER - 3/8\" DR. - VIPER",
+    "image": "assets/img/items/SH38.jpeg",
+    "description": "<P>Magnetic socket holder. Twist/click off sockets.</P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "DS100",
     "item": "DEEP SOCKET SET - VIPER - 100 PC. PACKAGE",
     "image": "assets/img/items/DS100.jpg",
     "description": "<P>Viper sockets and wrenches are professional quality and made of high grade, chrome vanadium steel and polished to a super high gloss shine. The sockets feature Supertorque&reg; lobular openings for greater turning power without deforming the fastener. The 1/4\", 3/8\" & 1/2\" drive sockets are 6 point drive sockets. The Sockets is neatly organized in a heavy duty impact plastic case with the socket size in easy to read, raised numbering next to its storage section. These Viper socket is from 1/4\" drive to 1/2\" drive in both SAE and Metric. 1/2\" ratchet 72 tooth, 3/8\" ratchet 72 tooth, 1/4\" ratchet 72 tooth.</P><br><b>Specifications:</b><p><b>Viper - 27 PC. 1/4\" DR. SAE & METRIC</b></p>SAE Sizes: 5/32\",3/16\", 7/32\", 1/4\", 9/32\", 11/32\", 5/16\", 1/4\", 7/16\", 1/2\", 3/8\" & 9/16\"</li><li>Metric Sizes: 4mm, 5mm, 6mm, 7mm, 8mm, 9mm, 10mm, 11mm, 12mm, 13mm & 14mm</li><li>1/4\" Dr. Pear Head Ratchet (72 tooth)</li><li>6\" Extension</li><li>1/4\" Dr. 'U' Joint</li><li>1-1/2\" Extension</li><li>1/4\" Dr. Spinner Handle</li><br><p><b>Viper - 27 PC. 3/8\" DR. SAE & Metric</b></p><li>SAE Sizes: 3/8\",7/16\", 1/2\", 9/16\", 5/8\", 11/16\", 3/4\", 13/16\", 7/8\", 15/16\", & 1\" </li><li>Metric Sizes: 9mm, 10mm, 11mm, 12mm, 13mm, 14mm, 15mm, 16mm, 17mm, 18mm & 19mm</li><li> 3/8\" Dr. Pear Head Ratchet (72 tooth)</li><li> 6\" Extension</li><li> 3/8\" Dr. 'U' Joint</li><li> 3\" Extension</li></p><p><b>VIPER - 46 PC. 1/2\" DR. SAE & Metric</b><li>SAE Sizes: 5/16\", 3/8\", 7/16\", 1/2\", 9/16\", 5/8\", 11/16\", 3/4\", 13/16\", 7/8\", 15/16\", 1\", 1-1/8\", 1-3/16\" & 1-1/4\"</li><li>Metric Sizes: 9mm, 10mm, 11mm, 12mm, 13mm, 14mm, 15mm, 16mm, 17mm, 18mm, 19mm, 20mm, 21mm, 22mm, 23mm, 24mm, 25mm, 26mm, 27mm, 28mm, 29mm, 30mm, & 32mm</li><li> 1/2\" Dr. Pear Head Ratchet (72 tooth)</li><li> 6\" Extension</li><li>2 Spark Plug Sockets (5/8\" & 13/16\")</p>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "HD21PC",
+    "item": "IMPACT SOCKET SET - 1\" DR. 21 PC SAE - VIPER",
+    "image": "assets/img/items/SOCKETHD.jpeg",
+    "description": "<P>This 21 pc. x 1\" drive impact socket set is a monster weighing in at 95 lbs.! The sockets and extensions are all constructed of industrial grade drop forged and heat treated CrMo steel with a corrosion resistant black phosphate finish.</P><p>The sockets are 6 point with the hole that locks on to the impact wrench's drive tang. The set ranges from 1-5/8\" to 3-1/8\" (deep) and comes in a metal carrying case. They meet or exceed ANSI standards and this set has a lifetime warranty.</p><p>This is a great impact socket set for truckers, farm and ranch equipment, oil rigs and fields and anywhere that large 1\" drive impact wrenches are used consistently.</p><br><b>Specifications:</b><li>16 Sockets Sizes: 1-5/8\", 1-11/16\", 1-3/4\", 1-13/16\", 1-7/8\", 2\", 2-1/8\", 2-3/16\", 2-1/4\", 2-3/8\", 2-1/2\",2-5/8\", 2-3/4\", 2-15/16\", 3\" and 3-1/8\"</li>"
   },
   {
     "class": "1",
@@ -58,6 +426,22 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "VTK170",
+    "item": "VIPER TOOL KIT - 170 PIECES",
+    "image": "assets/img/items/VTK170.jpeg",
+    "description": "<P>From the flawless chrome finish of its wrenches, ratchets, and sockets to the perfectly balanced and shaped dual-material handles of its screwdrivers, this VIPER 170-piece mechanics tool set offers an extraordinarily high level of quality. These Viper mechanics tools are made from chrome vanadium steel alloy, specially formulated and heat-treated for high strength and superior resistance to abrasion and corrosion. Every part of every tool -- from the vapor-blasted screwdriver tips to the hardened ratchet gears and pawls -- is designed for extremely long life.</P><p>The set includes 1/4 inch, 3/8 inch, and 1/2 inch quick release ratcheting drives with a wide selection of standard and deep sockets in the most common SAE and metric sizes. Included in the set are the following 3/8 inch drive tools: a 72 tooth quick release ratchet drive, 2 extensions, a 3/8 inch to 1/4 inch adapter, 2 spark plug sockets, 25 twelve point sockets and 10 six point deep sockets (SAE and metric). It also includes the following 1/4 inch drive tools: a 72 tooth quick release ratchet drive, a 3 inch extension, 22 six point sockets (SAE and metric). Additionally, there are 12 SAE and metric combination wrenches, 2 pliers, 8 inch adjustable wrench, 4 screwdrivers, a magnetic bit driver with 44 driver bits, and 26 SAE and metric hex keys. </p>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "VTK148",
+    "item": "VIPER TOOL KIT - 140 PIECES",
+    "image": "assets/img/items/VTK148.jpeg",
+    "description": "<P>148Pcs tools set comes with all the most useful and basic tools for daily use and home maintenance. It is perfect hand tool kit to have at home, garage, office, car trunk. This tool set is also a good gift choice for family member, friends, partners, etc. </P><p>This Tool kit comes with a sturdy blow-molded toolbox for organized storage and portability. Its sturdy interiors and organizers keep all tools in place.</p><p>Assortment of essential tools are in one box: claw hammer, precision screwdrivers, long nose pliers, combination wrenches, 72-tooth ratchet, sockets, hex keys, tape measure, bit driver and bits etc.</p><br><b>Specifications:</b><li>Kit Contents: 1/2 in Drive:72-Tooth Quick Release Ratchet Drive 5 in Extension 6-Point Sockets: 1/2 in 9/16 in 5/8 in 3/4 in 7/8 in 15 mm 17 mm 18 mm 19 mm and 21 mm 3/8 in Drive:72- Tooth Quick-Release Ratchet Drive 3 in Extension 6 in Extension 3/8 in Female To 1/4</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "CUT100V",
     "item": "VIPER - DC INVERTER PLASMA CUTTER W/ BUILT - OIL FREE AIR COMPRESSOR",
     "image": "assets/img/items/CUT100V.jpg",
@@ -70,6 +454,22 @@
     "item": "VIPER - 100 AMP PLASMA CUTTER",
     "image": "assets/img/items/CUT1AC.jpg",
     "description": "<P>Specifications<li>Voltage: 380 v ~ 3 phase, 60HZ</li><li>Rated Input power: 15kva</li><li>No Load voltage: 270v</li><li>No Load Voltage: 270V</li><li>Current Range: 20-100A</li><li>Max Cutting Thickness: 30mm (1-3/16\")</li><li>Duty Cycle: 100A at 60%</li><li>Come's with an 4 meter Torch</li></P>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "TB16V",
+    "item": "TOOL BAG W/ RUBBER BOTTOM - 16\" VIPER",
+    "image": "assets/img/items/VIPERBAG.jpg",
+    "description": "<P>VIPER branded rubber bottom tool bag is the perfect item to stow away power tools, medium hand tools and other smaller construction items.</P><br><b>Specifications</b><li>HEAVY DUTY: Made from durable 600d fabric, the soft sided tool bag can endure hard wear and tear. Equipped with a waterproof, ultra-sturdy rigid base</li><li>WIDE MOUTH: The tool bag is equipped with a wide mouth top allowing easy access for larger tools. Tool bag closes securely with zipper top</li><li>MULTI-POCKET & OPEN MAIN COMPARTMENT: Equipped with 18 pockets and an open interior, the tool bag is perfect for power tools, medium hand tools and other smaller construction items</li><li>CARRYING STRAPS: Constructed with soft fabric handles and padded shoulder strap for carrying longer distances</li><li>DIMENSIONS: 16\" Width x 8.5\" Depth x 13\" Height (11\" Height when zipped)</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "RC3PC",
+    "item": "ROLLER COMBO TOOL BAG - 3 PC - VIPER",
+    "image": "assets/img/items/3VIPERBAGS.jpg",
+    "description": "<P>Get 3 heavy-duty premium quality VIPER branded tool bags with one purchase! This 3 piece tool bag set makes a great gift for homeowners, handyman or professional carpenter, contractor, plumber, mechanic...even you! The set includes a 18-inch roller tool bag with a retractable pull handle, a 16-inch widemouth toolbag and a 14-inch widemouth tool bag. All 3 bags offer durable design and loads of storage space for power tools, hand tools, cords, meters and more. They're constructed of premium polyester and feature heavy-duty zippers and handles, with reinforced bottom panels to prevent sagging and tool punch-through.</P><p>3 BAGS ARE BETTER THAN 1: You'll love the storage and carry capacity of this set of tool bags, including the 18-inch roller bag, 16-inch and 14-inch wide-mouth tool bags.  DURABLE DESIGN: Heavy-duty polyester shells, strong frames and handles and molded EVA bottoms makes these bags ready for super duty on the job, in the garage and on the road. TONS OF STORAGE: All these bags feature tool pockets and tool loops for organizing and storing your gear your way</p>"
   },
   {
     "class": "1",
@@ -134,6 +534,14 @@
     "item": "21\" PORTABLE 3 DRAWER VIPER TOOL BOX",
     "image": "assets/img/items/75-3DTB.jpg",
     "description": "<p></p>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "75-30TC",
+    "item": "TOOL CHEST COMBO - 10 DRAWER VIPER - 30\"",
+    "image": "assets/img/items/75-30.jpeg",
+    "description": "<p><br><b>Specifications:</b><li>10 Drawer Tool Chest</li><li>Dimensions: 26-7/8 in. W x 17-3/4 in. D x 22-3/8 in.</li><li>Top lid opens for additional storage</li><li>Heavy-duty steel construction</li><li>High-gloss powder coat finish</li><li>Drawers with ball bearing glides</li><li>Drawers load rated 75 lbs. per drawer</li><li>Theft-proof lock system</li><li>built in power strip with 4 outlets and 2 USB ports with a regular 15amp breaker</li><li>(4) 5 in. casters; 2 locking and swivel</li></p>"
   },
   {
     "class": "1",
@@ -430,6 +838,14 @@
     "item": "WRENCH SET - BOX & OPEN END 6 PC. JUMBO METRIC",
     "image": "assets/img/items/819.jpg",
     "description": "<P>These larger combination wrench sets are made of chrome vanadium steel with a black oxide finish and raised panel for extra strength. They feature 12 point, chamfered boxed ends and a 15&deg; offset on the open end. </P> <P>Each set comes in a roll up, vinyl pouch with a Velcro fastener and a carry handle for convenience.</P><br><b>Sizes:</b> 35mm, 38mm, 41mm, 44mm, 48mm, 50mm</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "14MFS",
+    "item": "MINI FOLDING SAW KIT - VIPER",
+    "image": "assets/img/items/14MFS.jpeg",
+    "description": "<P>Ideal saw for cutting through large tree branches, Triple-cut razor teeth hardened to stay sharp for smooth, fast sawing. Ergonomic and Comfortable Handle: An easy to carry and use hand saw. Fully hardened stainless-steel 6inch saw blade. FLORA GUARD: Dedicating to make a better tools for gardeners. COMES WITH 3 BLADES FOR DIFFERENT APPLICATIONS (PVC TUBE, BOARD, FARMING, TREES) (PLASTIC, BAMBOO, WOOD BRANCHES, DRYWALL)</P>"
   },
   {
     "class": "1",
@@ -32124,7 +32540,7 @@
     "category": "Sockets, Impact & Chromed",
     "item_no": "HD21PC",
     "item": "IMPACT SOCKET SET - 1\" DR. 21 PC SAE",
-    "image": "assets/img/items/HD21PC.jpeg",
+    "image": "assets/img/items/SOCKETHD.jpeg",
     "description": "<P>This 21 pc. x 1\" drive impact socket set is a monster weighing in at 95 lbs.! The sockets and extensions are all constructed of industrial grade drop forged and heat treated CrMo steel with a corrosion resistant black phosphate finish.</P><P>The sockets are 6 point with the hole that locks on to the impact wrench's drive tang. The set ranges from 1-5/8\" to 3-1/8\" (deep) and comes in a metal carrying case. They meet or exceed ANSI standards and this set has a lifetime warranty.</P><P>This is a great impact socket set for truckers, farm and ranch equipment, oil rigs and fields and anywhere that large 1\" drive impact wrenches are used consistently.</P><BR><b>Specifications:</b><li>16 Sockets Sizes: 1-5/8\", 1-11/16\", 1-3/4\", 1-13/16\", 1-7/8\", 2\", 2-1/8\", 2-3/16\", 2-1/4\", 2-3/8\", 2-1/2\", 2-5/8\", 2-3/4\", 2-15/16\", 3\" and 3-1/8\"</li><li>6 Point Sockets</li><li>24\" Ratchet</li><li>10\" Extension</li><li>8\" Extension</li><li>20\" Slidint T Bar</li><li>Metal Carrying Case</li><li>Weight 95 lbs</li>"
   },
   {
@@ -37302,6 +37718,30 @@
     "item": "MILWAUKEE IMPACT WRENCH - ELECTRIC 1/2\" DR.",
     "image": "assets/img/items/PM9070.JPG",
     "description": "<P>    The Milwaukee&reg; 1/2\" drive electric impact wrench delivers 300 ft. lbs. of torque and weighs just 6 pounds for a great power-to-weight ratio. The 7.0 amp motor drives a unique impact mechanism at 1800 RPM (no load), and it features a pin-detent system to securely retain sockets or adapters.</P> <P>    It also has a rocker switch for quick selection of forward or reverse and an ergonomically shaped handle with a soft cushioned grip for a well balanced and controllable feel. The special mechanism achieves desired installation torque faster and loosens rusted or fretted bolts in less time.</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/millogo.bmp\"></CENTER>"
+  },
+  {
+    "class": "60",
+    "category": "Milwaukee Tools®",
+    "item_no": "PMXF368-1XC",
+    "item": "MILWAUKEE MX FUEL BREAKER W/ CART",
+    "image": "assets/img/items/MXFBREAK.jpeg",
+    "description": "<P>The MX FUEL Breaker delivers users a Faster, Safer, Easier Concrete Demolition experience. The MX FUEL Breaker is the Most Productive, Lowest Vibration Breaker on the market delivering and is designed for the professional user, delivering ultimate power, durability and productivity. The Breaker is Lightest in Class, making it easier to handle in all orientations and transport on and off the jobsite. The Breaker can break over 2-Tons per Charge, allowing users to complete extremely demanding applications. The MX FUEL Breaker utilizes a POWERSTATE Brushless Motor to deliver 50 ft./lbs. of impact energy that meets and exceeds that of corded competition. REDLINK PLUS intelligence tool technology ensures maximum performance and protects it from overload, overheating and over discharge. Our MX FUEL REDLITHIUM XC Battery Pack with deliver unparalleled run time and allow users to break a 40 ft. trench that is 1 ft. W and 6 in. thick. The MX FUEL Breaker is also compatible with our integrated ONE KEY Smart Technology which enables wireless tool connectivity to smart devices including smart phones and tablets to easily track and manage a tools performance and its location.</P>"
+  },
+  {
+    "class": "60",
+    "category": "Milwaukee Tools®",
+    "item_no": "PMXF314-1XC",
+    "item": "MILWAUKEE MX FUEL - 14\" CUT OFF SAW",
+    "image": "assets/img/items/MXFSAW.png",
+    "description": "<P>The MX FUEL 14 Cut-Off Saw delivers the best 14 cut-off saw experience by providing true 14 cut capacity, faster cuts from start to finish and none of the gas headaches. Full 14 capacity gives you the ability to cut up to 5 depths in the most challenging materials and allows you the freedom to choose compatible between 14 and 12 blades. The POWERSTATE Brushless Motor delivers the power to cut through a wide range of tough materials from rebar to ductile iron and concrete. The ability to cut materials faster from start to finish provides a time savings by eliminating repetitive motions of a pull start and providing cut speeds that rival leading 2 cycle gas saws. REDLINK PLUS Intelligence ensures optimal tool performance and provides overload protection to protect the machine and battery during the toughest applications. The MX FUEL REDLITHIUM battery pack delivers instant power with none of the gas headaches. This means fewer wearable parts, less noise and vibration and ZERO emissions for a safer workspace indoors or outdoors. The MX FUEL 14 Cut-Off Saw is compatible with ONE KEY. Integrated Tool Security provides the ultimate theft protection with features like tool lock-out, allow you to protect your investments. If your machine is lost or stolen, you can render it inoperable by sending a remote command to the machine to shut itself off the next time it comes within range of any ONE KEY app.</P>"
+  },
+  {
+    "class": "60",
+    "category": "Milwaukee Tools®",
+    "item_no": "PMXF301-2CXS",
+    "item": "MILWAUKEE MX FUEL HANDHELD CORE DRILL KIT W/ STAND",
+    "image": "assets/img/items/MAZDAMX5.png",
+    "description": "<P>The MX FUEL Handheld Core Drill allows you to core with more confidence than ever before. A patented clutch design and integrated AUTOSTOP technology work together to eliminate loss of control situations to deliver safer handheld coring. The POWERSTATE Brushless Motor delivers the power to core up to 6 holes in reinforced concrete. REDLINK PLUS Intelligence provides AUTOSTOP capabilities, as well as an onboard LED level system and a performance gauge that helps to coach you to the most efficient pressure in application. These features, along with the option to wet or dry core add up to easier coring- anywhere. The MX FUEL REDLITHIUM battery pack powers through concrete and block, delivering a core drill that can be used almost anywhere without the hassle of extension cords or tripping breakers. The MX FUEL Handheld Core Drill is compatible with ONE KEY. Integrated Tool Security provides the ultimate theft protection with features like tool lock-out, allow you to protect your investments. If your machine is lost or stolen, you can render it inoperable by sending a remote command to the machine to shut itself off the next time it comes within range of any ONE KEY app.</P>"
   },
   {
     "class": "75",
