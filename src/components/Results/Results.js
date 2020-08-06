@@ -1,7 +1,8 @@
 import React from 'react';
 import './Results.css';
 
-const Results = props => {
+
+const Results = (props, ref) => {
 
     const resultImage = {
         display: "block",
@@ -10,20 +11,18 @@ const Results = props => {
         width: "auto",
         height: "auto"
     }
-
-    // console.log(props.items)
-
     
+     
     return (
-        <div className="col-9">
+        <div className="col" ref={ ref }>
             <div id="result-card"className="card">
-                <table className="table">
+                <table className="table table-sm">
                     <thead className="card-header">
                         <tr>
                             <th scope="col">Image</th>
                             <th scope="col">Item #</th>
-                            <th scope="col">Description</th>
-                            <th scope="col"></th>
+                            <th scope="col" className='description-col'>Description</th>
+                            <th scope="col" className='more-info-col'></th>
                         </tr>
                     </thead>
                     <tbody id="category-result">
@@ -36,8 +35,13 @@ const Results = props => {
                                     <img id="result-img" className="mx-auto" src={result.image} alt="" style={resultImage}></img>
                                 </td>
                                 <td>{result.item_no}</td>
-                                <td>{result.item}</td>
-                                <td><button className="btn btn-primary" onClick={() => props.modal({itemNum})}>More Info</button></td>
+                                <td className="description-col">{result.item}</td>
+                                <td className="more-info-col">
+                                    <button className="btn btn-outline-info fa fa-info"  
+                                    aria-hidden="true"
+                                    aria-label="more info" onClick={() => props.modal({itemNum})}>                                           
+                                    </button>
+                                </td>
                             </tr>
                         )
                     })}
@@ -48,4 +52,4 @@ const Results = props => {
     )
 }
 
-export default Results;
+export default React.forwardRef(Results);
