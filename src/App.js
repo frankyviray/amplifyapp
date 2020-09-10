@@ -10,16 +10,24 @@ import assortment from './assortment.json'
 
 // alert("To access please use Internet Explorer 11 at a minimum, Firefox or Chrome.");
 class App extends Component {
-  state = {
-    assortment: assortment,
-    categories: [],
-    selectedCategoryItems: [],
-    selectedItem:"",
-    isOpen: false
+  constructor(props){
+    super(props)
+    this.resultRef = React.createRef();
+      
+    }
+
+    state = {
+      assortment: assortment,
+      categories: [],
+      selectedCategoryItems: [],
+      selectedItem:"",
+      isOpen: false  
   }
+ 
 
   componentDidMount () {
     this.getCategories();
+    
   }
 
   toggleModal = (itemNum) => {
@@ -107,7 +115,9 @@ class App extends Component {
     return heystack.filter(element => element.item.toLowerCase().indexOf(query) >= 0);
   }
 
-
+  setRef = () => {
+    this.resultRef.current.scrollIntoView();
+  }
 
   render() {
     console.log(this.state.selectedCategoryItems)
@@ -119,10 +129,12 @@ class App extends Component {
             categories={this.state.categories}
             click={this.handleCategoryClick}
             search={this.handleSearch}
+            setRef = { this.setRef }
           />
           <Results 
             items={this.state.selectedCategoryItems}
             modal={this.toggleModal}
+            ref = { this.resultRef}
           />
           <Modal 
             show={this.state.isOpen}
