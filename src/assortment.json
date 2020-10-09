@@ -10,7 +10,7 @@
   {
     "class": "0",
     "category": "Personal Protective Equipment",
-    "item_no": "CT88",
+    "item_no": "DT156",
     "item": "DIGITAL THERMOMETER",
     "image": "assets/img/items/thermo.jpg",
     "description": "<P>The digital thermometer can quickly and accurately measure your body temperature. LCD display clearly shows the measured value. Beep prompt to remind you when the measurement is complete. The oral/armpit/rectal thermometer is suitable for babies, kids and adults. Safe to use, no broken glass and mercury poisoning anymore</P>"
@@ -102,6 +102,22 @@
     "item": "RE-USABLE COTTON FACE MASK (NON-MEDICAL)",
     "image": "assets/img/items/CMASK.jpg",
     "description": "<P>Feature: Premium Material. This new mouth mask adopts high quality cotton, making it soft and comfortable to your face, very effortless breathable to wear,and it won't induce discomfort. 3 LAYERS. *Colors vary from navy blue, gray and black*. Do not machine dry. These masks are not medical grade N95 masks. They are intended to help slow the spread of human droplets via sneezes, coughs, and normal breathing. Designed according to the CDC's recommended cloth face mask guidelines.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "KFMASK",
+    "item": "KID'S MASK WITH FILTER - REUSEABLE",
+    "image": "assets/img/items/girlsmask.jpg",
+    "description": "<P>Fit age 3-9 years old Children, Adjustable ear loops, reusable and washable Face Mask (no machine wash, hand wash with care) Fabric: Cloth, Soft cotton lining</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "KMASK",
+    "item": "KIDS MASK - REUSEABLE",
+    "image": "assets/img/items/boyssmask.jpg",
+    "description": "<P>Our masks are made with soft, lightweight cotton so your littles are covered — comfortably. Mixed prints in each set. Over-the-ear straps. Adjustable nose piece for a comfortable, secure fit. This is not a medical-grade mask, toy, or Personal Protective Equipment (PPE) and is not intended as a replacement for medical-grade personal protective equipment or other recommended measures to stop the community spread of any viruses including social distancing, washing your hands, and refraining from touching your face. This mask should not be placed on young children under age?4, anyone who has trouble breathing, or is unconscious, incapacitated or otherwise unable to remove the mask without assistance.</P>"
   },
   {
     "class": "0",
