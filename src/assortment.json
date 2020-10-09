@@ -1,5 +1,101 @@
 [
   {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "CT88",
+    "item": "CONTACTLESS INFRARED THERMOMETER",
+    "image": "assets/img/items/CT88.jpg",
+    "description": "<P>Convenient Memory Feature: You can store temperature readings and recall them at any time. This comes in handy for keeping a record, also has an auto shutdown feature for power saving. FDA/CE approved. Non Contact One-button fast temperature measurement. Measuring distance is 3-5cm (2\"). Fast & Accurate Reading:The digital thermometer is equipped with the latest medical infrared technology and has been clinically tested for accuracy and reliability. Simple and easy to use. Just press a button and the forehead digital thermometer will deliver accurate temperature instantly within 1 second. Non Contact Body Infrared Thermometer: No skin contact required when using this thermometer. Effectively prevent cross infection and bring the best care for your family. Multi-Function Thermometer: All in one design for all ages, adults, infants and elders, this thermometer not only supports forehead or ear reading, but also can take room/object temperature, such as water, milk , food temperature and so on. Intelligent Fever Indicator& °C/°F Switchable: Equipped with fever warning system, the thermometer for fever will indicate and beeps 3 times. Farenheit/Celsius are easily switchable. Reading Memory: Stores previous readings to track the change of body temperature. backlit LCD screen and mute function won't wake up your baby.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "CT88",
+    "item": "DIGITAL THERMOMETER",
+    "image": "assets/img/items/thermo.jpg",
+    "description": "<P>The digital thermometer can quickly and accurately measure your body temperature. LCD display clearly shows the measured value. Beep prompt to remind you when the measurement is complete. The oral/armpit/rectal thermometer is suitable for babies, kids and adults. Safe to use, no broken glass and mercury poisoning anymore</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "SBEE",
+    "item": "SHOE COVERS - PROFESSIONAL - WITH GRIP BOTTOM (50)",
+    "image": "assets/img/items/SBEE.jpeg",
+    "description": "<P>These shoe covers are made from a breathable, cloth-like material perfect for contractors who work in construction, plumbing, heating and air, pest control and other residential service industries needing a low-cost way to help keep their client's floors clean and dirt free. Original ShuBee® shoe covers protect your customers' carpets and floors and are designed to fit over a size 18 work boot for contractors needing larger and more durable shoe covers. The polypropylene top allows for a flexible elastic opening from toe to heel and the polyethylene bottom provides superior traction. Packed 50 pair per box.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "TWD32",
+    "item": "TOUCHLESS WALL HAND SANITIZER DISPENSER - 32 OZ.",
+    "image": "assets/img/items/TWD32.jpg",
+    "description": "<P>This Automatic Foam Sanitizer Dispenser works with all gel, liquid, and foam hand sanitizer products we offer (also great for handsoap). Contents from this dispenser are released in a foam-like substance. Large capacity - 1000ml / 35.2 oz capacity container. Effective sensing distance. Sensor can be used on average more than 30,000 times on standard set of new batteries, This can be mounted on a wall. Includes infrared sensor for fully automatic non-touch operation, not affected by light intensity.  Simply place your hand under the sensor to start the sanitizer dispenser. Effectively avoid germs or infection without making physical contact with dispenser. Suitable for public and private environments. Battery Type - C, 4 - 1.5V batteries required. Batteries not included - also comes with an AC adapter incase the battery option isnt convenient Due to high demand and scarcity of this product, dispenser shape, color, or model may slightly differ to a nearly identical model Capacity 1000ml</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "SAN1GAL",
+    "item": "VIPER HAND SANITIZER - 1 GALLON",
+    "image": "assets/img/items/SAN1GAL.jpg",
+    "description": "<P>Clear gallon jug with flip/squeeze lid. 70% ethanol alcohol base plus vitamin E. Gel.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "DSPRAY",
+    "item": "VIPER 32oz DISINFECTANT SPRAY BOTTLE - HOME & HAND",
+    "image": "assets/img/items/DSPRAY.jpg",
+    "description": "<P>HAND & HOME SANITIZER, Perfect for cleaning surfaces and general sanitizing. Conforms to WHO, FDA, and EN12791 guidance for COVID-19. Alcohol antiseptic 80%. 32oz. Active ingredients: Isopropyl Alcohol 70%....Antisceptic. Inactive ingredients: Filtered water. 1 GALLON REFILL ITEM #SANLIQ1G.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "BLEACH",
+    "item": "GERMICIDAL BLEACH - 1 GALLON",
+    "image": "assets/img/items/BLEACH.jpg",
+    "description": "<P>Ensure that your surfaces are ultra-clean with germicidal ultra bleach. Also approved as a non-food contact sanitizer and laundry sanitizer. Currently approved to kill more than 50 specific germs including C Diff Spore, MRSA, Norovirus, and HBV and HCV. Application: Bleach; Applicable Material: Ceramics; Cement/Concrete; Enamel; Fabric; Glass; Laminate; Metal; Plastic; Chemical Compound: NaOCl; Physical Form: Liquid.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "SAN8",
+    "item": "HAND SANITIZER - 8 OZ. GEL (PUMP BOTTLE)",
+    "image": "assets/img/items/SAN8.png",
+    "description": "<P>Active ingridient: Ethy alcohol 70%  and comes in a 8oz bottle (GEL)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "SAN3",
+    "item": "HAND SANITIZER - 3.3 oz TUBE",
+    "image": "assets/img/items/SAN3.jpg",
+    "description": "<P>CONTAINS ETHYL ALCOHOL - Alcohol based 62% by weight 70% by volume, GENTLE ON HANDS - Infused with Vitamin E and moisturizer to keep hands smooth. KILLS GERMS - Kills up to 99.99% of most common germs without water, POCKET SIZE - Fits anywhere. CAN USE ANYWHERE - Great for home, office, car and on the GO</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "PLSAN2",
+    "item": "HAND SANITIZER - 2oz - LIQUID",
+    "image": "assets/img/items/PLSAN2.jpg",
+    "description": "<P>75% alcohol base plus vitamin E. Liquid (not gel)</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "GF2208",
+    "item": "HAND SANITIZER - KEY CHAIN",
+    "image": "assets/img/items/GF2208.jpg",
+    "description": "<P>1.8 oz Antibacterial Hand Sanitizer Gel w / Carabiner: FDA approved.Keep germs at bay with our antibacterial hand sanitizer. Arrives in a convenient 1.8 oz / 54 ml bottle with a flip top cap and matching carabiner. Great for health clinics or anyone on the go. Colors vary. 62% ethyl alcohol content.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "AWIPE50",
+    "item": "ALCOHOL HAND SANITIZER WIPE - 50PC",
+    "image": "assets/img/items/AWIPE50.png",
+    "description": "<P>75% Alcohol Disinfectant Travel Wipes. 75% Alcohol quick dry solution for cleaning & disinfectant wipes for hard surfaces, Eliminates 99.99% of germs that cause illness, these are pre-moistened wipes and Convenient travel size packaging. Secure, sealable lid prevents evaporation</P>"
+  },
+  {
     "class": "1",
     "category": "Viper Products",
     "item_no": "19-SCY20-SA",
