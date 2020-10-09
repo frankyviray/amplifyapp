@@ -96,6 +96,78 @@
     "description": "<P>75% Alcohol Disinfectant Travel Wipes. 75% Alcohol quick dry solution for cleaning & disinfectant wipes for hard surfaces, Eliminates 99.99% of germs that cause illness, these are pre-moistened wipes and Convenient travel size packaging. Secure, sealable lid prevents evaporation</P>"
   },
   {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "CMASK",
+    "item": "RE-USABLE COTTON FACE MASK (NON-MEDICAL)",
+    "image": "assets/img/items/CMASK.jpg",
+    "description": "<P>Feature: Premium Material. This new mouth mask adopts high quality cotton, making it soft and comfortable to your face, very effortless breathable to wear,and it won't induce discomfort. 3 LAYERS. *Colors vary from navy blue, gray and black*. Do not machine dry. These masks are not medical grade N95 masks. They are intended to help slow the spread of human droplets via sneezes, coughs, and normal breathing. Designed according to the CDC's recommended cloth face mask guidelines.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "S630",
+    "item": "DISPOSABLE PROTECTIVE MASK - 3 LAYER (50 PACK)",
+    "image": "assets/img/items/630.jpg",
+    "description": "<P>Multi-layer 3-ply disposable procedural face mask. Fluid-resistant, Pleated Pliable nose piece for best fit. 100% Fiberglass free 3 PLY Non woven material, Latex Free</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "KN95",
+    "item": "DUST MASKS - KN95 - 20 PACK",
+    "image": "assets/img/items/KN95.jpg",
+    "description": "<P>4-PLY NON-WOVEN: 4-Layers of protection include a Non-Woven Inner Layer, Meltblown Filter, Hot Air Cotton Filter, and Non-Woven Outer Shell. FORM FITTING: The flexible nose guard is designed to provide a custom fit to ensure a soft and comfortable fit to reduce skin irritation while the stretchable braided ear bands ensure comfort over long periods of wear time. LIGHTWEIGHT: The vertical folding design and overall lightweight structure make this mask easy to store and carry. PROVIDES MORE PROTECTION: The KN95 is a disposable and breathable mask designed to offer more protection than standard disposable 3-Ply masks.</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "C630",
+    "item": "DISPOSABLE CHILDREN'S MASK - (50 PACK)",
+    "image": "assets/img/items/630.jpg",
+    "description": "<P>7Multi-layer 3-ply disposable procedural face mask. Fluid-resistant, Pleated Pliable nose piece for best fit. 100% Fiberglass free, 3 PLY Non woven material, Latex Free</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "FS481",
+    "item": "FACE SHIELD - DIRECT SPLASH PROTECTION",
+    "image": "assets/img/items/FS481.jpg",
+    "description": "<P>Direct splash face protection also has an adjustable elastic fastener with a soft foam forehead pad, effectively protects you from chemical spills, spits, dust, bacteria and germs</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "FS482",
+    "item": "FACE SHIELD - FULL FACE - ADJUSTABLE HEAD",
+    "image": "assets/img/items/FS482.jpg",
+    "description": "<P>Direct splash face protection also has an adjustable elastic fastener with a soft foam forehead pad, effectively protects you from chemical spills, spits, dust, bacteria and germs</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "S100PK",
+    "item": "SHOE COVER - HOSPITAL GRADE - 100 PACK",
+    "image": "assets/img/items/S100PK.jpg",
+    "description": "<P>Hospital grade shoe covers, it comes 100 in a pack</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "TSBC-24",
+    "item": "BOUFFANT CAP (500 PER BOX)",
+    "image": "assets/img/items/TSBC-24.jpg",
+    "description": "<P>Polypropylene, Bouffant Cap White. These are 21\" wide</P>"
+  },
+  {
+    "class": "0",
+    "category": "Personal Protective Equipment",
+    "item_no": "GOWN",
+    "item": "ISOLATION GOWN - LIQUID PROOF - USA MADE",
+    "image": "assets/img/items/GOWN.jpg",
+    "description": "<P>Tested for compliance with ANSI/AAMI PB70:2012 Minimum Barrier Performance Level 1, Level 2, and Level 3 requirements, Easy to put on and take off. Gap in end of sleeve for fingers/hand. Long sleeve, full coverage. Made from polyethylene (Vigin LLDPE). Made in USA</P>"
+  },
+  {
     "class": "1",
     "category": "Viper Products",
     "item_no": "19-SCY20-SA",
