@@ -683,7 +683,7 @@
     "class": "1",
     "category": "Viper Products",
     "item_no": "75-5625D-JA",
-    "item": "TOOL CHEST COMBO- 56\" - 19 DRAWER VIPER",
+    "item": "TOOL CHEST COMBO- 56\" - 19 DRAWER",
     "image": "assets/img/items/5625D.jpg",
     "description": "<p><li>Heavy Duty Ball Bearing Drawer Slides</li><li>Double Slides on Large Drawers</li><li>All Welded Steel Construction</li><li>Industrial Powder Coat Finish Resists Rust</li><li>Secure Latch Retention System Keeps Drawers Closed</li><li>Heavy Duty 6\" shock absorbing casters, 2 Locking Swivel and 2 fixed</li><li>Non-Slip pre-cut drawer linders in all drawers</li><li>Barrel Lock to keep your Tools safe and secure</li><li>Size: 56\" L x 65\" H x 22\" W</li></p>"
   },
@@ -691,15 +691,15 @@
     "class": "1",
     "category": "Viper Products",
     "item_no": "75-600BK-JA",
-    "item": "TOOL CART - 5 DRAWER VIPER",
+    "item": "TOOL CART - 5 DRAWER",
     "image": "assets/img/items/600BK2.png",
-    "description": "<p>This rugged shop tool cart is constructed of heavy gauge steel with a glossy black finished and is made exclusively for Ace Industrial Supply under our Viper label.</p><p1>It features 5 easy-glide drawers with heavy duty ball bearings. It also has (4) heavy duty 5\" x 2\" casters with swivels and two equipped with locking brakes. It measures 30\" W x 19\" D x 41\" H.</p1><br><b>Specifications:</b></br><li>5 Drawers with heavy duty ball bearings</li><li>Heavy Duty 5\" x 2\" casters</li><li>30\" W x 19\" D x 41\" H</li><li>Weight: 140 lbs.</li><li>Capacity: 700 lbs.</li></p>"
+    "description": "<p>This rugged shop tool cart is constructed of heavy gauge steel with a glossy black finished and is made exclusively for Ace Industrial Supply.</p><p1>It features 5 easy-glide drawers with heavy duty ball bearings. It also has (4) heavy duty 5\" x 2\" casters with swivels and two equipped with locking brakes. It measures 30\" W x 19\" D x 41\" H.</p1><br><b>Specifications:</b></br><li>5 Drawers with heavy duty ball bearings</li><li>Heavy Duty 5\" x 2\" casters</li><li>30\" W x 19\" D x 41\" H</li><li>Weight: 140 lbs.</li><li>Capacity: 700 lbs.</li></p>"
   },
   {
     "class": "1",
     "category": "Viper Products",
     "item_no": "75-8018B-JA",
-    "item": "TOOL CHEST - 72\" DRAWER VIPER - ROLLER",
+    "item": "TOOL CHEST - 72\" DRAWER - ROLLER",
     "image": "assets/img/items/8018B.jpg",
     "description": "<p><li>Heavy Duty Ball Bearing Drawer Slides</li><li>Double slides on large drawers</li><li>All Welded Steel Construction</li><li>Industrial Powder Coat Finish Resists Rust</li><li>Secure Latch Retention System Keeps Drawers Closed</li><li>Heavy Duty 6\". Shock abosorbing casters, 2 locking swivel and 2 fixed</li><li>Non-Slip pre-cut drawer linders in all drawers</li><li>Barrel Lock to keep your Tools safe and secure</li><li>Size: 72\" L x 44\" H x 22\" W</li><li>6,500 weight capacity</li><Tool Chest weight: 550 lbs.</li></p>"
   },
@@ -707,23 +707,23 @@
     "class": "1",
     "category": "Viper Products",
     "item_no": "75-TBG36-JA",
-    "item": "JOBSITE BOX - 36\" VIPER",
+    "item": "JOBSITE BOX - 36\"",
     "image": "assets/img/items/TBG48.jpg",
-    "description": "<p>These heavy duty jobsite boxes are made exclusively for Ace Industrial Supply under our Viper label. They are constructed of heavy reinforced steel with a rust resistant black powder coating. Recessed padlock inlets help you secure the box contents.</p><p1>These boxes are great for secure storage of tools, equipment and other items that need to be left at the job site.</p1><li>Size: 36\" L x 21\" H x 17\" W</li><li>Weight: 88lbs.</li><p>"
+    "description": "<p>These heavy duty jobsite boxes are made exclusively for Ace Industrial Supply. They are constructed of heavy reinforced steel with a rust resistant black powder coating. Recessed padlock inlets help you secure the box contents.</p><p1>These boxes are great for secure storage of tools, equipment and other items that need to be left at the job site.</p1><li>Size: 36\" L x 21\" H x 17\" W</li><li>Weight: 88lbs.</li><p>"
   },
   {
     "class": "1",
     "category": "Viper Products",
     "item_no": "75-TBG48-JA",
-    "item": "JOBSITE BOX - 48\" VIPER",
+    "item": "JOBSITE BOX - 48\"",
     "image": "assets/img/items/TBG48.jpg",
-    "description": "<p>These heavy duty jobsite boxes are made exclusively for Ace Industrial Supply under our Viper label. They are constructed of heavy reinforced steel with a rust resistant black powder coating. Recessed padlock inlets help you secure the box contents.</p><p1>These boxes are great for secure storage of tools, equipment and other items that need to be left at the job site.</p1><li>Size: 48\" L x 28\" H x 24\" W</li><li>Weight: 148lbs.</li><p>"
+    "description": "<p>These heavy duty jobsite boxes are made exclusively for Ace Industrial Supply. They are constructed of heavy reinforced steel with a rust resistant black powder coating. Recessed padlock inlets help you secure the box contents.</p><p1>These boxes are great for secure storage of tools, equipment and other items that need to be left at the job site.</p1><li>Size: 48\" L x 28\" H x 24\" W</li><li>Weight: 148lbs.</li><p>"
   },
   {
     "class": "1",
     "category": "Viper Products",
     "item_no": "75-26TB",
-    "item": "PORTABLE VIPER TOOL BOX 26\"",
+    "item": "PORTABLE TOOL BOX 26\"",
     "image": "assets/img/items/75-26TB.jpg",
     "description": "<p></p>"
   },
@@ -731,7 +731,7 @@
     "class": "1",
     "category": "Viper Products",
     "item_no": "75-3DTB",
-    "item": "21\" PORTABLE 3 DRAWER VIPER TOOL BOX",
+    "item": "21\" PORTABLE 3 DRAWER TOOL BOX",
     "image": "assets/img/items/75-3DRTB.jpg",
     "description": "<p></p>"
   },
@@ -37483,7 +37483,7 @@
     "class": "75",
     "category": "Tool Storage",
     "item_no": "75-5625D-JA",
-    "item": "TOOL CHEST COMBO- 56\" - 19 DRAWER VIPER",
+    "item": "TOOL CHEST COMBO- 56\" - 19 DRAWER",
     "image": "assets/img/items/5625D.jpg",
     "description": "<p><li>Heavy Duty Ball Bearing Drawer Slides</li><li>Double Slides on Large Drawers</li><li>All Welded Steel Construction</li><li>Industrial Powder Coat Finish Resists Rust</li><li>Secure Latch Retention System Keeps Drawers Closed</li><li>Heavy Duty 6\" shock absorbing casters, 2 Locking Swivel and 2 fixed</li><li>Non-Slip pre-cut drawer linders in all drawers</li><li>Barrel Lock to keep your Tools safe and secure</li><li>Size: 56\" L x 65\" H x 22\" W</li></p>"
   },
@@ -37491,15 +37491,15 @@
     "class": "75",
     "category": "Tool Storage",
     "item_no": "75-600BK-JA",
-    "item": "TOOL CART - 5 DRAWER VIPER",
+    "item": "TOOL CART - 5 DRAWER",
     "image": "assets/img/items/600BK2.png",
-    "description": "<p>This rugged shop tool cart is constructed of heavy gauge steel with a glossy black finished and is made exclusively for Ace Industrial Supply under our Viper label.</p><p1>It features 5 easy-glide drawers with heavy duty ball bearings. It also has (4) heavy duty 5\" x 2\" casters with swivels and two equipped with locking brakes. It measures 30\" W x 19\" D x 41\" H.</p1><br><b>Specifications:</b></br><li>5 Drawers with heavy duty ball bearings</li><li>Heavy Duty 5\" x 2\" casters</li><li>30\" W x 19\" D x 41\" H</li><li>Weight: 140 lbs.</li><li>Capacity: 700 lbs.</li></p>"
+    "description": "<p>This rugged shop tool cart is constructed of heavy gauge steel with a glossy black finished and is made exclusively for Ace Industrial Supply.</p><p1>It features 5 easy-glide drawers with heavy duty ball bearings. It also has (4) heavy duty 5\" x 2\" casters with swivels and two equipped with locking brakes. It measures 30\" W x 19\" D x 41\" H.</p1><br><b>Specifications:</b></br><li>5 Drawers with heavy duty ball bearings</li><li>Heavy Duty 5\" x 2\" casters</li><li>30\" W x 19\" D x 41\" H</li><li>Weight: 140 lbs.</li><li>Capacity: 700 lbs.</li></p>"
   },
   {
     "class": "75",
     "category": "Tool Storage",
     "item_no": "75-8018B-JA",
-    "item": "TOOL CHEST - 72\" DRAWER VIPER - ROLLER",
+    "item": "TOOL CHEST - 72\" DRAWER - ROLLER",
     "image": "assets/img/items/8018B.jpg",
     "description": "<p><li>Heavy Duty Ball Bearing Drawer Slides</li><li>Double slides on large drawers</li><li>All Welded Steel Construction</li><li>Industrial Powder Coat Finish Resists Rust</li><li>Secure Latch Retention System Keeps Drawers Closed</li><li>Heavy Duty 6\". Shock abosorbing casters, 2 locking swivel and 2 fixed</li><li>Non-Slip pre-cut drawer linders in all drawers</li><li>Barrel Lock to keep your Tools safe and secure</li><li>Size: 72\" L x 44\" H x 22\" W</li><li>6,500 weight capacity</li><Tool Chest weight: 550 lbs.</li></p>"
   },
@@ -37507,23 +37507,23 @@
     "class": "75",
     "category": "Tool Storage",
     "item_no": "75-TBG36-JA",
-    "item": "JOBSITE BOX - 36\" VIPER",
+    "item": "JOBSITE BOX - 36\"",
     "image": "assets/img/items/TBG48.jpg",
-    "description": "<p>These heavy duty jobsite boxes are made exclusively for Ace Industrial Supply under our Viper label. They are constructed of heavy reinforced steel with a rust resistant black powder coating. Recessed padlock inlets help you secure the box contents.</p><p1>These boxes are great for secure storage of tools, equipment and other items that need to be left at the job site.</p1><li>Size: 36\" L x 21\" H x 17\" W</li><li>Weight: 88lbs.</li><p>"
+    "description": "<p>These heavy duty jobsite boxes are made exclusively for Ace Industrial Supply. They are constructed of heavy reinforced steel with a rust resistant black powder coating. Recessed padlock inlets help you secure the box contents.</p><p1>These boxes are great for secure storage of tools, equipment and other items that need to be left at the job site.</p1><li>Size: 36\" L x 21\" H x 17\" W</li><li>Weight: 88lbs.</li><p>"
   },
   {
     "class": "75",
     "category": "Tool Storage",
     "item_no": "75-TBG48-JA",
-    "item": "JOBSITE BOX - 48\" VIPER",
+    "item": "JOBSITE BOX - 48\"",
     "image": "assets/img/items/TBG48.jpg",
-    "description": "<p>These heavy duty jobsite boxes are made exclusively for Ace Industrial Supply under our Viper label. They are constructed of heavy reinforced steel with a rust resistant black powder coating. Recessed padlock inlets help you secure the box contents.</p><p1>These boxes are great for secure storage of tools, equipment and other items that need to be left at the job site.</p1><li>Size: 48\" L x 28\" H x 24\" W</li><li>Weight: 148lbs.</li><p>"
+    "description": "<p>These heavy duty jobsite boxes are made exclusively for Ace Industrial Supply. They are constructed of heavy reinforced steel with a rust resistant black powder coating. Recessed padlock inlets help you secure the box contents.</p><p1>These boxes are great for secure storage of tools, equipment and other items that need to be left at the job site.</p1><li>Size: 48\" L x 28\" H x 24\" W</li><li>Weight: 148lbs.</li><p>"
   },
   {
     "class": "75",
     "category": "Tool Storage",
     "item_no": "75-26TB",
-    "item": "PORTABLE VIPER TOOL BOX 26\"",
+    "item": "PORTABLE TOOL BOX 26\"",
     "image": "assets/img/items/75-26TB.jpg",
     "description": "<p></p>"
   },
@@ -37531,7 +37531,7 @@
     "class": "75",
     "category": "Tool Storage",
     "item_no": "75-3DTB",
-    "item": "21\" PORTABLE 3 DRAWER VIPER TOOL BOX",
+    "item": "21\" PORTABLE 3 DRAWER TOOL BOX",
     "image": "assets/img/items/75-3DRTB.jpg",
     "description": "<p></p>"
   },
